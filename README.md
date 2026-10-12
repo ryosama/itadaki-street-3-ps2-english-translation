@@ -98,6 +98,8 @@ python -X utf8 tools/build_current.py --iso 'C:\path\to\original.iso'
 
 Private extracted originals and patched resource copies are written only to ignored `work/`; **no ISO is written**. See the development guide before editing recipes or running historical scripts.
 
+The baseline was also reconstructed successfully from a fresh Git clone; see [the validation record](docs/VALIDATION.md).
+
 ## Credits and project status
 
 Project owner, edited title artwork, screenshots and runtime testing: **ryosama**. Reverse engineering, translation drafts, tooling and documentation were developed collaboratively with **OpenAI Codex**; human review and testing remain important.
