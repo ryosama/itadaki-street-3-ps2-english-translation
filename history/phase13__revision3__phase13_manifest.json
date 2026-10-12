@@ -1,0 +1,969 @@
+{
+  "source_sha256": "d6d1ad76f990c1af99e6c3c1431092e375c308d80be99b2f5bfe8c51a5f545e5",
+  "base_sha256": "a388e2810de478dc3da6df6ba8fa9e30ae360dc89a72e1405b51573281275515",
+  "patched_sha256": "5421225c2712dd1fedfc69e1fe1659031a4bd4b601ccccab30167aeb493d8504",
+  "patches": [
+    {
+      "kind": "ui",
+      "offset": 3541384,
+      "capacity": 72,
+      "japanese": "あなたの お名前を\n自分の つかう\nアナログコントローラで\n教えてください。",
+      "english": "Tell me your\nname using\nyour own\ncontroller.",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3545976,
+      "capacity": 9,
+      "japanese": "%s　　%s",
+      "english": "%s  %s",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3545992,
+      "capacity": 11,
+      "japanese": "優勝:---回",
+      "english": "Wins:---",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3546008,
+      "capacity": 10,
+      "japanese": "勝率:----",
+      "english": "W/R:----",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3546024,
+      "capacity": 11,
+      "japanese": "優勝:%3d回",
+      "english": "Wins:%3d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3546040,
+      "capacity": 13,
+      "japanese": "勝率:%d.%d%d",
+      "english": "W/R:%d.%d%d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3546056,
+      "capacity": 10,
+      "japanese": "ランク:%s",
+      "english": "Rank:%s",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3553944,
+      "capacity": 9,
+      "japanese": "----くん",
+      "english": "----",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3553960,
+      "capacity": 12,
+      "japanese": "総合:  --位",
+      "english": "Place: --",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3553976,
+      "capacity": 12,
+      "japanese": "試合数:----",
+      "english": "Games:----",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3553992,
+      "capacity": 12,
+      "japanese": "勝ち点: ---",
+      "english": "Points:---",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554008,
+      "capacity": 11,
+      "japanese": "勝率: ----",
+      "english": "Rate: ----",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554024,
+      "capacity": 13,
+      "japanese": "強さランク:-",
+      "english": "Rank:-",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554040,
+      "capacity": 12,
+      "japanese": "優勝:----回",
+      "english": "Wins:----",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554056,
+      "capacity": 11,
+      "japanese": "2位:----回",
+      "english": "2nd:----",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554072,
+      "capacity": 11,
+      "japanese": "3位:----回",
+      "english": "3rd:----",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554088,
+      "capacity": 11,
+      "japanese": "4位:----回",
+      "english": "4th:----",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554104,
+      "capacity": 13,
+      "japanese": "総合:  %2d位",
+      "english": "Place: %2d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554120,
+      "capacity": 11,
+      "japanese": "試合数:%4d",
+      "english": "Games:%4d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554136,
+      "capacity": 14,
+      "japanese": "勝ち点: %d.%d",
+      "english": "Points:%d.%d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554152,
+      "capacity": 13,
+      "japanese": "勝率:  %d.%d",
+      "english": "Rate: %d.%d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554168,
+      "capacity": 14,
+      "japanese": "強さランク:%c",
+      "english": "Rank:%c",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554184,
+      "capacity": 11,
+      "japanese": "優勝:%4d回",
+      "english": "Wins:%4d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554200,
+      "capacity": 10,
+      "japanese": "2位:%4d回",
+      "english": "2nd:%4d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554216,
+      "capacity": 10,
+      "japanese": "3位:%4d回",
+      "english": "3rd:%4d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554232,
+      "capacity": 10,
+      "japanese": "4位:%4d回",
+      "english": "4th:%4d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554248,
+      "capacity": 16,
+      "japanese": "つよさランク %c",
+      "english": "Skill rank %c",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554288,
+      "capacity": 15,
+      "japanese": "勝ち点 %d.%d点",
+      "english": "Points %d.%d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554304,
+      "capacity": 14,
+      "japanese": "勝率  %d.%d%d",
+      "english": "Rate %d.%d%d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3554320,
+      "capacity": 14,
+      "japanese": "育成レベル%3d",
+      "english": "Training %3d",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3573912,
+      "capacity": 17,
+      "japanese": "西園寺　さくらこ",
+      "english": "Sakurako",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3573936,
+      "capacity": 25,
+      "japanese": "英国育ちのスーパーお嬢様",
+      "english": "UK-raised heiress",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3573968,
+      "capacity": 16,
+      "japanese": "田園調布",
+      "english": "Denenchofu",
+      "consumed_alignment_padding": 2
+    },
+    {
+      "kind": "opponent",
+      "offset": 3573984,
+      "capacity": 9,
+      "japanese": "女子大生",
+      "english": "Student",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574000,
+      "capacity": 13,
+      "japanese": "生け花　乗馬",
+      "english": "Flowers/ride",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574016,
+      "capacity": 9,
+      "japanese": "さくらこ",
+      "english": "Sakurako",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574032,
+      "capacity": 29,
+      "japanese": "タイムスリップした　くのいち",
+      "english": "Time-travel ninja",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574064,
+      "capacity": 9,
+      "japanese": "伊賀の里",
+      "english": "Iga",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574080,
+      "capacity": 25,
+      "japanese": "ファーストフードのバイト",
+      "english": "Fast food",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574112,
+      "capacity": 9,
+      "japanese": "諜報活動",
+      "english": "Spying",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574128,
+      "capacity": 13,
+      "japanese": "今井　あゆみ",
+      "english": "Ayumi Imai",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574144,
+      "capacity": 21,
+      "japanese": "飛び級制度採用の天才",
+      "english": "Grade-skip genius",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574168,
+      "capacity": 10,
+      "japanese": "高校3年生",
+      "english": "HS senior",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574184,
+      "capacity": 15,
+      "japanese": "テディベア収集",
+      "english": "Teddy bears",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574200,
+      "capacity": 16,
+      "japanese": "霧崎　レイ",
+      "english": "Rei Kirisaki",
+      "consumed_alignment_padding": 2
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574216,
+      "capacity": 23,
+      "japanese": "日本一の腕を持つ外科医",
+      "english": "Top JP surgeon",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574240,
+      "capacity": 13,
+      "japanese": "切り刻むこと",
+      "english": "Slicing",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574256,
+      "capacity": 17,
+      "japanese": "ガンダーラようこ",
+      "english": "G. Yoko",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574280,
+      "capacity": 25,
+      "japanese": "裏ガンダーラ流占星術家元",
+      "english": "Astrology master",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574312,
+      "capacity": 9,
+      "japanese": "ヒマラヤ",
+      "english": "Himalaya",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574328,
+      "capacity": 16,
+      "japanese": "インド舞踊",
+      "english": "Indian dance",
+      "consumed_alignment_padding": 2
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574344,
+      "capacity": 15,
+      "japanese": "四文字　伏次郎",
+      "english": "F. Shimonji",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574360,
+      "capacity": 29,
+      "japanese": "変身すると強くなるスゴイヤツ",
+      "english": "Morphing hero",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574392,
+      "capacity": 21,
+      "japanese": "正義のヒーロー(自称)",
+      "english": "Hero (claims)",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574416,
+      "capacity": 17,
+      "japanese": "変身　パトロール",
+      "english": "Morph/patrol",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574440,
+      "capacity": 9,
+      "japanese": "シモンジ",
+      "english": "Shimonji",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574456,
+      "capacity": 13,
+      "japanese": "薪　くろうど",
+      "english": "Kuroudo Maki",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574472,
+      "capacity": 25,
+      "japanese": "仮面に激情を隠す舞台役者",
+      "english": "Masked actor",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574504,
+      "capacity": 16,
+      "japanese": "能面作り",
+      "english": "Noh masks",
+      "consumed_alignment_padding": 1
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574520,
+      "capacity": 9,
+      "japanese": "くろうど",
+      "english": "Kuroudo",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574536,
+      "capacity": 17,
+      "japanese": "ツータンカーメン",
+      "english": "Tutankhamen",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574560,
+      "capacity": 23,
+      "japanese": "棺の中から今蘇る古代人",
+      "english": "Revived ancient",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574584,
+      "capacity": 9,
+      "japanese": "エジプト",
+      "english": "Egypt",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574600,
+      "capacity": 13,
+      "japanese": "スカラベ収集",
+      "english": "Scarabs",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574616,
+      "capacity": 9,
+      "japanese": "ツータン",
+      "english": "Tutan",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574648,
+      "capacity": 12,
+      "japanese": "作られて5年",
+      "english": "5y old",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574664,
+      "capacity": 27,
+      "japanese": "いたスト用に開発されたロボ",
+      "english": "FS-built robot",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574696,
+      "capacity": 21,
+      "japanese": "種子島いたスト研究所",
+      "english": "Tanega. lab",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574720,
+      "capacity": 19,
+      "japanese": "いただきストリート",
+      "english": "Fortune St.",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574744,
+      "capacity": 17,
+      "japanese": "ドラゴンクエスト",
+      "english": "Dragon Quest",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574768,
+      "capacity": 15,
+      "japanese": "経済怪獣カブラ",
+      "english": "Kabura",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574784,
+      "capacity": 29,
+      "japanese": "学術名エコノミカブカイノドン",
+      "english": "Economikabuk...",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574816,
+      "capacity": 10,
+      "japanese": "地下5000m",
+      "english": "5km deep",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574832,
+      "capacity": 9,
+      "japanese": "経済活動",
+      "english": "Business",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574848,
+      "capacity": 17,
+      "japanese": "経済新聞を食べる",
+      "english": "Eats papers",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574872,
+      "capacity": 9,
+      "japanese": "ネコブロ",
+      "english": "Nekobro",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574888,
+      "capacity": 20,
+      "japanese": "三者三様　ネコ3兄弟",
+      "english": "Three cat bros",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574912,
+      "capacity": 16,
+      "japanese": "ネコ集会",
+      "english": "Cat meets",
+      "consumed_alignment_padding": 1
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574928,
+      "capacity": 16,
+      "japanese": "アジ演説",
+      "english": "Agitating",
+      "consumed_alignment_padding": 1
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574944,
+      "capacity": 17,
+      "japanese": "イケス家　サバ吉",
+      "english": "Sabakichi",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574968,
+      "capacity": 21,
+      "japanese": "人間の言葉を話すサバ",
+      "english": "Talking mackerel",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3574992,
+      "capacity": 9,
+      "japanese": "新潟近海",
+      "english": "Niigata",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3575008,
+      "capacity": 11,
+      "japanese": "マハラジャ",
+      "english": "Maharaja",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3575024,
+      "capacity": 17,
+      "japanese": "マークエンジェル",
+      "english": "Mark Angel",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3575048,
+      "capacity": 13,
+      "japanese": "ホリデーモン",
+      "english": "Holidaymon",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3575064,
+      "capacity": 11,
+      "japanese": "おねえさん",
+      "english": "Miss Tutor",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3575080,
+      "capacity": 11,
+      "japanese": "おにいさん",
+      "english": "Mr. Tutor",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3904576,
+      "capacity": 5,
+      "japanese": "優勝",
+      "english": "Wins",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3905040,
+      "capacity": 7,
+      "japanese": "未登録",
+      "english": "Empty",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3905816,
+      "capacity": 8,
+      "japanese": "出身:%s",
+      "english": "Home:%s",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3905824,
+      "capacity": 8,
+      "japanese": "仕事:%s",
+      "english": "Job:%s",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3905832,
+      "capacity": 8,
+      "japanese": "趣味:%s",
+      "english": "Like:%s",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3906008,
+      "capacity": 7,
+      "japanese": "未登録",
+      "english": "Empty",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3906032,
+      "capacity": 5,
+      "japanese": "優勝",
+      "english": "Wins",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "ui",
+      "offset": 3906136,
+      "capacity": 7,
+      "japanese": "勝ち点",
+      "english": "Points",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906696,
+      "capacity": 5,
+      "japanese": "22才",
+      "english": "22y",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906712,
+      "capacity": 8,
+      "japanese": "つらら",
+      "english": "Tsurara",
+      "consumed_alignment_padding": 1
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906720,
+      "capacity": 5,
+      "japanese": "15才",
+      "english": "15y",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906736,
+      "capacity": 5,
+      "japanese": "12才",
+      "english": "12y",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906744,
+      "capacity": 8,
+      "japanese": "札幌",
+      "english": "Sapporo",
+      "consumed_alignment_padding": 3
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906768,
+      "capacity": 5,
+      "japanese": "27才",
+      "english": "27y",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906776,
+      "capacity": 8,
+      "japanese": "横浜",
+      "english": "Yokoh.",
+      "consumed_alignment_padding": 2
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906784,
+      "capacity": 8,
+      "japanese": "女医",
+      "english": "Doctor",
+      "consumed_alignment_padding": 2
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906800,
+      "capacity": 5,
+      "japanese": "29才",
+      "english": "29y",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906808,
+      "capacity": 7,
+      "japanese": "占い師",
+      "english": "Seer",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906824,
+      "capacity": 7,
+      "japanese": "ようこ",
+      "english": "Yoko",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906832,
+      "capacity": 5,
+      "japanese": "33才",
+      "english": "33y",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906840,
+      "capacity": 8,
+      "japanese": "福岡",
+      "english": "Fukuoka",
+      "consumed_alignment_padding": 3
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906848,
+      "capacity": 5,
+      "japanese": "23才",
+      "english": "23y",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906856,
+      "capacity": 8,
+      "japanese": "京都",
+      "english": "Kyoto",
+      "consumed_alignment_padding": 1
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906864,
+      "capacity": 7,
+      "japanese": "狂言師",
+      "english": "Kyogen",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906872,
+      "capacity": 4,
+      "japanese": "?才",
+      "english": "?y",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906880,
+      "capacity": 7,
+      "japanese": "ミイラ",
+      "english": "Mummy",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906888,
+      "capacity": 4,
+      "japanese": "1才",
+      "english": "1y",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906904,
+      "capacity": 7,
+      "japanese": "カブラ",
+      "english": "Kabura",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906912,
+      "capacity": 7,
+      "japanese": "橋の下",
+      "english": "Bridge",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906920,
+      "capacity": 5,
+      "japanese": "板前",
+      "english": "Chef",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906928,
+      "capacity": 5,
+      "japanese": "演歌",
+      "english": "Enka",
+      "consumed_alignment_padding": 0
+    },
+    {
+      "kind": "opponent",
+      "offset": 3906936,
+      "capacity": 7,
+      "japanese": "サバ仝",
+      "english": "Saba",
+      "consumed_alignment_padding": 0
+    }
+  ],
+  "counts": {
+    "ui": 38,
+    "opponent": 81
+  },
+  "code_changes": 0,
+  "previous_version": "phase12/revision1",
+  "profile_pointer_table_unchanged": true,
+  "title_and_maps_preserved": true,
+  "runtime_test": "pending",
+  "screenshots_reviewed": 14
+}

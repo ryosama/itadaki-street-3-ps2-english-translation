@@ -1,0 +1,766 @@
+{
+  "source_sha256": "d6d1ad76f990c1af99e6c3c1431092e375c308d80be99b2f5bfe8c51a5f545e5",
+  "base_sha256": "9e54f6208f4571ca649bcdda3fb48d18f23b11aa2af2dedb0bcd141748a2c4cc",
+  "patched_sha256": "a388e2810de478dc3da6df6ba8fa9e30ae360dc89a72e1405b51573281275515",
+  "counts": {
+    "map_title": 31,
+    "ui": 23,
+    "tutor": 53
+  },
+  "patches": [
+    {
+      "kind": "map_title",
+      "offset": 1863424,
+      "capacity": 32,
+      "japanese": "右半球",
+      "english": "Right Half"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863468,
+      "capacity": 32,
+      "japanese": "ソフィーの洞窟",
+      "english": "Sophie Cave"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863512,
+      "capacity": 32,
+      "japanese": "おかしのくに",
+      "english": "Candyland"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863556,
+      "capacity": 32,
+      "japanese": "マーメイドシティ",
+      "english": "Mermaid City"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863600,
+      "capacity": 32,
+      "japanese": "スペースカフェ",
+      "english": "Space Cafe"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863644,
+      "capacity": 32,
+      "japanese": "レインフォレスト",
+      "english": "Rainforest"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863688,
+      "capacity": 32,
+      "japanese": "ムーンライトクルーズ",
+      "english": "Moon Cruise"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863732,
+      "capacity": 32,
+      "japanese": "回転寿司",
+      "english": "Sushi Loop"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863776,
+      "capacity": 32,
+      "japanese": "ジパング",
+      "english": "Zipang"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863820,
+      "capacity": 32,
+      "japanese": "ホラーハウス",
+      "english": "Horror House"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863864,
+      "capacity": 32,
+      "japanese": "クロス",
+      "english": "Cross"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863908,
+      "capacity": 32,
+      "japanese": "まちゅぴちゅ",
+      "english": "Machu Picchu"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863952,
+      "capacity": 32,
+      "japanese": "マハラタ諸島",
+      "english": "Maharata Is."
+    },
+    {
+      "kind": "map_title",
+      "offset": 1863996,
+      "capacity": 32,
+      "japanese": "レイクマウンテン",
+      "english": "Lake Mtn"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864040,
+      "capacity": 32,
+      "japanese": "クローバランド",
+      "english": "Cloverland"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864084,
+      "capacity": 32,
+      "japanese": "ムーンシティー",
+      "english": "Moon City"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864128,
+      "capacity": 32,
+      "japanese": "摩天楼",
+      "english": "Skyscrapers"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864172,
+      "capacity": 32,
+      "japanese": "ドリームワールド",
+      "english": "Dream World"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864216,
+      "capacity": 32,
+      "japanese": "フリーウェイ",
+      "english": "Freeway"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864260,
+      "capacity": 32,
+      "japanese": "海底都市",
+      "english": "Sea City"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864304,
+      "capacity": 32,
+      "japanese": "カジノタウン",
+      "english": "Casino Town"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864348,
+      "capacity": 32,
+      "japanese": "日本列島",
+      "english": "Japan"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864392,
+      "capacity": 32,
+      "japanese": "アメリカ大陸",
+      "english": "America"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864436,
+      "capacity": 32,
+      "japanese": "宇宙星雲",
+      "english": "Nebula"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864480,
+      "capacity": 32,
+      "japanese": "スペースコロニー",
+      "english": "Space Colony"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864524,
+      "capacity": 32,
+      "japanese": "クイーンバニー",
+      "english": "Queen Bunny"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864568,
+      "capacity": 32,
+      "japanese": "原始時代",
+      "english": "Prehistory"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864612,
+      "capacity": 32,
+      "japanese": "浮遊大陸",
+      "english": "Float Land"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864656,
+      "capacity": 32,
+      "japanese": "呪いの館",
+      "english": "Cursed Manor"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864700,
+      "capacity": 32,
+      "japanese": "サパタのちじょうえ",
+      "english": "Sapata Lines"
+    },
+    {
+      "kind": "map_title",
+      "offset": 1864744,
+      "capacity": 32,
+      "japanese": "たいようけい",
+      "english": "Solar System"
+    },
+    {
+      "kind": "ui",
+      "offset": 3169824,
+      "capacity": 9,
+      "japanese": "ラッキー",
+      "english": "Lucky"
+    },
+    {
+      "kind": "ui",
+      "offset": 3460576,
+      "capacity": 11,
+      "japanese": "しゅうかい",
+      "english": "Lap"
+    },
+    {
+      "kind": "ui",
+      "offset": 3460592,
+      "capacity": 9,
+      "japanese": "ごうけい",
+      "english": "Net"
+    },
+    {
+      "kind": "ui",
+      "offset": 3460608,
+      "capacity": 9,
+      "japanese": "みせかず",
+      "english": "Shops"
+    },
+    {
+      "kind": "ui",
+      "offset": 3460624,
+      "capacity": 9,
+      "japanese": "かぶかず",
+      "english": "Stocks"
+    },
+    {
+      "kind": "ui",
+      "offset": 3460640,
+      "capacity": 12,
+      "japanese": "%2dしゅうめ",
+      "english": "Lap%2d"
+    },
+    {
+      "kind": "ui",
+      "offset": 3460800,
+      "capacity": 9,
+      "japanese": "ラッキー",
+      "english": "Lucky"
+    },
+    {
+      "kind": "ui",
+      "offset": 3461304,
+      "capacity": 10,
+      "japanese": "モノラル\n",
+      "english": "Mono\n"
+    },
+    {
+      "kind": "ui",
+      "offset": 3461320,
+      "capacity": 9,
+      "japanese": "ステレオ",
+      "english": "ST"
+    },
+    {
+      "kind": "ui",
+      "offset": 3461336,
+      "capacity": 12,
+      "japanese": "取り引きON\n",
+      "english": "ON\n"
+    },
+    {
+      "kind": "ui",
+      "offset": 3461352,
+      "capacity": 12,
+      "japanese": "取り引きOFF",
+      "english": "OFF"
+    },
+    {
+      "kind": "ui",
+      "offset": 3516576,
+      "capacity": 9,
+      "japanese": "ラッキー",
+      "english": "Lucky"
+    },
+    {
+      "kind": "ui",
+      "offset": 3538536,
+      "capacity": 9,
+      "japanese": "さんにん",
+      "english": "3"
+    },
+    {
+      "kind": "ui",
+      "offset": 3538672,
+      "capacity": 15,
+      "japanese": "ストリート %s\n",
+      "english": "Map %s\n"
+    },
+    {
+      "kind": "ui",
+      "offset": 3574632,
+      "capacity": 9,
+      "japanese": "イタロー",
+      "english": "Itaro"
+    },
+    {
+      "kind": "ui",
+      "offset": 3589848,
+      "capacity": 57,
+      "japanese": "ラッキーチャンス!!\n他の人の もうけの\n分け前が もらえます",
+      "english": "Lucky chance!\nShare in other\nplayers' fees."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3751544,
+      "capacity": 35,
+      "japanese": "いよいよ 出発ね!\nドキドキしちゃう!",
+      "english": "Time to go!\nI'm excited!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3751584,
+      "capacity": 86,
+      "japanese": "ちなみに はじめのうちは\nとまった場所で\n新しいお店が買えるように\n進んでいくのがベスト!",
+      "english": "Early on, aim\nfor places\nwhere you can\nbuy new shops!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3751672,
+      "capacity": 93,
+      "japanese": "わたしがオススメする\n行き先に オススメマークを\nつけておいて あげるから\nよく見て参考にしてね!",
+      "english": "I'll mark the\nplaces I think\nyou should go.\nLook for them!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3752016,
+      "capacity": 57,
+      "japanese": "そこって……\nわたしが すすめた\n場所じゃ ないんだけどナ。",
+      "english": "That isn't the\nplace I\nrecommended..."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3752200,
+      "capacity": 53,
+      "japanese": "色が ついてないお店は\nまだ 持ち主のいない\nお店です。",
+      "english": "An uncolored\nshop has no\nowner yet."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3752256,
+      "capacity": 55,
+      "japanese": "お金があれば そこを\n買って 自分のお店に\nできちゃうの。",
+      "english": "Have the cash?\nYou can buy it\nand make it\nyours."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3752312,
+      "capacity": 75,
+      "japanese": "たくさん お店があると\nなにかと 有利になるの。\nお店は\n積極的に買いましょう!",
+      "english": "Owning lots of\nshops helps in\nmany ways.\nBuy actively!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3756712,
+      "capacity": 41,
+      "japanese": "メッセージの 表示の速さを\n調節できます。",
+      "english": "Adjust the\nmessage speed\nhere."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3756760,
+      "capacity": 64,
+      "japanese": "最初は 遅めにして\nゲームに なれてきたら\n速くするのが いいかも。",
+      "english": "Start slow.\nSpeed up once\nyou know the\ngame better."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3756824,
+      "capacity": 50,
+      "japanese": "ステレオと モノラルとを\n切り替えることが できます",
+      "english": "Switch between\nstereo and\nmono sound."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3756880,
+      "capacity": 38,
+      "japanese": "あなたのテレビにあわせて\n設定してね。",
+      "english": "Set it to suit\nyour TV."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3756920,
+      "capacity": 84,
+      "japanese": "交換とか 買い取りとか\nほかのひとと 取り引きを\nしたくないときは\nここを OFFにしてね。",
+      "english": "Don't want to\nswap or buy\nothers' shops?\nTurn this OFF."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3757008,
+      "capacity": 45,
+      "japanese": "ちなみに わたしは\nいつも ONで\nやっています。",
+      "english": "I always\nleave it ON."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3761320,
+      "capacity": 82,
+      "japanese": "ここは【ラッキー】と\n呼ばれる場所。\nほかの人が払った買い物料の\n20％を もらえるの!",
+      "english": "This is Lucky!\nYou get 20% of\nfees paid by\nother players!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3761408,
+      "capacity": 33,
+      "japanese": "みなさん どんどん\n買い物 してね!",
+      "english": "Keep shopping,\neveryone!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3761856,
+      "capacity": 60,
+      "japanese": "【ターミナル】にようこそ!\nここから 船に\n乗ることができます!",
+      "english": "Welcome to the\nTerminal! You\ncan board a\nboat here."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3761920,
+      "capacity": 93,
+      "japanese": "乗ったら 残りのサイの目は\nチャラに なっちゃうけど\n決まった場所まで\n自動的に 運んでくれます。",
+      "english": "It takes you\nto a set spot.\nUnused moves\nare lost."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3762016,
+      "capacity": 83,
+      "japanese": "ただし 誰かがここから\n船に乗ると\nその船が 帰ってくるまで\nここからは 乗れなくなるの",
+      "english": "After someone\nboards, no one\nelse can until\nit returns."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3762104,
+      "capacity": 57,
+      "japanese": "船をうまく 乗りこなせば\nかなり有利!\nじょうずに 使ってね!",
+      "english": "Use boats well\nfor an edge!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3770080,
+      "capacity": 54,
+      "japanese": "う～ん。\nそのお店に 増資するのは\nあとまわしに しない?",
+      "english": "Could we wait\nto invest in\nthat shop?"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3782544,
+      "capacity": 88,
+      "japanese": "このマップは 一方通行で\n逃げようがないから\nとにかく 基本に忠実に\nたたかう必要があるわ。",
+      "english": "This board is\none-way. Stick\nto the basics:\nNo escape!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3782632,
+      "capacity": 60,
+      "japanese": "必要なことは そのつど\n教えてあげるから\n注意ぶかく 聞いてね!",
+      "english": "I'll teach you\nwhat you need,\nwhen needed.\nListen well!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3789568,
+      "capacity": 19,
+      "japanese": "あいてて よかった!",
+      "english": "It's for sale!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3796856,
+      "capacity": 83,
+      "japanese": "進む方向を決めるときは\nマップの上に浮かんでる\n▲▼◆■の 4種類の\nマークに注意して!",
+      "english": "When choosing\na route, watch\nfor the four\nsuits above!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3796944,
+      "capacity": 85,
+      "japanese": "4つのマークを そろえて\nいま あなたがいる銀行に\nもどってくれば\nサラリーがもらえるの。",
+      "english": "Get all 4\nsuits, then\nreturn to this\nbank for pay."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3797032,
+      "capacity": 76,
+      "japanese": "最初のうちは\nサラリーでもらうお金は\nとっても大事なの。\nだから ね。わかった?",
+      "english": "Early on, your\nsalary really\nmatters!\nGot it?"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3805568,
+      "capacity": 20,
+      "japanese": "さあ 出発進行だね。",
+      "english": "Let's go!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3805592,
+      "capacity": 98,
+      "japanese": "できるだけ 行った先で\n新しいお店が買えるように\n進むのがベストだけど ま\nくわしい話はあとにしよう。",
+      "english": "Aim for places\nwhere you can\nbuy new shops.\nMore later!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3805696,
+      "capacity": 83,
+      "japanese": "ぼくがオススメする\n行き先にはオススメマークを\nつけておくから\nよく見て進んでくれよ!",
+      "english": "I'll mark the\nplaces I think\nyou should go.\nLook for them!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3805960,
+      "capacity": 26,
+      "japanese": "こらこらー!\n戻りなさーい!",
+      "english": "Hey! Come back\nhere!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3806104,
+      "capacity": 78,
+      "japanese": "この場所のように\nまだ 持ち主がいないお店は\nお金を払って\n買うことが できるよ。",
+      "english": "No owner yet?\nYou can pay to\nbuy this shop."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3806184,
+      "capacity": 88,
+      "japanese": "そして あとでここに\nほかの人が止まったときは\nその人から 買い物料を\nもらうことができる。",
+      "english": "Later, when a\nrival lands\nhere, you get\nthe shop fee."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3806272,
+      "capacity": 66,
+      "japanese": "お金に余裕があるときは\nよほど高いお店以外は\n積極的に買うといいよ!",
+      "english": "If cash allows\nbuy actively,\nexcept really\npricey shops!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3810736,
+      "capacity": 72,
+      "japanese": "ここでは\n画面に表示するメッセージの\nスピードを\n調節することができるよ。",
+      "english": "Adjust the\nspeed of the\nmessages shown\non screen."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3810808,
+      "capacity": 99,
+      "japanese": "メッセージが読みづらいナと\n思う人は 少し遅くすると\nいいね。ぼくの声のスピード\nは変わらないけどね。",
+      "english": "Hard to read?\nSlow the text.\nMy voice won't\nslow down!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3810912,
+      "capacity": 57,
+      "japanese": "ステレオとモノラルとで\n音声のモードを\n切り替えられるよ。",
+      "english": "Choose stereo\nor mono sound\nhere."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3810976,
+      "capacity": 105,
+      "japanese": "ただし ここで切り替えても\nモノラルのテレビがステレオ\nになるわけじゃないからね。\n背伸びはしないようにね。",
+      "english": "This can't\nmake a mono TV\nstereo! Don't\noverdo it!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3811088,
+      "capacity": 68,
+      "japanese": "ほかのひとから\n【取り引き】を\n持ちかけられないように\n設定できるよ。",
+      "english": "Use this to\nblock trade\noffers from\nother players."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3811160,
+      "capacity": 85,
+      "japanese": "お店の売り買いなどの\n取り引きはメンドクサイ!\nという人は この設定を\nOFFにしておこう。",
+      "english": "Shop trades\ntoo much work?\nTurn this OFF."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3811248,
+      "capacity": 90,
+      "japanese": "個人的には 取り引きONの\n設定で 遊んでくれたほうが\n教えがいがあって\nうれしいんだけどネ……",
+      "english": "I prefer ON:\ntrading gives\nme more to\nteach you!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3815760,
+      "capacity": 97,
+      "japanese": "このラッキーにいる間は\nほかの人が払った買い物料の\n20％を わけまえとして\nもらうことができるんだ。",
+      "english": "Stay on Lucky\nto get 20% of\nfees paid by\nother players."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3815864,
+      "capacity": 88,
+      "japanese": "自分のお店に誰かが止まれば\n割増しで収入になるから\nなおラッキー!\nさーて うまくいくかな!?",
+      "english": "Your own shops\nbring extra\nfees too!\nWill it work?"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3816376,
+      "capacity": 67,
+      "japanese": "おっ!\n【ターミナル】に来たね!\nここでは 船に\n乗ることが できるんだ!",
+      "english": "A Terminal!\nYou can board\na boat here."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3816448,
+      "capacity": 59,
+      "japanese": "船は 自動的に キミを\n決まった場所まで\n運んでいってくれる。",
+      "english": "The boat takes\nyou to a fixed\ndestination."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3816512,
+      "capacity": 79,
+      "japanese": "そのかわり 船に乗ると\nそれで キミのターンは\nおわりになるから\n気をつけてくれよ!",
+      "english": "Boarding ends\nyour turn, so\nbe careful!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3816592,
+      "capacity": 33,
+      "japanese": "ちなみに 船はすべて\nひとり乗り。",
+      "english": "Boats carry\none person."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3816632,
+      "capacity": 78,
+      "japanese": "だれかが 使うと\nその船が もどるまで\n乗れなくなるんだ。\n船は じょうずに使おう!",
+      "english": "Once used, you\nmust wait for\nit to return.\nUse it well!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3823776,
+      "capacity": 55,
+      "japanese": "おいおい そこって\nぼくが おすすめしたお店と\nちがうよー",
+      "english": "Hey! That shop\nisn't the one\nI recommended!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3833744,
+      "capacity": 59,
+      "japanese": "このマップは\n最初のマップだからって\nあまく見ちゃダメだヨ。",
+      "english": "It's the first\nboard, but\ndon't take it\nlightly!"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3833808,
+      "capacity": 77,
+      "japanese": "基本的に一方通行だから\n目の前に高いお店があっても\n逃げることができないんだ。",
+      "english": "It's one-way:\nyou can't flee\nan expensive\nshop ahead."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3833888,
+      "capacity": 74,
+      "japanese": "作戦としては\nとにかく先手必勝!\n先に高いお店を建てて\n勝利を引きよせるんだ!",
+      "english": "Act first!\nBuild costly\nshops early\nand aim to win"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3841120,
+      "capacity": 57,
+      "japanese": "このエリアの お店を\nもう少し ふやせると\nいいんだけどね。",
+      "english": "A few more of\nthis area's\nshops would\nhelp us."
+    },
+    {
+      "kind": "tutor",
+      "offset": 3848336,
+      "capacity": 72,
+      "japanese": "だから とりあえずは\n▲▼◆■の4つを\nぐるりと回れるように\n進むといいね。",
+      "english": "For now, try\nto pass all\nfour suit\nspaces."
+    },
+    {
+      "kind": "ui",
+      "offset": 3901448,
+      "capacity": 5,
+      "japanese": "目標",
+      "english": "Goal"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901608,
+      "capacity": 8,
+      "japanese": "ふつう\n",
+      "english": "Med\n"
+    },
+    {
+      "kind": "ui",
+      "offset": 3905000,
+      "capacity": 7,
+      "japanese": "ふたり",
+      "english": "2"
+    },
+    {
+      "kind": "ui",
+      "offset": 3905840,
+      "capacity": 7,
+      "japanese": "ひとり",
+      "english": "1"
+    },
+    {
+      "kind": "ui",
+      "offset": 3905848,
+      "capacity": 7,
+      "japanese": "ぜんぶ",
+      "english": "All"
+    },
+    {
+      "kind": "ui",
+      "offset": 3906760,
+      "capacity": 7,
+      "japanese": "あゆみ",
+      "english": "Ayumi"
+    },
+    {
+      "kind": "ui",
+      "offset": 3906792,
+      "capacity": 5,
+      "japanese": "レイ",
+      "english": "Rei"
+    }
+  ],
+  "code_changes": 0,
+  "tutor_pages_total_translated": 149,
+  "tutor_pages_total": 1825,
+  "previous_version": "phase9/revision1",
+  "title_artwork_unchanged": true
+}

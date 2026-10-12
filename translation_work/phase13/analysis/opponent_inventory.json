@@ -1,0 +1,882 @@
+[
+  {
+    "offset": "0x368898",
+    "size": 17,
+    "japanese": "西園寺　さくらこ",
+    "current": "西園寺　さくらこ",
+    "references": [
+      "0x3182e8"
+    ]
+  },
+  {
+    "offset": "0x3688b0",
+    "size": 25,
+    "japanese": "英国育ちのスーパーお嬢様",
+    "current": "英国育ちのスーパーお嬢様",
+    "references": [
+      "0x3182f0"
+    ]
+  },
+  {
+    "offset": "0x3688d0",
+    "size": 9,
+    "japanese": "田園調布",
+    "current": "田園調布",
+    "references": [
+      "0x3182f4"
+    ]
+  },
+  {
+    "offset": "0x3688e0",
+    "size": 9,
+    "japanese": "女子大生",
+    "current": "女子大生",
+    "references": [
+      "0x3182f8"
+    ]
+  },
+  {
+    "offset": "0x3688f0",
+    "size": 13,
+    "japanese": "生け花　乗馬",
+    "current": "生け花　乗馬",
+    "references": [
+      "0x3182fc"
+    ]
+  },
+  {
+    "offset": "0x368900",
+    "size": 9,
+    "japanese": "さくらこ",
+    "current": "さくらこ",
+    "references": [
+      "0x318304"
+    ]
+  },
+  {
+    "offset": "0x368910",
+    "size": 29,
+    "japanese": "タイムスリップした　くのいち",
+    "current": "タイムスリップした　くのいち",
+    "references": [
+      "0x318310"
+    ]
+  },
+  {
+    "offset": "0x368930",
+    "size": 9,
+    "japanese": "伊賀の里",
+    "current": "伊賀の里",
+    "references": [
+      "0x318314"
+    ]
+  },
+  {
+    "offset": "0x368940",
+    "size": 25,
+    "japanese": "ファーストフードのバイト",
+    "current": "ファーストフードのバイト",
+    "references": [
+      "0x318318"
+    ]
+  },
+  {
+    "offset": "0x368960",
+    "size": 9,
+    "japanese": "諜報活動",
+    "current": "諜報活動",
+    "references": [
+      "0x31831c"
+    ]
+  },
+  {
+    "offset": "0x368970",
+    "size": 13,
+    "japanese": "今井　あゆみ",
+    "current": "今井　あゆみ",
+    "references": [
+      "0x318328"
+    ]
+  },
+  {
+    "offset": "0x368980",
+    "size": 21,
+    "japanese": "飛び級制度採用の天才",
+    "current": "飛び級制度採用の天才",
+    "references": [
+      "0x318330"
+    ]
+  },
+  {
+    "offset": "0x368998",
+    "size": 10,
+    "japanese": "高校3年生",
+    "current": "高校3年生",
+    "references": [
+      "0x318338"
+    ]
+  },
+  {
+    "offset": "0x3689a8",
+    "size": 15,
+    "japanese": "テディベア収集",
+    "current": "テディベア収集",
+    "references": [
+      "0x31833c"
+    ]
+  },
+  {
+    "offset": "0x3689b8",
+    "size": 11,
+    "japanese": "霧崎　レイ",
+    "current": "霧崎　レイ",
+    "references": [
+      "0x318348"
+    ]
+  },
+  {
+    "offset": "0x3689c8",
+    "size": 23,
+    "japanese": "日本一の腕を持つ外科医",
+    "current": "日本一の腕を持つ外科医",
+    "references": [
+      "0x318350"
+    ]
+  },
+  {
+    "offset": "0x3689e0",
+    "size": 13,
+    "japanese": "切り刻むこと",
+    "current": "切り刻むこと",
+    "references": [
+      "0x31835c"
+    ]
+  },
+  {
+    "offset": "0x3689f0",
+    "size": 17,
+    "japanese": "ガンダーラようこ",
+    "current": "ガンダーラようこ",
+    "references": [
+      "0x318368"
+    ]
+  },
+  {
+    "offset": "0x368a08",
+    "size": 25,
+    "japanese": "裏ガンダーラ流占星術家元",
+    "current": "裏ガンダーラ流占星術家元",
+    "references": [
+      "0x318370"
+    ]
+  },
+  {
+    "offset": "0x368a28",
+    "size": 9,
+    "japanese": "ヒマラヤ",
+    "current": "ヒマラヤ",
+    "references": [
+      "0x318374"
+    ]
+  },
+  {
+    "offset": "0x368a38",
+    "size": 11,
+    "japanese": "インド舞踊",
+    "current": "インド舞踊",
+    "references": [
+      "0x31837c"
+    ]
+  },
+  {
+    "offset": "0x368a48",
+    "size": 15,
+    "japanese": "四文字　伏次郎",
+    "current": "四文字　伏次郎",
+    "references": [
+      "0x318388"
+    ]
+  },
+  {
+    "offset": "0x368a58",
+    "size": 29,
+    "japanese": "変身すると強くなるスゴイヤツ",
+    "current": "変身すると強くなるスゴイヤツ",
+    "references": [
+      "0x318390"
+    ]
+  },
+  {
+    "offset": "0x368a78",
+    "size": 21,
+    "japanese": "正義のヒーロー(自称)",
+    "current": "正義のヒーロー(自称)",
+    "references": [
+      "0x318398"
+    ]
+  },
+  {
+    "offset": "0x368a90",
+    "size": 17,
+    "japanese": "変身　パトロール",
+    "current": "変身　パトロール",
+    "references": [
+      "0x31839c"
+    ]
+  },
+  {
+    "offset": "0x368aa8",
+    "size": 9,
+    "japanese": "シモンジ",
+    "current": "シモンジ",
+    "references": [
+      "0x3183a4"
+    ]
+  },
+  {
+    "offset": "0x368ab8",
+    "size": 13,
+    "japanese": "薪　くろうど",
+    "current": "薪　くろうど",
+    "references": [
+      "0x3183a8"
+    ]
+  },
+  {
+    "offset": "0x368ac8",
+    "size": 25,
+    "japanese": "仮面に激情を隠す舞台役者",
+    "current": "仮面に激情を隠す舞台役者",
+    "references": [
+      "0x3183b0"
+    ]
+  },
+  {
+    "offset": "0x368ae8",
+    "size": 9,
+    "japanese": "能面作り",
+    "current": "能面作り",
+    "references": [
+      "0x3183bc"
+    ]
+  },
+  {
+    "offset": "0x368af8",
+    "size": 9,
+    "japanese": "くろうど",
+    "current": "くろうど",
+    "references": [
+      "0x3183c4"
+    ]
+  },
+  {
+    "offset": "0x368b08",
+    "size": 17,
+    "japanese": "ツータンカーメン",
+    "current": "ツータンカーメン",
+    "references": [
+      "0x3183c8"
+    ]
+  },
+  {
+    "offset": "0x368b20",
+    "size": 23,
+    "japanese": "棺の中から今蘇る古代人",
+    "current": "棺の中から今蘇る古代人",
+    "references": [
+      "0x3183d0"
+    ]
+  },
+  {
+    "offset": "0x368b38",
+    "size": 9,
+    "japanese": "エジプト",
+    "current": "エジプト",
+    "references": [
+      "0x3183d4"
+    ]
+  },
+  {
+    "offset": "0x368b48",
+    "size": 13,
+    "japanese": "スカラベ収集",
+    "current": "スカラベ収集",
+    "references": [
+      "0x3183dc"
+    ]
+  },
+  {
+    "offset": "0x368b58",
+    "size": 9,
+    "japanese": "ツータン",
+    "current": "ツータン",
+    "references": [
+      "0x3183e4"
+    ]
+  },
+  {
+    "offset": "0x368b68",
+    "size": 9,
+    "japanese": "イタロー",
+    "current": "Itaro",
+    "references": [
+      "0x3183e8",
+      "0x318404"
+    ]
+  },
+  {
+    "offset": "0x368b78",
+    "size": 12,
+    "japanese": "作られて5年",
+    "current": "作られて5年",
+    "references": [
+      "0x3183ec"
+    ]
+  },
+  {
+    "offset": "0x368b88",
+    "size": 27,
+    "japanese": "いたスト用に開発されたロボ",
+    "current": "いたスト用に開発されたロボ",
+    "references": [
+      "0x3183f0"
+    ]
+  },
+  {
+    "offset": "0x368ba8",
+    "size": 21,
+    "japanese": "種子島いたスト研究所",
+    "current": "種子島いたスト研究所",
+    "references": [
+      "0x3183f4"
+    ]
+  },
+  {
+    "offset": "0x368bc0",
+    "size": 19,
+    "japanese": "いただきストリート",
+    "current": "いただきストリート",
+    "references": [
+      "0x3183f8"
+    ]
+  },
+  {
+    "offset": "0x368bd8",
+    "size": 17,
+    "japanese": "ドラゴンクエスト",
+    "current": "ドラゴンクエスト",
+    "references": [
+      "0x3183fc"
+    ]
+  },
+  {
+    "offset": "0x368bf0",
+    "size": 15,
+    "japanese": "経済怪獣カブラ",
+    "current": "経済怪獣カブラ",
+    "references": [
+      "0x318408"
+    ]
+  },
+  {
+    "offset": "0x368c00",
+    "size": 29,
+    "japanese": "学術名エコノミカブカイノドン",
+    "current": "学術名エコノミカブカイノドン",
+    "references": [
+      "0x318410"
+    ]
+  },
+  {
+    "offset": "0x368c20",
+    "size": 10,
+    "japanese": "地下5000m",
+    "current": "地下5000m",
+    "references": [
+      "0x318414"
+    ]
+  },
+  {
+    "offset": "0x368c30",
+    "size": 9,
+    "japanese": "経済活動",
+    "current": "経済活動",
+    "references": [
+      "0x318418"
+    ]
+  },
+  {
+    "offset": "0x368c40",
+    "size": 17,
+    "japanese": "経済新聞を食べる",
+    "current": "経済新聞を食べる",
+    "references": [
+      "0x31841c"
+    ]
+  },
+  {
+    "offset": "0x368c58",
+    "size": 9,
+    "japanese": "ネコブロ",
+    "current": "ネコブロ",
+    "references": [
+      "0x318428",
+      "0x318444"
+    ]
+  },
+  {
+    "offset": "0x368c68",
+    "size": 20,
+    "japanese": "三者三様　ネコ3兄弟",
+    "current": "三者三様　ネコ3兄弟",
+    "references": [
+      "0x318430"
+    ]
+  },
+  {
+    "offset": "0x368c80",
+    "size": 9,
+    "japanese": "ネコ集会",
+    "current": "ネコ集会",
+    "references": [
+      "0x318438"
+    ]
+  },
+  {
+    "offset": "0x368c90",
+    "size": 9,
+    "japanese": "アジ演説",
+    "current": "アジ演説",
+    "references": [
+      "0x31843c"
+    ]
+  },
+  {
+    "offset": "0x368ca0",
+    "size": 17,
+    "japanese": "イケス家　サバ吉",
+    "current": "イケス家　サバ吉",
+    "references": [
+      "0x318448"
+    ]
+  },
+  {
+    "offset": "0x368cb8",
+    "size": 21,
+    "japanese": "人間の言葉を話すサバ",
+    "current": "人間の言葉を話すサバ",
+    "references": [
+      "0x318450"
+    ]
+  },
+  {
+    "offset": "0x368cd0",
+    "size": 9,
+    "japanese": "新潟近海",
+    "current": "新潟近海",
+    "references": [
+      "0x318454"
+    ]
+  },
+  {
+    "offset": "0x368ce0",
+    "size": 11,
+    "japanese": "マハラジャ",
+    "current": "マハラジャ",
+    "references": [
+      "0x318484"
+    ]
+  },
+  {
+    "offset": "0x368cf0",
+    "size": 17,
+    "japanese": "マークエンジェル",
+    "current": "マークエンジェル",
+    "references": [
+      "0x3184a4"
+    ]
+  },
+  {
+    "offset": "0x368d08",
+    "size": 13,
+    "japanese": "ホリデーモン",
+    "current": "ホリデーモン",
+    "references": [
+      "0x3184c4"
+    ]
+  },
+  {
+    "offset": "0x368d18",
+    "size": 11,
+    "japanese": "おねえさん",
+    "current": "おねえさん",
+    "references": [
+      "0x3184e4"
+    ]
+  },
+  {
+    "offset": "0x368d28",
+    "size": 11,
+    "japanese": "おにいさん",
+    "current": "おにいさん",
+    "references": [
+      "0x318504"
+    ]
+  },
+  {
+    "offset": "0x3b9c88",
+    "size": 5,
+    "japanese": "22才",
+    "current": "22才",
+    "references": [
+      "0x3182ec"
+    ]
+  },
+  {
+    "offset": "0x3b9c90",
+    "size": 2,
+    "japanese": "S",
+    "current": "S",
+    "references": [
+      "0x318300"
+    ]
+  },
+  {
+    "offset": "0x3b9c98",
+    "size": 7,
+    "japanese": "つらら",
+    "current": "つらら",
+    "references": [
+      "0x318308",
+      "0x318324"
+    ]
+  },
+  {
+    "offset": "0x3b9ca0",
+    "size": 5,
+    "japanese": "15才",
+    "current": "15才",
+    "references": [
+      "0x31830c"
+    ]
+  },
+  {
+    "offset": "0x3b9ca8",
+    "size": 2,
+    "japanese": "B",
+    "current": "B",
+    "references": [
+      "0x318320",
+      "0x3183c0",
+      "0x3183e0"
+    ]
+  },
+  {
+    "offset": "0x3b9cb0",
+    "size": 5,
+    "japanese": "12才",
+    "current": "12才",
+    "references": [
+      "0x31832c"
+    ]
+  },
+  {
+    "offset": "0x3b9cb8",
+    "size": 5,
+    "japanese": "札幌",
+    "current": "札幌",
+    "references": [
+      "0x318334"
+    ]
+  },
+  {
+    "offset": "0x3b9cc0",
+    "size": 2,
+    "japanese": "A",
+    "current": "A",
+    "references": [
+      "0x318340",
+      "0x318360",
+      "0x318400"
+    ]
+  },
+  {
+    "offset": "0x3b9cc8",
+    "size": 7,
+    "japanese": "あゆみ",
+    "current": "Ayumi",
+    "references": [
+      "0x318344"
+    ]
+  },
+  {
+    "offset": "0x3b9cd0",
+    "size": 5,
+    "japanese": "27才",
+    "current": "27才",
+    "references": [
+      "0x31834c"
+    ]
+  },
+  {
+    "offset": "0x3b9cd8",
+    "size": 5,
+    "japanese": "横浜",
+    "current": "横浜",
+    "references": [
+      "0x318354"
+    ]
+  },
+  {
+    "offset": "0x3b9ce0",
+    "size": 5,
+    "japanese": "女医",
+    "current": "女医",
+    "references": [
+      "0x318358"
+    ]
+  },
+  {
+    "offset": "0x3b9ce8",
+    "size": 5,
+    "japanese": "レイ",
+    "current": "Rei",
+    "references": [
+      "0x318364"
+    ]
+  },
+  {
+    "offset": "0x3b9cf0",
+    "size": 5,
+    "japanese": "29才",
+    "current": "29才",
+    "references": [
+      "0x31836c"
+    ]
+  },
+  {
+    "offset": "0x3b9cf8",
+    "size": 7,
+    "japanese": "占い師",
+    "current": "占い師",
+    "references": [
+      "0x318378"
+    ]
+  },
+  {
+    "offset": "0x3b9d00",
+    "size": 2,
+    "japanese": "C",
+    "current": "C",
+    "references": [
+      "0x318380",
+      "0x3183a0",
+      "0x318440"
+    ]
+  },
+  {
+    "offset": "0x3b9d08",
+    "size": 7,
+    "japanese": "ようこ",
+    "current": "ようこ",
+    "references": [
+      "0x318384"
+    ]
+  },
+  {
+    "offset": "0x3b9d10",
+    "size": 5,
+    "japanese": "33才",
+    "current": "33才",
+    "references": [
+      "0x31838c"
+    ]
+  },
+  {
+    "offset": "0x3b9d18",
+    "size": 5,
+    "japanese": "福岡",
+    "current": "福岡",
+    "references": [
+      "0x318394"
+    ]
+  },
+  {
+    "offset": "0x3b9d20",
+    "size": 5,
+    "japanese": "23才",
+    "current": "23才",
+    "references": [
+      "0x3183ac"
+    ]
+  },
+  {
+    "offset": "0x3b9d28",
+    "size": 5,
+    "japanese": "京都",
+    "current": "京都",
+    "references": [
+      "0x3183b4"
+    ]
+  },
+  {
+    "offset": "0x3b9d30",
+    "size": 7,
+    "japanese": "狂言師",
+    "current": "狂言師",
+    "references": [
+      "0x3183b8"
+    ]
+  },
+  {
+    "offset": "0x3b9d38",
+    "size": 4,
+    "japanese": "?才",
+    "current": "?才",
+    "references": [
+      "0x3183cc",
+      "0x31842c",
+      "0x31844c"
+    ]
+  },
+  {
+    "offset": "0x3b9d40",
+    "size": 7,
+    "japanese": "ミイラ",
+    "current": "ミイラ",
+    "references": [
+      "0x3183d8"
+    ]
+  },
+  {
+    "offset": "0x3b9d48",
+    "size": 4,
+    "japanese": "1才",
+    "current": "1才",
+    "references": [
+      "0x31840c"
+    ]
+  },
+  {
+    "offset": "0x3b9d50",
+    "size": 2,
+    "japanese": "D",
+    "current": "D",
+    "references": [
+      "0x318420",
+      "0x318460"
+    ]
+  },
+  {
+    "offset": "0x3b9d58",
+    "size": 7,
+    "japanese": "カブラ",
+    "current": "カブラ",
+    "references": [
+      "0x318424"
+    ]
+  },
+  {
+    "offset": "0x3b9d60",
+    "size": 7,
+    "japanese": "橋の下",
+    "current": "橋の下",
+    "references": [
+      "0x318434"
+    ]
+  },
+  {
+    "offset": "0x3b9d68",
+    "size": 5,
+    "japanese": "板前",
+    "current": "板前",
+    "references": [
+      "0x318458"
+    ]
+  },
+  {
+    "offset": "0x3b9d70",
+    "size": 5,
+    "japanese": "演歌",
+    "current": "演歌",
+    "references": [
+      "0x31845c"
+    ]
+  },
+  {
+    "offset": "0x3b9d78",
+    "size": 7,
+    "japanese": "サバ仝",
+    "current": "サバ仝",
+    "references": [
+      "0x318464"
+    ]
+  },
+  {
+    "offset": "0x3b9d80",
+    "size": 5,
+    "japanese": "----",
+    "current": "----",
+    "references": [
+      "0x318468",
+      "0x318470",
+      "0x318474",
+      "0x318478",
+      "0x31847c",
+      "0x318488",
+      "0x318490",
+      "0x318494",
+      "0x318498",
+      "0x31849c",
+      "0x3184a8",
+      "0x3184b0",
+      "0x3184b4",
+      "0x3184b8",
+      "0x3184bc",
+      "0x3184c8",
+      "0x3184d0",
+      "0x3184d4",
+      "0x3184d8",
+      "0x3184dc",
+      "0x3184e8",
+      "0x3184f0",
+      "0x3184f4",
+      "0x3184f8",
+      "0x3184fc",
+      "0x318508",
+      "0x318510",
+      "0x318514",
+      "0x318518",
+      "0x31851c",
+      "0x318524"
+    ]
+  },
+  {
+    "offset": "0x3b9d88",
+    "size": 3,
+    "japanese": "--",
+    "current": "--",
+    "references": [
+      "0x31846c",
+      "0x31848c",
+      "0x3184ac",
+      "0x3184cc",
+      "0x3184ec",
+      "0x31850c"
+    ]
+  },
+  {
+    "offset": "0x3b9d90",
+    "size": 2,
+    "japanese": "-",
+    "current": "-",
+    "references": [
+      "0x318480",
+      "0x3184a0",
+      "0x3184c0",
+      "0x3184e0",
+      "0x318500",
+      "0x318520"
+    ]
+  }
+]

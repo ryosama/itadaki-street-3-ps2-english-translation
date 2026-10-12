@@ -1,0 +1,223 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "file": "SLPM_621.12",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP000.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP001.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP002.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP003.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP004.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP005.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP006.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP007.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP008.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP009.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP010.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP011.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP012.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP013.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP014.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP015.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP016.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP017.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP018.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP019.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP020.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP021.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP022.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP023.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP024.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP025.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP026.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP027.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP028.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP029.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP030.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP031.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "STAGE/MAP032.BIN",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "SYS/TAI01.TI",
+      "original_iso_content_matches": true,
+      "fixed_size": true,
+      "rollback": true
+    },
+    {
+      "file": "ISO",
+      "status": "PASS",
+      "virtual_target_sha256": "742a75cda5279e2ca8a460e28d001c0460e1ed20e9dec976f582d46fb9377403",
+      "bps_reconstructs_all_resources": true,
+      "writes_only_verified_extents": true,
+      "iso_created": false
+    }
+  ]
+}

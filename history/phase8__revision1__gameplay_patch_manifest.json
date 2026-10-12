@@ -1,0 +1,1097 @@
+{
+  "source_sha256": "d6d1ad76f990c1af99e6c3c1431092e375c308d80be99b2f5bfe8c51a5f545e5",
+  "base": "translation_work\\phase7\\revision3\\patched\\SLPM_621.12",
+  "base_sha256": "9b297f21d71c86719ca7f2a3e37d53fff765a17103841e144e2e703404e981c1",
+  "patched_sha256": "44284f55ee99f13d734346785c1fffee2ce3689e722c9ac264744038ae5fe1d2",
+  "patch_count": 155,
+  "prepared_drafts_integrated": 145,
+  "code_changes": 0,
+  "relocations": 0,
+  "patches": [
+    {
+      "offset": 3458992,
+      "capacity": 11,
+      "japanese": "しょうてん",
+      "english": "Shop",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461080,
+      "capacity": 12,
+      "japanese": "はい\nいいえ",
+      "english": "Yes\nNo",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461128,
+      "capacity": 10,
+      "japanese": "株を売る\n",
+      "english": "Sell stk\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461144,
+      "capacity": 9,
+      "japanese": "株を見る",
+      "english": "Stocks",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461160,
+      "capacity": 10,
+      "japanese": "買いたい\n",
+      "english": "Buy\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461176,
+      "capacity": 10,
+      "japanese": "売りたい\n",
+      "english": "Sell\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461192,
+      "capacity": 9,
+      "japanese": "全員一覧",
+      "english": "Players",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461208,
+      "capacity": 12,
+      "japanese": "目標の確認\n",
+      "english": "Goal\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461224,
+      "capacity": 14,
+      "japanese": "セリフの表示\n",
+      "english": "Text speed\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461240,
+      "capacity": 10,
+      "japanese": "サウンド\n",
+      "english": "Sound\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461256,
+      "capacity": 14,
+      "japanese": "取り引き設定\n",
+      "english": "Trading\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461272,
+      "capacity": 13,
+      "japanese": "セーブ&中断\n",
+      "english": "Save & quit\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461288,
+      "capacity": 9,
+      "japanese": "リリーフ",
+      "english": "Relief",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461304,
+      "capacity": 10,
+      "japanese": "モノラル\n",
+      "english": "Mono\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461320,
+      "capacity": 9,
+      "japanese": "ステレオ",
+      "english": "Stereo",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461336,
+      "capacity": 12,
+      "japanese": "取り引きON\n",
+      "english": "Trading ON\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461352,
+      "capacity": 12,
+      "japanese": "取り引きOFF",
+      "english": "Trading OFF",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461368,
+      "capacity": 20,
+      "japanese": "サイコロを振る前は\n",
+      "english": "Before rolling,\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461392,
+      "capacity": 17,
+      "japanese": "セーブできません",
+      "english": "you cannot save.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461416,
+      "capacity": 15,
+      "japanese": "あなたは 株を\n",
+      "english": "Stocks:\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461432,
+      "capacity": 15,
+      "japanese": "持っていません",
+      "english": "none owned.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461448,
+      "capacity": 19,
+      "japanese": "すでに サイコロは\n",
+      "english": "The die was\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461472,
+      "capacity": 13,
+      "japanese": "振られました",
+      "english": "rolled.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461488,
+      "capacity": 18,
+      "japanese": "いまは 売れません",
+      "english": "Cannot sell now.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461512,
+      "capacity": 17,
+      "japanese": "いまは 売り買い\n",
+      "english": "Cannot trade\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461536,
+      "capacity": 11,
+      "japanese": "できません",
+      "english": "now.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461552,
+      "capacity": 22,
+      "japanese": "サイコロを振った後は\n",
+      "english": "After rolling,\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461576,
+      "capacity": 13,
+      "japanese": "かわれません",
+      "english": "no relief.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461592,
+      "capacity": 17,
+      "japanese": "あなたは お店を\n",
+      "english": "Shops:\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461616,
+      "capacity": 16,
+      "japanese": "取り引きできる\n",
+      "english": "No trades\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461632,
+      "capacity": 18,
+      "japanese": "お店が ありません",
+      "english": "available.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461656,
+      "capacity": 12,
+      "japanese": "改築できる\n",
+      "english": "No shops\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461672,
+      "capacity": 37,
+      "japanese": "サイコロ 株\nお店   資産\nマップ  設定",
+      "english": "Roll Stk\nShop Net\nMap  Opt",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3461712,
+      "capacity": 49,
+      "japanese": "/c1サイコロ /c0株\n/c1お店   /c0資産\nマップ  設定",
+      "english": "/c1Roll /c0Stk\n/c1Shop /c0Net\nMap  Opt",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3463136,
+      "capacity": 17,
+      "japanese": "%sさんのばんです",
+      "english": "%s's turn",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3463208,
+      "capacity": 17,
+      "japanese": "あと%dターンです",
+      "english": "%d turns left",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3464136,
+      "capacity": 13,
+      "japanese": "てすうりょう",
+      "english": "Fee",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3464152,
+      "capacity": 9,
+      "japanese": "しはらい",
+      "english": "Payment",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3464184,
+      "capacity": 13,
+      "japanese": "うりごうけい",
+      "english": "Sale total",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3464200,
+      "capacity": 19,
+      "japanese": "いくら 買いますか?",
+      "english": "How many to buy?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3464224,
+      "capacity": 19,
+      "japanese": "いくら 売りますか?",
+      "english": "How many to sell?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3464608,
+      "capacity": 36,
+      "japanese": "はい\nいいえ\n絶対いやだ\nデータを見る",
+      "english": "Yes\nNo\nNever\nView data",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3464800,
+      "capacity": 23,
+      "japanese": "取り引きを\nやめますか?",
+      "english": "Cancel\nthis trade?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3464936,
+      "capacity": 25,
+      "japanese": "売る\n売らない\n絶対いやだ",
+      "english": "Sell\nNo sale\nNever",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3464968,
+      "capacity": 25,
+      "japanese": "買う\n買わない\n絶対いやだ",
+      "english": "Buy\nNo buy\nNever",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3465104,
+      "capacity": 14,
+      "japanese": "株価値上がり!",
+      "english": "Stock up!",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3465120,
+      "capacity": 14,
+      "japanese": "株価値下がり!",
+      "english": "Stock down!",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3465216,
+      "capacity": 13,
+      "japanese": "売り出し価格",
+      "english": "Bid price",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3465472,
+      "capacity": 18,
+      "japanese": "ふねに乗りますか?",
+      "english": "Board the boat?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3465664,
+      "capacity": 19,
+      "japanese": "2軒目を買いますか?",
+      "english": "Buy a 2nd shop?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3465720,
+      "capacity": 11,
+      "japanese": "エリアめい",
+      "english": "District",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3466104,
+      "capacity": 19,
+      "japanese": "きほんカメラモード",
+      "english": "Normal camera",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3466128,
+      "capacity": 19,
+      "japanese": "トップビューモード",
+      "english": "Top view",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3467328,
+      "capacity": 9,
+      "japanese": "お店価格",
+      "english": "Value",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3467344,
+      "capacity": 11,
+      "japanese": "増資あまり",
+      "english": "Inv. left",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3467616,
+      "capacity": 11,
+      "japanese": "株はいとう",
+      "english": "Dividends",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3467632,
+      "capacity": 9,
+      "japanese": "お金%7dG",
+      "english": "Cash%7dG",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3467648,
+      "capacity": 9,
+      "japanese": "株　%7dG",
+      "english": "Stk%7dG",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3467664,
+      "capacity": 9,
+      "japanese": "お店%7dG",
+      "english": "Shop%7dG",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3467680,
+      "capacity": 9,
+      "japanese": "合計%7dG",
+      "english": "Net%7dG",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3467696,
+      "capacity": 12,
+      "japanese": "店の数%6d店",
+      "english": "Shops%6d",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3467712,
+      "capacity": 12,
+      "japanese": "株の数%6d枚",
+      "english": "Stocks%6d",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3539664,
+      "capacity": 38,
+      "japanese": "総合順位　　　　ストリートごとの順位\n",
+      "english": "Rank    Map rank\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3539704,
+      "capacity": 30,
+      "japanese": "破産回数　　　　破産させ回数\n",
+      "english": "Busts   Caused\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3539736,
+      "capacity": 32,
+      "japanese": "最大いただき額　最大ふりこみ額\n",
+      "english": "Max in  Max out\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3539768,
+      "capacity": 30,
+      "japanese": "いただき回数　　ふりこみ回数\n",
+      "english": "Rent in Rent out\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3539800,
+      "capacity": 27,
+      "japanese": "最大お店価格　　株の儲け額",
+      "english": "Value   Stocks",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3540968,
+      "capacity": 16,
+      "japanese": "いただき マップ",
+      "english": "Ita Maps",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3546360,
+      "capacity": 17,
+      "japanese": "目標金額　　　%d",
+      "english": "Goal        %d",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3546384,
+      "capacity": 17,
+      "japanese": "破産人数　　　%s",
+      "english": "Bust limit  %s",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3546408,
+      "capacity": 17,
+      "japanese": "カジノの設定　%s",
+      "english": "Casino      %s",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553312,
+      "capacity": 15,
+      "japanese": "最大いただき額",
+      "english": "Max rent in",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553328,
+      "capacity": 15,
+      "japanese": "最大ふりこみ額",
+      "english": "Max rent paid",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553344,
+      "capacity": 13,
+      "japanese": "いただき回数",
+      "english": "Rent earned",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553360,
+      "capacity": 13,
+      "japanese": "ふりこみ回数",
+      "english": "Rent paid",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553376,
+      "capacity": 9,
+      "japanese": "破産回数",
+      "english": "Busts",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553392,
+      "capacity": 13,
+      "japanese": "破産させ回数",
+      "english": "Busts caused",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553408,
+      "capacity": 11,
+      "japanese": "株の儲け額",
+      "english": "Stock gain",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553424,
+      "capacity": 13,
+      "japanese": "最大お店価格",
+      "english": "Max value",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553440,
+      "capacity": 13,
+      "japanese": "勝ち点 %d.%d",
+      "english": "Points %d.%d",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553456,
+      "capacity": 15,
+      "japanese": "総合順位 %2d位",
+      "english": "Rank %2d",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553472,
+      "capacity": 17,
+      "japanese": "マハラジャバッジ",
+      "english": "Maharaja badges",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553608,
+      "capacity": 11,
+      "japanese": "ストリート",
+      "english": "Map",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553624,
+      "capacity": 9,
+      "japanese": "だれから",
+      "english": "From",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553640,
+      "capacity": 11,
+      "japanese": "いただき額",
+      "english": "Rent in",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553656,
+      "capacity": 11,
+      "japanese": "ふりこみ額",
+      "english": "Rent paid",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553672,
+      "capacity": 11,
+      "japanese": "マハラジャ",
+      "english": "Maharaja",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553688,
+      "capacity": 9,
+      "japanese": "総合順位",
+      "english": "Rank",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553808,
+      "capacity": 13,
+      "japanese": "つよさランク",
+      "english": "Skill rank",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553824,
+      "capacity": 24,
+      "japanese": "さからった回数　　%4d回",
+      "english": "Defied      %4d",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553848,
+      "capacity": 24,
+      "japanese": "なぐさめられた回数%4d回",
+      "english": "Comforted   %4d",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553872,
+      "capacity": 17,
+      "japanese": "お姉さんの好感度",
+      "english": "Female tutor",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3553896,
+      "capacity": 17,
+      "japanese": "お兄さんの好感度",
+      "english": "Male tutor",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576160,
+      "capacity": 9,
+      "japanese": "ぎんこう",
+      "english": "Bank",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576176,
+      "capacity": 9,
+      "japanese": "スペード",
+      "english": "Spade",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576192,
+      "capacity": 9,
+      "japanese": "チャンス",
+      "english": "Chance",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576208,
+      "capacity": 9,
+      "japanese": "ラッキー",
+      "english": "Lucky",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576224,
+      "capacity": 23,
+      "japanese": "しょうけんとりひきじょ",
+      "english": "Stock exchange",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576248,
+      "capacity": 11,
+      "japanese": "サイコロや",
+      "english": "Dice shop",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576264,
+      "capacity": 9,
+      "japanese": "スイッチ",
+      "english": "Switch",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576280,
+      "capacity": 9,
+      "japanese": "かいだん",
+      "english": "Stairs",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576296,
+      "capacity": 13,
+      "japanese": "どうぶつえん",
+      "english": "Zoo",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576312,
+      "capacity": 11,
+      "japanese": "ヘリポート",
+      "english": "Heliport",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576328,
+      "capacity": 11,
+      "japanese": "ぜいむしょ",
+      "english": "Tax office",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576344,
+      "capacity": 15,
+      "japanese": "りょうきんじょ",
+      "english": "Toll gate",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576360,
+      "capacity": 11,
+      "japanese": "ゆうえんち",
+      "english": "Theme park",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576376,
+      "capacity": 11,
+      "japanese": "ふどうさん",
+      "english": "Realty",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576392,
+      "capacity": 11,
+      "japanese": "マイホーム",
+      "english": "Home",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576488,
+      "capacity": 27,
+      "japanese": "目標金額 %dG\n破産人数 %d人",
+      "english": "Goal %dG\nBankrupt limit %d",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576520,
+      "capacity": 37,
+      "japanese": "メッセージの 表示速度を\n設定します。",
+      "english": "Set the message\ndisplay speed.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576560,
+      "capacity": 42,
+      "japanese": "ステレオ・モノラルの設定を\n変更できます。",
+      "english": "Switch between\nstereo and mono.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576608,
+      "capacity": 79,
+      "japanese": "コンピュータプレイヤーからの\n取り引きを あらかじめ\n断っておくことができます。\n",
+      "english": "Automatically refuse\ntrade offers from\ncomputer players.\n",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3576688,
+      "capacity": 37,
+      "japanese": "セーブをして\nやめることが できます。",
+      "english": "Save your game\nand quit.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3588952,
+      "capacity": 12,
+      "japanese": "はい\nいいえ",
+      "english": "Yes\nNo",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589096,
+      "capacity": 22,
+      "japanese": "ここで 止まりますか？",
+      "english": "Stop here?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589120,
+      "capacity": 17,
+      "japanese": "何を 建てますか?",
+      "english": "Build what?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589144,
+      "capacity": 15,
+      "japanese": "増資 しますか?",
+      "english": "Invest here?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589160,
+      "capacity": 44,
+      "japanese": "のこり増資額は%3dGです\nいくら 増資しますか?",
+      "english": "Limit: %3dG\nInvest how much?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589208,
+      "capacity": 38,
+      "japanese": "所持金や 株がないので\n増資できません!",
+      "english": "Not enough cash\nor stocks\nto invest!",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589248,
+      "capacity": 33,
+      "japanese": "増資をする\n株を見る\n増資をやめる",
+      "english": "Invest\nStocks\nCancel",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589288,
+      "capacity": 30,
+      "japanese": "増資できる お店が\nありません!",
+      "english": "No shops\nto invest in!",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589320,
+      "capacity": 45,
+      "japanese": "このお店を 5倍の値段で\nむりやり 買いとれます",
+      "english": "Buy out this shop\nfor 5x its value.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589368,
+      "capacity": 36,
+      "japanese": "ここを 5倍の値段の\n%dGで買いますか?",
+      "english": "Buy for %dG\nat 5x value?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589408,
+      "capacity": 25,
+      "japanese": "ここを\n%dGで\n買いますか?",
+      "english": "Buy this\nfor %dG?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589728,
+      "capacity": 27,
+      "japanese": "それでも\n%dGで\n買いますか?",
+      "english": "Still buy\nfor %dG?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589760,
+      "capacity": 27,
+      "japanese": "お店を買うのを\nやめますか?",
+      "english": "Cancel buying\nthis shop?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3589984,
+      "capacity": 18,
+      "japanese": "/c2所持金不足!/c0",
+      "english": "/c2No cash!/c0",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590008,
+      "capacity": 20,
+      "japanese": "株を売る\nお店を売る",
+      "english": "Sell stk\nSell shop",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590032,
+      "capacity": 33,
+      "japanese": "競売に出すお店を\n選んで ください",
+      "english": "Choose a shop\nto auction.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590072,
+      "capacity": 31,
+      "japanese": "買いたいお店を\n選んで ください",
+      "english": "Choose a shop\nto buy.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590104,
+      "capacity": 33,
+      "japanese": "予約したいお店を\n選んで ください",
+      "english": "Choose a shop\nto reserve.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590144,
+      "capacity": 31,
+      "japanese": "売りたいお店を\n選んで ください",
+      "english": "Choose a shop\nto sell.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590232,
+      "capacity": 33,
+      "japanese": "改築したいお店を\n選んで ください",
+      "english": "Choose a shop\nto rebuild.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590272,
+      "capacity": 31,
+      "japanese": "あなたのお店を\n選んで ください",
+      "english": "Choose\nyour shop.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590304,
+      "capacity": 29,
+      "japanese": "相手のお店を\n選んで ください",
+      "english": "Choose their\nshop.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590336,
+      "capacity": 31,
+      "japanese": "増資するお店を\n選んで ください",
+      "english": "Choose a shop\nto invest in.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590368,
+      "capacity": 25,
+      "japanese": "行き先を\n選んで ください",
+      "english": "Choose\na destination.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590400,
+      "capacity": 19,
+      "japanese": "移動を やめますか?",
+      "english": "Cancel moving?",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590640,
+      "capacity": 28,
+      "japanese": "これいじょう\n増資できません",
+      "english": "Cannot invest\nany more.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3590728,
+      "capacity": 23,
+      "japanese": "買えるお店はありません",
+      "english": "No shops for sale.",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902088,
+      "capacity": 7,
+      "japanese": "買物料",
+      "english": "Fee",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902136,
+      "capacity": 5,
+      "japanese": "元値",
+      "english": "Base",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902144,
+      "capacity": 7,
+      "japanese": "売り値",
+      "english": "Sale",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902152,
+      "capacity": 7,
+      "japanese": "持ち主",
+      "english": "Owner",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902160,
+      "capacity": 7,
+      "japanese": "買い値",
+      "english": "Cost",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902200,
+      "capacity": 5,
+      "japanese": "お金",
+      "english": "Cash",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902208,
+      "capacity": 3,
+      "japanese": "株",
+      "english": "St",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902216,
+      "capacity": 5,
+      "japanese": "お店",
+      "english": "Shop",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902224,
+      "capacity": 5,
+      "japanese": "合計",
+      "english": "Net",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902240,
+      "capacity": 7,
+      "japanese": "%d周目",
+      "english": "Lap%d",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3902248,
+      "capacity": 8,
+      "japanese": "%3d周目",
+      "english": "Lap%3d",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3906024,
+      "capacity": 7,
+      "japanese": "試合数",
+      "english": "Games",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3906216,
+      "capacity": 7,
+      "japanese": "授業数",
+      "english": "Class",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3906224,
+      "capacity": 7,
+      "japanese": "最高点",
+      "english": "Best",
+      "visual_status": "requires in-game validation"
+    },
+    {
+      "offset": 3906240,
+      "capacity": 7,
+      "japanese": "平均点",
+      "english": "Mean",
+      "visual_status": "requires in-game validation"
+    }
+  ]
+}

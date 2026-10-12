@@ -1,0 +1,95 @@
+{
+  "source": "decompile\\SLPM_621.12",
+  "source_sha256": "d6d1ad76f990c1af99e6c3c1431092e375c308d80be99b2f5bfe8c51a5f545e5",
+  "patched_sha256": "e4c1917834ca50c6b2ab4326a01bd096e1df5a91c9b6d63b44aef5e8835f685d",
+  "source_size": 3923328,
+  "patched_size": 3923328,
+  "changed_byte_count": 81,
+  "pointer_table_unchanged": true,
+  "patches": [
+    {
+      "kind": "summary",
+      "card_number": 1,
+      "file_offset": 3576944,
+      "virtual_address": 4621424,
+      "original_text": "方向てんかん\nできる!",
+      "replacement_text": "Change\ncourse!",
+      "original_capacity_including_nul": 21,
+      "replacement_bytes_including_nul": 15,
+      "line_characters": [
+        6,
+        7
+      ],
+      "fixed_24px_line_width_estimates": [
+        144,
+        168
+      ]
+    },
+    {
+      "kind": "summary",
+      "card_number": 2,
+      "file_offset": 3576968,
+      "virtual_address": 4621448,
+      "original_text": "もう1回すすむ!",
+      "replacement_text": "Roll\nagain!",
+      "original_capacity_including_nul": 15,
+      "replacement_bytes_including_nul": 12,
+      "line_characters": [
+        4,
+        6
+      ],
+      "fixed_24px_line_width_estimates": [
+        96,
+        144
+      ]
+    },
+    {
+      "kind": "summary",
+      "card_number": 33,
+      "file_offset": 3578104,
+      "virtual_address": 4622584,
+      "original_text": "3倍で\nはらいもどし\nチャンス!",
+      "replacement_text": "Sell at\n3x value",
+      "original_capacity_including_nul": 29,
+      "replacement_bytes_including_nul": 17,
+      "line_characters": [
+        7,
+        8
+      ],
+      "fixed_24px_line_width_estimates": [
+        168,
+        192
+      ]
+    },
+    {
+      "kind": "detail",
+      "card_number": null,
+      "file_offset": 3583280,
+      "virtual_address": 4627760,
+      "original_text": "Pさん\nG『G』の 収入!",
+      "replacement_text": "P『 gets 』G『G!』",
+      "original_capacity_including_nul": 21,
+      "replacement_bytes_including_nul": 19,
+      "dynamic_commands": [
+        {
+          "kind": "player",
+          "index": 0,
+          "command": "P"
+        },
+        {
+          "kind": "integer",
+          "index": 0,
+          "command": "G"
+        }
+      ]
+    }
+  ],
+  "detail_simulated_expansion": {
+    "player_name": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN",
+    "integer": -2147483648,
+    "result": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN gets -2147483648G!",
+    "bytes_including_nul": 84,
+    "note": "Hypothetical stress scenario, not an established game maximum"
+  },
+  "runtime_verified": false
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "index": 0,
+    "rows": [
+      "Sakurako  22y",
+      "UK-raised heiress",
+      "Home:Denenchofu",
+      "Job:Student",
+      "Like:Flowers/ride"
+    ],
+    "rank": "S",
+    "short_name": "Sakurako"
+  },
+  {
+    "index": 1,
+    "rows": [
+      "Tsurara  15y",
+      "Time-travel ninja",
+      "Home:Iga",
+      "Job:Fast food",
+      "Like:Spying"
+    ],
+    "rank": "B",
+    "short_name": "Tsurara"
+  },
+  {
+    "index": 2,
+    "rows": [
+      "Ayumi Imai  12y",
+      "Grade-skip genius",
+      "Home:Sapporo",
+      "Job:HS senior",
+      "Like:Teddy bears"
+    ],
+    "rank": "A",
+    "short_name": "Ayumi"
+  },
+  {
+    "index": 3,
+    "rows": [
+      "Rei Kirisaki  27y",
+      "Top JP surgeon",
+      "Home:Yokoh.",
+      "Job:Doctor",
+      "Like:Slicing"
+    ],
+    "rank": "A",
+    "short_name": "Rei"
+  },
+  {
+    "index": 4,
+    "rows": [
+      "G. Yoko  29y",
+      "Astrology master",
+      "Home:Himalaya",
+      "Job:Seer",
+      "Like:Indian dance"
+    ],
+    "rank": "C",
+    "short_name": "Yoko"
+  },
+  {
+    "index": 5,
+    "rows": [
+      "F. Shimonji  33y",
+      "Morphing hero",
+      "Home:Fukuoka",
+      "Job:Hero (claims)",
+      "Like:Morph/patrol"
+    ],
+    "rank": "C",
+    "short_name": "Shimonji"
+  },
+  {
+    "index": 6,
+    "rows": [
+      "Kuroudo Maki  23y",
+      "Masked actor",
+      "Home:Kyoto",
+      "Job:Kyogen",
+      "Like:Noh masks"
+    ],
+    "rank": "B",
+    "short_name": "Kuroudo"
+  },
+  {
+    "index": 7,
+    "rows": [
+      "Tutankhamen  ?y",
+      "Revived ancient",
+      "Home:Egypt",
+      "Job:Mummy",
+      "Like:Scarabs"
+    ],
+    "rank": "B",
+    "short_name": "Tutan"
+  },
+  {
+    "index": 8,
+    "rows": [
+      "Itaro  5y old",
+      "FS-built robot",
+      "Home:Tanega. lab",
+      "Job:Fortune St.",
+      "Like:Dragon Quest"
+    ],
+    "rank": "A",
+    "short_name": "Itaro"
+  },
+  {
+    "index": 9,
+    "rows": [
+      "Kabura  1y",
+      "Economikabuk...",
+      "Home:5km deep",
+      "Job:Business",
+      "Like:Eats papers"
+    ],
+    "rank": "D",
+    "short_name": "Kabura"
+  },
+  {
+    "index": 10,
+    "rows": [
+      "Nekobro  ?y",
+      "Three cat bros",
+      "Home:Bridge",
+      "Job:Cat meets",
+      "Like:Agitating"
+    ],
+    "rank": "C",
+    "short_name": "Nekobro"
+  },
+  {
+    "index": 11,
+    "rows": [
+      "Sabakichi  ?y",
+      "Talking mackerel",
+      "Home:Niigata",
+      "Job:Chef",
+      "Like:Enka"
+    ],
+    "rank": "D",
+    "short_name": "Saba"
+  }
+]

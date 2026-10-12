@@ -1,0 +1,268 @@
+{
+  "format": "BPS1",
+  "patch_file": "Itadaki_Street_3_English_v13.bps",
+  "source_file": "idataki3.original.iso",
+  "source_size": 575420416,
+  "target_size": 575420416,
+  "source_sha256": "6e8e471f9b6aef1af78b9cf99407ffd9adaa2c51a871f622dd84db140404dcab",
+  "target_sha256": "742a75cda5279e2ca8a460e28d001c0460e1ed20e9dec976f582d46fb9377403",
+  "source_crc32": "0c2d5525",
+  "target_crc32": "fbf40d28",
+  "patch_sha256": "f485955a9257b69fa9e303787227b443bc0773aeb046662298836bfdeb1d442d",
+  "patched_elf_sha256": "5421225c2712dd1fedfc69e1fe1659031a4bd4b601ccccab30167aeb493d8504",
+  "counts": {
+    "ui": 38,
+    "opponent": 81
+  },
+  "files": [
+    {
+      "path": "SLPM_621.12",
+      "iso_offset": 268288,
+      "size": 3923328,
+      "original_sha256": "d6d1ad76f990c1af99e6c3c1431092e375c308d80be99b2f5bfe8c51a5f545e5",
+      "patched_sha256": "5421225c2712dd1fedfc69e1fe1659031a4bd4b601ccccab30167aeb493d8504"
+    },
+    {
+      "path": "STAGE/MAP000.BIN",
+      "iso_offset": 27049984,
+      "size": 2336,
+      "original_sha256": "4bc8a29e0e1c4ff25dc7c5ea4503bb873801d0a1c1be53b15962307b805dc331",
+      "patched_sha256": "fb5959efba949c54a8cb14beccd005b77020fafef9cd1e60cde00b5cb43ca7e0"
+    },
+    {
+      "path": "STAGE/MAP001.BIN",
+      "iso_offset": 24813568,
+      "size": 2912,
+      "original_sha256": "b74fbae3488351ed0144e2a5bae6e8afdfbce815a0782e8383f14fc5d649eae2",
+      "patched_sha256": "e294babb48f93d060c5bbe1b0a37fd7c9e63cca2bc02274e225cac5ce8b6f3c0"
+    },
+    {
+      "path": "STAGE/MAP002.BIN",
+      "iso_offset": 26470400,
+      "size": 3920,
+      "original_sha256": "d91e5e9f8cb81936086618e8d366b6764c79f2ab92c47307586dcdaf8be95e38",
+      "patched_sha256": "a5e8859cc2eb1adf9d6289b9cf278a5f926c06820d0c6c0531668451aa5ee3dd"
+    },
+    {
+      "path": "STAGE/MAP003.BIN",
+      "iso_offset": 26474496,
+      "size": 1808,
+      "original_sha256": "51369f11661a5c0a57b891b2515619139497ef36fe085b50b32b6819605ab12f",
+      "patched_sha256": "bdfcb5498908fdf683c061c2985beee65d0fe9d00b2502977e61dcb3d0c8c07e"
+    },
+    {
+      "path": "STAGE/MAP004.BIN",
+      "iso_offset": 26509312,
+      "size": 2576,
+      "original_sha256": "8c30e06270b30b793dcb6bb6cd6b92e0dcd6457eb29295116c6e59429b4a65cc",
+      "patched_sha256": "007b7cd23ffe07d1bfacfc7647dd64a43ecb0dd7d0ac680e99119ceeb6121983"
+    },
+    {
+      "path": "STAGE/MAP005.BIN",
+      "iso_offset": 27045888,
+      "size": 3872,
+      "original_sha256": "882efbc2f843212ece3619612c4818ad247e15b218597fc4b555da8e0eee1515",
+      "patched_sha256": "4a1afe98e90fc2e45966b540d5204213904a4550359b5d79a770722a300ff8e5"
+    },
+    {
+      "path": "STAGE/MAP006.BIN",
+      "iso_offset": 27635712,
+      "size": 3152,
+      "original_sha256": "be79249981e6cb7e729431a1fd7f69de145ff402af636c58a155bff9377ff1ca",
+      "patched_sha256": "d10f6aa7adce4ece85aab8fca2a7e9f35ac241a7244b9b4214a240d94f5b8dff"
+    },
+    {
+      "path": "STAGE/MAP007.BIN",
+      "iso_offset": 27639808,
+      "size": 3200,
+      "original_sha256": "03551ffe0993013d4dc99e18f7e79da85a978dd9b837dd025584b37b17b387b5",
+      "patched_sha256": "7895f28e45afd1e77bf5254000f7ebbd54efb1d7d72b50717dd265edb36e50d5"
+    },
+    {
+      "path": "STAGE/MAP008.BIN",
+      "iso_offset": 27643904,
+      "size": 3632,
+      "original_sha256": "99104e2e9da362e72724c767de2a99f4cefaf0c472f2acbd9ac27936cad04bea",
+      "patched_sha256": "60acf200b27b54b800a63355c58bfa165ed9aaccacbe34644e03ec8a1dad9e9a"
+    },
+    {
+      "path": "STAGE/MAP009.BIN",
+      "iso_offset": 27648000,
+      "size": 5648,
+      "original_sha256": "807739183815a6fedec77db77c9eff84e7f994f22e68ced201b0b8cb27b90779",
+      "patched_sha256": "34a9927213e4bfc5a53a94656c9bdbe3d9fd14d0f87c4d46bf5db7cedf5dac48"
+    },
+    {
+      "path": "STAGE/MAP010.BIN",
+      "iso_offset": 27654144,
+      "size": 3488,
+      "original_sha256": "197e8656c612cce84cb65ca77d19f63c936f36fb6cf72a346d8b6d57b20169a2",
+      "patched_sha256": "cb26f1a9d9d132ddd11f5d2685907e5e953f83da747bcc07f4ee1c7ee9928d20"
+    },
+    {
+      "path": "STAGE/MAP011.BIN",
+      "iso_offset": 27658240,
+      "size": 3584,
+      "original_sha256": "8fd9d09f6def1a0661d447d76b8f02e488c834a7ac6cb5a791991cca4caa4a11",
+      "patched_sha256": "85cf601c39486be0c798361da9d84ad1b6b19b9d744eb7b9d78eb665074eec08"
+    },
+    {
+      "path": "STAGE/MAP012.BIN",
+      "iso_offset": 27662336,
+      "size": 3776,
+      "original_sha256": "be2742db5a848f87923fd3f9d9cc022970025d0a020a70290cb2af1fc4c3a6e9",
+      "patched_sha256": "11db1d201271cfddd46b5ab842845370562f7da0ae7c42a081800908077311d5"
+    },
+    {
+      "path": "STAGE/MAP013.BIN",
+      "iso_offset": 27740160,
+      "size": 1952,
+      "original_sha256": "782c84e0d0be41a2865b15c1a3f13a1ed5d39f163c4e4f36eaf837e76971dc13",
+      "patched_sha256": "46ce6c9b3b6d670e78772fce7a4382ee2a3d038bdd610493fe4c62f8df248f44"
+    },
+    {
+      "path": "STAGE/MAP014.BIN",
+      "iso_offset": 30177280,
+      "size": 2192,
+      "original_sha256": "4cbfad4a1346a275dd4c9fa1cefc61e6b7bd62d42555f12f8f6225797e5b4261",
+      "patched_sha256": "ae3a9e91168070951a146d72471bb56025d2c8973d9f5cc407d1516ac1c35147"
+    },
+    {
+      "path": "STAGE/MAP015.BIN",
+      "iso_offset": 31768576,
+      "size": 3008,
+      "original_sha256": "f7fe8b790c1b54d568285636cc07bc45cb8d976bc09c3b90b0556d2ace17b9e5",
+      "patched_sha256": "de99747289241a9de5c1415b22a0629bb6e1724e9859396e9f145cd947a7668b"
+    },
+    {
+      "path": "STAGE/MAP016.BIN",
+      "iso_offset": 31772672,
+      "size": 2000,
+      "original_sha256": "db497022767f6dd1cc217db6ee1f818d7dd557701dae0aa8c26c51ffb353bc94",
+      "patched_sha256": "f1bf95bc587a94f6a76fc353f84c56a535e1192528ef555624ec062ffd084a30"
+    },
+    {
+      "path": "STAGE/MAP017.BIN",
+      "iso_offset": 31774720,
+      "size": 3584,
+      "original_sha256": "2dfd7a7bfaf19075e6689338c2e5b574ea8b474a937c970a6d987d4acaac9f34",
+      "patched_sha256": "d58a7f94d93df8520ee274d899b5dcad942a2b736756f44d9814f04c919cda92"
+    },
+    {
+      "path": "STAGE/MAP018.BIN",
+      "iso_offset": 31778816,
+      "size": 3344,
+      "original_sha256": "ed9ea282511aa6c7c5400ea0cacc9d44c0791a9d3d852b40dc05ecefa5d6f9e0",
+      "patched_sha256": "b6c1a68d42626c79373b8f26b4253fc0f88ce3e8b0c432bb25729ae39e20d40a"
+    },
+    {
+      "path": "STAGE/MAP019.BIN",
+      "iso_offset": 31782912,
+      "size": 3920,
+      "original_sha256": "788a617d0a4e40b08c2b98ce5896534200daf400b46dc6c6950bdcf197181f53",
+      "patched_sha256": "16b7268b86a1096f12ce1eebcac62f4530b970922fa18622f8e44d586820ed34"
+    },
+    {
+      "path": "STAGE/MAP020.BIN",
+      "iso_offset": 31787008,
+      "size": 3392,
+      "original_sha256": "da7890ff76c7c822329eed8e0b2f91c4a8210967cff9ab316881b5e9524477be",
+      "patched_sha256": "accc4c7d0b076bb00e53c4b596a4d7fc1483d926e72099941be368bf1228144b"
+    },
+    {
+      "path": "STAGE/MAP021.BIN",
+      "iso_offset": 31791104,
+      "size": 3584,
+      "original_sha256": "0a5ef626d5317815ccdc28962a037767e4ecc867456e4aa1bbcd287107d68c42",
+      "patched_sha256": "0d468a058b7d1695281ad6177270169f66e53a40de360e0241bbcf3d3d61cb61"
+    },
+    {
+      "path": "STAGE/MAP022.BIN",
+      "iso_offset": 31795200,
+      "size": 4304,
+      "original_sha256": "52246578fd2947e811078064919cb5edd9ab9fa9d2425fc0ef888fc210448e45",
+      "patched_sha256": "849d633f48e7a0a779346bde6b41cdf066aad810c8932db792de3766247996f9"
+    },
+    {
+      "path": "STAGE/MAP023.BIN",
+      "iso_offset": 31801344,
+      "size": 3488,
+      "original_sha256": "ae65ceb78e152e084b8cefe52af715dee254a8e3facd77f20bbb840ee02af1ce",
+      "patched_sha256": "4d5652ce2890045e1d8471c0df8d8b9b8bd7b1049e3f7487fe7e05cb29d516b1"
+    },
+    {
+      "path": "STAGE/MAP024.BIN",
+      "iso_offset": 31805440,
+      "size": 2960,
+      "original_sha256": "5019bf0c2abc412577bbddca427011b0c1b52f85638c49d74b904bc221650c34",
+      "patched_sha256": "d85959421a47cb342c940e415effc476ea339a4b5dd4bb7ae9d96e3a6b8f782c"
+    },
+    {
+      "path": "STAGE/MAP025.BIN",
+      "iso_offset": 31809536,
+      "size": 4112,
+      "original_sha256": "274d0dabb0486687decb21246fefb1eb767096b2399441a1fd2d9e3ca073c539",
+      "patched_sha256": "af2b495947bdb1957c74632221ee170fb2c4fc05e1a39759fa5b8a70a3e2591a"
+    },
+    {
+      "path": "STAGE/MAP026.BIN",
+      "iso_offset": 31815680,
+      "size": 3104,
+      "original_sha256": "7d8804a9cce269b85c9d94874ad76b96254be7f51ff05602ddf5b8a45a37ef9a",
+      "patched_sha256": "cbee58230bab587aea8ff27d83404aa4fffcd6fa58ee7c0ab0bf67c2b933df0f"
+    },
+    {
+      "path": "STAGE/MAP027.BIN",
+      "iso_offset": 31819776,
+      "size": 3968,
+      "original_sha256": "45f6694fd4cf38556357f28e27cdeb72289701e760dc38537cbcbb1192936179",
+      "patched_sha256": "c32d5dc84e6138ca98a94f14f1751239806664d46974b1187965d15f1a8193c0"
+    },
+    {
+      "path": "STAGE/MAP028.BIN",
+      "iso_offset": 31823872,
+      "size": 4016,
+      "original_sha256": "376ce22bb11b49be6b9e3b4384488edea9738a748b166d27d1273fc76c74fb79",
+      "patched_sha256": "23ebd01ba3ebe54ba217350739604b7a2e21d1627e3d1bef16c80762b181f39e"
+    },
+    {
+      "path": "STAGE/MAP029.BIN",
+      "iso_offset": 31827968,
+      "size": 5264,
+      "original_sha256": "a2edb4aefb9577228b22efde2bfacb0f5144a85a6eaab89cee8e7eebde94f1ad",
+      "patched_sha256": "4b076853eb9fecc75dd04e14d3fc667c9be00fbe839c9546273c0d8dec1d2971"
+    },
+    {
+      "path": "STAGE/MAP030.BIN",
+      "iso_offset": 31834112,
+      "size": 3680,
+      "original_sha256": "4071fa582a442e8c988e46551bf0e03818e79107dfed76e03839f3fd9f9d9c34",
+      "patched_sha256": "fe231f6dda71fbe1f10f1ff3d1fdfccebad0e3027fb535353aa78f704268f2e6"
+    },
+    {
+      "path": "STAGE/MAP031.BIN",
+      "iso_offset": 31838208,
+      "size": 3248,
+      "original_sha256": "0d827bd6048b67c345b1a85127114f976474aa4008c7a0227f1cd46df808b632",
+      "patched_sha256": "d120c2614e3675ccffa1be3faeee992992aa42f111c57fd0ddd8f3b01618b4f3"
+    },
+    {
+      "path": "STAGE/MAP032.BIN",
+      "iso_offset": 31842304,
+      "size": 704,
+      "original_sha256": "eba3560b6716c531e165a085746eb18bcbefd4b1c219b85127f2c9e04d650ca5",
+      "patched_sha256": "c30f6f205770d25f19ff124eada13bab1068817b145c228eebe5e04e8e830df9"
+    },
+    {
+      "path": "SYS/TAI01.TI",
+      "iso_offset": 23885824,
+      "size": 329808,
+      "original_sha256": "deecc401d6a4e4ae369d65d0cd4543ce3e3c6a2758ca2c90c4028500cc205301",
+      "patched_sha256": "9b00315dd39d405d70c8bb129c94a8e78eda914a57c007057bd3d165dded98c2"
+    }
+  ],
+  "original_iso_required": true,
+  "cumulative": true,
+  "iso_created": false,
+  "visual_test": "Owner reports v13 works very well; tested with PCSX2 v2.8.2 on 2026-10-12. Tutor coverage remains partial."
+}

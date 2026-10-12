@@ -1,0 +1,1474 @@
+{
+  "source_sha256": "d6d1ad76f990c1af99e6c3c1431092e375c308d80be99b2f5bfe8c51a5f545e5",
+  "base_sha256": "44284f55ee99f13d734346785c1fffee2ce3689e722c9ac264744038ae5fe1d2",
+  "patched_sha256": "9e54f6208f4571ca649bcdda3fb48d18f23b11aa2af2dedb0bcd141748a2c4cc",
+  "counts": {
+    "ui": 66,
+    "tutor": 96,
+    "district": 280
+  },
+  "patches": [
+    {
+      "kind": "ui",
+      "offset": 3460136,
+      "capacity": 13,
+      "japanese": "おみせかかく",
+      "english": "Value",
+      "full_english": "Value",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3460152,
+      "capacity": 15,
+      "japanese": "かいものりょう",
+      "english": "Fee",
+      "full_english": "Fee",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3460192,
+      "capacity": 13,
+      "japanese": "おみせランク",
+      "english": "Shop rank",
+      "full_english": "Shop rank",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3460208,
+      "capacity": 13,
+      "japanese": "ぞうしあまり",
+      "english": "Inv. left",
+      "full_english": "Inv. left",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3461192,
+      "capacity": 9,
+      "japanese": "全員一覧",
+      "english": "All",
+      "full_english": "All",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3461224,
+      "capacity": 14,
+      "japanese": "セリフの表示\n",
+      "english": "Text\n",
+      "full_english": "Text\n",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3461256,
+      "capacity": 14,
+      "japanese": "取り引き設定\n",
+      "english": "Trade\n",
+      "full_english": "Trade\n",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3461272,
+      "capacity": 13,
+      "japanese": "セーブ&中断\n",
+      "english": "Save\n",
+      "full_english": "Save\n",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3462080,
+      "capacity": 13,
+      "japanese": "家庭教師設定",
+      "english": "Tutor",
+      "full_english": "Tutor",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3462096,
+      "capacity": 51,
+      "japanese": "とことんおしえて\nふつうにおしえて\nちょっとおしえて",
+      "english": "Full help\nNormal help\nLess help",
+      "full_english": "Full help\nNormal help\nLess help",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3465720,
+      "capacity": 11,
+      "japanese": "エリアめい",
+      "english": "Area",
+      "full_english": "Area",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3465736,
+      "capacity": 14,
+      "japanese": "ねだん けっか",
+      "english": "Price Result",
+      "full_english": "Price Result",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3467632,
+      "capacity": 9,
+      "japanese": "お金%7dG",
+      "english": "$%7dG",
+      "full_english": "$%7dG",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3467648,
+      "capacity": 9,
+      "japanese": "株　%7dG",
+      "english": "S%7dG",
+      "full_english": "S%7dG",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3467664,
+      "capacity": 9,
+      "japanese": "お店%7dG",
+      "english": "Sh%7dG",
+      "full_english": "Sh%7dG",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3467680,
+      "capacity": 9,
+      "japanese": "合計%7dG",
+      "english": "NW%7dG",
+      "full_english": "NW%7dG",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3467696,
+      "capacity": 12,
+      "japanese": "店の数%6d店",
+      "english": "Shp%6d",
+      "full_english": "Shp%6d",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3467712,
+      "capacity": 12,
+      "japanese": "株の数%6d枚",
+      "english": "Stk%6d",
+      "full_english": "Stk%6d",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3539168,
+      "capacity": 14,
+      "japanese": "設定を変える\n",
+      "english": "Options\n",
+      "full_english": "Options\n",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3541536,
+      "capacity": 19,
+      "japanese": "だれが 遊びますか?",
+      "english": "Who will play?",
+      "full_english": "Who will play?",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3546360,
+      "capacity": 17,
+      "japanese": "目標金額　　　%d",
+      "english": "Goal   %d",
+      "full_english": "Goal   %d",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3546384,
+      "capacity": 17,
+      "japanese": "破産人数　　　%s",
+      "english": "Busts  %s",
+      "full_english": "Busts  %s",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3546408,
+      "capacity": 17,
+      "japanese": "カジノの設定　%s",
+      "english": "Casino %s",
+      "full_english": "Casino %s",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3576488,
+      "capacity": 27,
+      "japanese": "目標金額 %dG\n破産人数 %d人",
+      "english": "Goal %dG\nBusts %d",
+      "full_english": "Goal %dG\nBusts %d",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3576808,
+      "capacity": 48,
+      "japanese": "家庭教師の おしえかたを\n変えることが できます。",
+      "english": "Change how much\nhelp your tutor\ngives you.",
+      "full_english": "Change how much\nhelp your tutor\ngives you.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3599416,
+      "capacity": 106,
+      "japanese": "シンプルな入門用マップ。\n銀行に止まる以外 分岐点はなく\nルートが限られている。\nまずはここで 基本を学ぼう。",
+      "english": "A simple board for\nbeginners. Only the\nbank offers a fork.\nLearn the basics here.",
+      "full_english": "A simple board for\nbeginners. Only the\nbank offers a fork.\nLearn the basics here.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3602688,
+      "capacity": 71,
+      "japanese": "銀行\n マークを集めて来ると\n サラリーをもらえます\n 通過で　株が買えます",
+      "english": "Bank\nAll suits: salary\nPass to buy stock",
+      "full_english": "Bank\nAll suits: salary\nPass to buy stock",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3602760,
+      "capacity": 51,
+      "japanese": "スペード\n 通過すると\n スペードマークを\n もらえます",
+      "english": "Spade\nPass to collect\nthe spade suit",
+      "full_english": "Spade\nPass to collect\nthe spade suit",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3602816,
+      "capacity": 47,
+      "japanese": "ハート\n 通過すると\n ハートマークを\n もらえます",
+      "english": "Heart\nPass to collect\nthe heart suit",
+      "full_english": "Heart\nPass to collect\nthe heart suit",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3602864,
+      "capacity": 47,
+      "japanese": "ダイヤ\n 通過すると\n ダイヤマークを\n もらえます",
+      "english": "Diamond\nPass to collect\nthe diamond suit",
+      "full_english": "Diamond\nPass to collect\nthe diamond suit",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3602912,
+      "capacity": 55,
+      "japanese": "クローバー\n 通過すると\n クローバーマークを\n もらえます",
+      "english": "Club\nPass to collect\nthe club suit",
+      "full_english": "Club\nPass to collect\nthe club suit",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3602968,
+      "capacity": 47,
+      "japanese": "チャンス\n 止まると\n チャンスカードを\n 引けます",
+      "english": "Chance\nLand here to draw\na Chance card",
+      "full_english": "Chance\nLand here to draw\na Chance card",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3603016,
+      "capacity": 60,
+      "japanese": "休日\n 止まっているあいだ\n 止まった人のお店が\n お休み します",
+      "english": "Closed\nYour shops close\nwhile you stay here",
+      "full_english": "Closed\nYour shops close\nwhile you stay here",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3603080,
+      "capacity": 50,
+      "japanese": "ラッキー\n 止まっているあいだ\n わけ前を もらえます",
+      "english": "Lucky\nGet a share of fees\nwhile you stay here",
+      "full_english": "Lucky\nGet a share of fees\nwhile you stay here",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3603136,
+      "capacity": 36,
+      "japanese": "証券取引所\n 止まると\n 株を 買えます",
+      "english": "Broker\nLand here\nto buy stock",
+      "full_english": "Broker\nLand here\nto buy stock",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3603176,
+      "capacity": 50,
+      "japanese": "サイコロ屋\n 止まると もう1回\n サイコロを ふれます",
+      "english": "Dice shop\nLand here to\nroll again",
+      "full_english": "Dice shop\nLand here to\nroll again",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3603232,
+      "capacity": 43,
+      "japanese": "カジノ\n 止まると\n カジノゲームで\n 遊べます",
+      "english": "Casino\nLand here to\nplay a minigame",
+      "full_english": "Casino\nLand here to\nplay a minigame",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3747768,
+      "capacity": 42,
+      "japanese": "はじめまして!\n家庭教師の\n雨宮さやか です!",
+      "english": "Hi! I'm Sayaka\nAmamiya, your\nnew tutor!",
+      "full_english": "Hi! I'm Sayaka Amamiya, your new tutor!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3747816,
+      "capacity": 50,
+      "japanese": "じつは わたし\nひとに教えるのは今日が\n初めてなの。",
+      "english": "Actually, this\nis my first\nday as a\ntutor!",
+      "full_english": "Actually, this is my first day as a tutor!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3747872,
+      "capacity": 63,
+      "japanese": "だからちょっと\nアガってま～す!\nトチったりしても\n笑わないでね。",
+      "english": "I'm nervous!\nIf I slip up,\ndon't laugh at\nme!",
+      "full_english": "I'm nervous! If I slip up, don't laugh at me!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3747936,
+      "capacity": 58,
+      "japanese": "こんにちは!\n雨宮です。  \nまたいっしょに  \nがんばりましょ!",
+      "english": "Hello again!\nIt's Amamiya.\nLet's do our\nbest!",
+      "full_english": "Hello again! It's Amamiya. Let's do our best!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748000,
+      "capacity": 41,
+      "japanese": "じゃ サイコロを      \nふってみて!      \n",
+      "english": "Now, roll the\ndie!\n",
+      "full_english": "Now, roll the die!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748048,
+      "capacity": 44,
+      "japanese": "こんにちは!\nわたしの名前\nもう 覚えてくれた?",
+      "english": "Hello! Do you\nremember my\nname yet?",
+      "full_english": "Hello! Do you remember my name yet?",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748096,
+      "capacity": 26,
+      "japanese": "さてと\nじゃあ いきますか!",
+      "english": "Well then,\nlet's go!",
+      "full_english": "Well then, let's go!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748128,
+      "capacity": 55,
+      "japanese": "こんにちは!\nいたスト大好き家庭教師の\n雨宮さやか です。",
+      "english": "I'm Sayaka. I\nlove this game\nand teaching\nit!",
+      "full_english": "I'm Sayaka. I love this game and teaching it!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748184,
+      "capacity": 42,
+      "japanese": "優勝めざして いっしょに\nがんばりましょう!",
+      "english": "Let's aim for\nfirst place\ntogether!",
+      "full_english": "Let's aim for first place together!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748232,
+      "capacity": 88,
+      "japanese": "サイコロをふると\n出た目の数だけ進めます。\n大きい目だからいいって\nわけじゃないんですよ。",
+      "english": "Roll and move\nthat many.\nHigh rolls may\nnot be best.",
+      "full_english": "Roll and move\nthat many.\nHigh rolls may\nnot be best.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748320,
+      "capacity": 60,
+      "japanese": "あ そうそう\nいたストのサイコロは\nとても不思議なサイコロなの",
+      "english": "Oh, this\ngame's die is\nquite unusual!",
+      "full_english": "Oh, this game's die is quite unusual!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748384,
+      "capacity": 81,
+      "japanese": "いちばん大きい目は\n6とは決まってなくて\n7だったり 8だったり…\nさすがTVゲームよね!",
+      "english": "The maximum\ncan be 7 or 8,\nnot just 6!\nFun, right?",
+      "full_english": "The maximum can be 7 or 8, not just 6! Fun, right?",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748472,
+      "capacity": 69,
+      "japanese": "いちばん大きい目は\nマップごとに決まってるから\n覚えておくと有利かも。",
+      "english": "Each board has\nits own\nmaximum.\nRemember it!",
+      "full_english": "Each board has its own maximum. Remember it!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748544,
+      "capacity": 74,
+      "japanese": "自分のヨコに\n矢印が出てるでしょ?\nその矢印は いま進める\n方向を示してるの。",
+      "english": "The arrows by\nyou show which\nways you can\ngo.",
+      "full_english": "The arrows by you show which ways you can go.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3748624,
+      "capacity": 84,
+      "japanese": "矢印がふたつ以上\n出ているときは\nどっちにでも進めちゃうの!\nあなたの好きな道を選んで!",
+      "english": "More than one\narrow? Pick\nany of those\nroutes!",
+      "full_english": "More than one arrow? Pick any of those routes!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753192,
+      "capacity": 83,
+      "japanese": "【資産表】では いまの\n所持金 持ち株合計\n資産合計 総資産金額を\n見ることができるの。",
+      "english": "Cash, stocks,\nshop values,\nand your total\nassets.",
+      "full_english": "Cash, stocks,\nshop values,\nand your total\nassets.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753280,
+      "capacity": 42,
+      "japanese": "ときどき この表を見て\n作戦を練りましょう!",
+      "english": "Check here now\nand then to\nplan!",
+      "full_english": "Check here now and then to plan!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753328,
+      "capacity": 71,
+      "japanese": "ほかのひとの 様子を\nチェックしたいときは この\n【全員一覧】を 選んでね!",
+      "english": "Pick Players\nto check how\nthe others are\ndoing!",
+      "full_english": "Pick Players to check how the others are doing!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753400,
+      "capacity": 71,
+      "japanese": "お店カーソルを 動かして\nマップの中を\n自由自在にしらべる\nコマンドです。",
+      "english": "Move freely\nto inspect the\nwhole board.",
+      "full_english": "Move freely\nto inspect the\nwhole board.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753472,
+      "capacity": 65,
+      "japanese": "いろんなお店の\nいろんな情報を\nチェックできるから\nためしてみてね!",
+      "english": "You can check\nall kinds of\nshop info\nhere. Try it!",
+      "full_english": "You can check all kinds of shop info here. Try it!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753544,
+      "capacity": 76,
+      "japanese": "サイコロを振る前に\nこのコマンドを選ぶと\n持っている株を\n売ることができます。",
+      "english": "Before rolling\nsell any stock\nyou own here.",
+      "full_english": "Before rolling\nsell any stock\nyou own here.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753624,
+      "capacity": 49,
+      "japanese": "とりあえず\n現金を用意したいときに\n使うと便利よ。",
+      "english": "It's useful\nwhen you need\ncash.",
+      "full_english": "It's useful when you need cash.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753680,
+      "capacity": 78,
+      "japanese": "ただし 同じ株を\nいちどに10株以上売ると\n株価が下がることがあるから\n気をつけて!",
+      "english": "Selling 10 or\nmore shares at\nonce can lower\ntheir price!",
+      "full_english": "Selling 10 or more shares at once can lower their price!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753760,
+      "capacity": 91,
+      "japanese": "【株を見る】コマンドで\nみんなが どんな株を\nどれだけ 持っているか\nしらべることが できます。",
+      "english": "Check Stocks\nto see who\nowns how many\nshares.",
+      "full_english": "Check Stocks to see who owns how many shares.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753856,
+      "capacity": 72,
+      "japanese": "だれが どの株を\n持っているかを\n知っておくのは\nけっこう 大事だったりして",
+      "english": "Knowing who\nowns which\nstocks is\nimportant!",
+      "full_english": "Knowing who owns which stocks is important!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3753928,
+      "capacity": 71,
+      "japanese": "サイコロをふる前に\n【競売】を 選ぶと\n自分のお店を\n競売にかけられるわ。",
+      "english": "Before rolling\npick Bid to\nauction your\nshop.",
+      "full_english": "Before rolling\npick Bid to\nauction your\nshop.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3754000,
+      "capacity": 93,
+      "japanese": "サイコロをふったあとで\n赤字になって むりやり\nお店を売らされる場合は\n手数料をとられるけど……",
+      "english": "Forced sales\nafter rolling\ncost you a\nfee...",
+      "full_english": "Forced sales after rolling cost you a fee...",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3754096,
+      "capacity": 83,
+      "japanese": "前もって このコマンドで\n売り出しておけば\n買い取り価格が全部\nあなたの収入になるの。",
+      "english": "Sell early to\nkeep the whole\nsale price.",
+      "full_english": "Sell early to\nkeep the whole\nsale price.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3754184,
+      "capacity": 36,
+      "japanese": "お店を売るのは\n危険な賭けだけど……",
+      "english": "Selling shops\nis risky...",
+      "full_english": "Selling shops is risky...",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3754224,
+      "capacity": 58,
+      "japanese": "このコマンドを\n使いこなせるようになれば\nいたストの鉄人ね!",
+      "english": "Master this\ncommand and\nyou'll be an\nexpert!",
+      "full_english": "Master this command and you'll be an expert!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3754984,
+      "capacity": 97,
+      "japanese": "ほかのひとの お店が いま\nどうしても ほしいときは\n【買いたい】コマンドで\n取り引きを もちかけるの!",
+      "english": "Want another\nplayer's shop?\nUse Buy to\nmake an offer!",
+      "full_english": "Want another player's shop? Use Buy to make an offer!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3755088,
+      "capacity": 91,
+      "japanese": "お店の買い値は あなたが\n決めることができます。\nもちろん 相手には\nことわる権利が あるけどね",
+      "english": "Set a price.\nThe owner can\nrefuse.",
+      "full_english": "Set a price.\nThe owner can\nrefuse.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3762168,
+      "capacity": 47,
+      "japanese": "ここでは\nチャンスカードを\n引くことができます。",
+      "english": "You can draw a\nChance card\nhere.",
+      "full_english": "You can draw a Chance card here.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3762216,
+      "capacity": 82,
+      "japanese": "チャンスカードで\nなにが起こるかは\nカードごとに さまざま。\nさっそく1枚 引いてみて!",
+      "english": "Each card has\na different\neffect. Draw\none!",
+      "full_english": "Each card has\na different\neffect. Draw\none!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3762304,
+      "capacity": 32,
+      "japanese": "何か いいことが\nおきますように!",
+      "english": "Hope it's\nlucky!",
+      "full_english": "Hope it's lucky!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3762336,
+      "capacity": 20,
+      "japanese": "さあ\nめくって みて!",
+      "english": "Turn it over!",
+      "full_english": "Turn it over!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3762360,
+      "capacity": 92,
+      "japanese": "ラッキーな できごと。\nアンラッキーな できごと。\nさあ このカードには\n何が 書いてあるかしら。",
+      "english": "Good luck or\nbad luck...\nWhat does this\ncard say?",
+      "full_english": "Good luck or bad luck... What does this card say?",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3762456,
+      "capacity": 34,
+      "japanese": "さっそく なかみを\nみてみましょう!",
+      "english": "Let's find\nout!",
+      "full_english": "Let's find out!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3764784,
+      "capacity": 36,
+      "japanese": "▲▼◆■のことを\nマークと呼びます。",
+      "english": "These four\nsymbols are\nsuits.",
+      "full_english": "These four symbols are suits.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3764824,
+      "capacity": 53,
+      "japanese": "マークは\nマークマスを通ると\nあつめることができるの。",
+      "english": "Pass a suit\nspace to\ncollect its\nsuit.",
+      "full_english": "Pass a suit space to collect its suit.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3764880,
+      "capacity": 65,
+      "japanese": "最初のうちは きちんと\nマークを そろえて\nサラリーを もらいましょ!",
+      "english": "At first,\nfocus on suits\nand collecting\nyour salary!",
+      "full_english": "At first, focus on suits and collecting your salary!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3787760,
+      "capacity": 34,
+      "japanese": "少しだけど 今回は\nもうかったわね!",
+      "english": "You made a\nsmall profit!",
+      "full_english": "You made a small profit!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3787800,
+      "capacity": 37,
+      "japanese": "今回は\n株価が 上がって\nもうかったわ!",
+      "english": "Stocks rose!\nYou profited!",
+      "full_english": "Stocks rose!\nYou profited!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3796576,
+      "capacity": 59,
+      "japanese": "じゃあ はじめましょう!\nええ～っと…\n何から説明しようかな。",
+      "english": "Let's begin!\nUm... Where\nshould I\nstart?",
+      "full_english": "Let's begin! Um... Where should I start?",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3796640,
+      "capacity": 64,
+      "japanese": "いたストの基本は…\n…あ いたストって\nいただきストリートのことよ",
+      "english": "ItaSt means\nItadaki Street\nNow, the\nbasics...",
+      "full_english": "ItaSt means\nItadaki Street\nNow, the\nbasics...",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3796704,
+      "capacity": 49,
+      "japanese": "みんな\nそう呼んでるみたいだから\n覚えておいてね。",
+      "english": "Everyone calls\nit that. Keep\nit in mind!",
+      "full_english": "Everyone calls it that. Keep it in mind!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3796760,
+      "capacity": 48,
+      "japanese": "さて! いたストは\nすごろくスタイルの\nゲームです!",
+      "english": "Now! This is a\nroll-and-move\nboard game!",
+      "full_english": "Now! This is a roll-and-move board game!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3796808,
+      "capacity": 46,
+      "japanese": "まず サイコロをふって\n出た目の数だけ進んでね!",
+      "english": "Roll the die.\nMove that many\nspaces!",
+      "full_english": "Roll the die. Move that many spaces!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3799304,
+      "capacity": 82,
+      "japanese": "このコマンドでは\nいま プレーしている\nマップの 目標金額を\n確かめることができます。",
+      "english": "Use this to\ncheck the\nboard's target\nnet worth.",
+      "full_english": "Use this to check the board's target net worth.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3799392,
+      "capacity": 74,
+      "japanese": "ときどき 目標金額が\nちがうマップも あるから\nこれで 確認しておくと\n安心よ!",
+      "english": "The target can\nvary by board.\nCheck it to be\nsure!",
+      "full_english": "The target can vary by board. Check it to be sure!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3801056,
+      "capacity": 61,
+      "japanese": "こんなところで 株が\n買えるなんて ラッキー!\n買っておきましょ!",
+      "english": "Lucky! We can\nbuy stocks\nhere. Let's\nbuy some!",
+      "full_english": "Lucky! We can buy stocks here. Let's buy some!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3801120,
+      "capacity": 71,
+      "japanese": "できれば 株を買いたいけど\nいまは ちょっとね……。\n今回は パスしましょ!",
+      "english": "I'd like to\nbuy stocks,\nbut let's pass\nthis time.",
+      "full_english": "I'd like to buy stocks, but let's pass this time.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3802192,
+      "capacity": 79,
+      "japanese": "やあ はじめまして!\nボクが キミの家庭教師を\nつとめることになった\n雷門ひかるだ。",
+      "english": "Hi! I'm Hikaru\nRaimon, your\npersonal\ntutor.",
+      "full_english": "Hi! I'm Hikaru Raimon, your personal tutor.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3802272,
+      "capacity": 97,
+      "japanese": "いただきストリートの\n遊び方や勝ち方の基本を\nみっちりアドバイスするから\nしっかり身につけてくれよ!",
+      "english": "I'll teach you\nhow to play\nand win. Learn\nit well!",
+      "full_english": "I'll teach you how to play and win. Learn it well!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3802376,
+      "capacity": 52,
+      "japanese": "さあ この\n雷門ひかるといっしょに\nトップを めざそう!",
+      "english": "With me,\nHikaru Raimon,\nlet's aim for\nthe top!",
+      "full_english": "With me, Hikaru Raimon, let's aim for the top!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3802432,
+      "capacity": 63,
+      "japanese": "そろそろ いたストの\nプレーにも慣れたかな?\nでも 油断は禁物だぜ!",
+      "english": "Getting used\nto the game?\nDon't let your\nguard down!",
+      "full_english": "Getting used to the game? Don't let your guard down!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3802496,
+      "capacity": 93,
+      "japanese": "マップ 相手 イベント\nなどによって いろいろ\n勝ち方も 変わってくるのが\nいたストの面白いとこさ!",
+      "english": "Boards, rivals\nand events all\nchange how you\nwin!",
+      "full_english": "Boards, rivals and events all change how you win!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3802592,
+      "capacity": 28,
+      "japanese": "さて 今回は\n何が起きるかな?",
+      "english": "What happens\nthis time?",
+      "full_english": "What happens this time?",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3802624,
+      "capacity": 78,
+      "japanese": "いよいよ勝負開始だね!\nサイコロを ふったら\n出た目の数だけ\n進むことができるよ。",
+      "english": "Let's begin!\nRoll the die\nand move that\nmany spaces.",
+      "full_english": "Let's begin! Roll the die and move that many spaces.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3802704,
+      "capacity": 92,
+      "japanese": "ちなみに マップしだいで\nサイコロの最大目の数は\n6とか8とか いろいろに\n変わるから 気をつけて!",
+      "english": "Max die rolls\nvary by board:\n6, 8, etc.\nWatch out!",
+      "full_english": "Max die rolls\nvary by board:\n6, 8, etc.\nWatch out!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3802800,
+      "capacity": 86,
+      "japanese": "振ったあとは\n矢印の向きに注目しよう!\n進む方向を 選べるときと\nそうでないときがあるよ!\n",
+      "english": "Watch arrows\nwhen you roll.\nSometimes you\nchoose a way.\n",
+      "full_english": "Watch arrows\nwhen you roll.\nSometimes you\nchoose a way.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3807120,
+      "capacity": 63,
+      "japanese": "他の人の お店に止まると\n買い物料を 払わなきゃ\nいけないんだけど",
+      "english": "Land on a\nrival's shop\nand you must\npay its fee.",
+      "full_english": "Land on a rival's shop and you must pay its fee.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3807272,
+      "capacity": 53,
+      "japanese": "ちなみに マスに見えてる\n数字が 買い物料の\n金額だよ。",
+      "english": "The number on\na shop space\nis its fee.",
+      "full_english": "The number on a shop space is its fee.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3807328,
+      "capacity": 87,
+      "japanese": "この表では キミの現在の\n所持金やお店や株の価値など\n資産の状態を\n見ることができるんだ。",
+      "english": "See your cash,\nshop and stock\nvalues, and\ntotal assets.",
+      "full_english": "See your cash,\nshop and stock\nvalues, and\ntotal assets.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3807416,
+      "capacity": 78,
+      "japanese": "自分のおかれた状況を\nきちんと知るためにも\nときどきチェックして\nみるといいね。",
+      "english": "Check now and\nthen to\nunderstand\nyour position.",
+      "full_english": "Check now and then to understand your position.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3807496,
+      "capacity": 96,
+      "japanese": "ここでは 全員の資産表を\n見ることができるんだ。\nしっかりと いまの状況を\nつかんで 勝利をめざそう!",
+      "english": "See everyone's\nassets. Assess\nthings and aim\nto win!",
+      "full_english": "See everyone's\nassets. Assess\nthings and aim\nto win!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3807592,
+      "capacity": 66,
+      "japanese": "ここでは このマップ全体を\n好きなように移動して\n見ることができる。",
+      "english": "Move around\nfreely to\ninspect the\nwhole board.",
+      "full_english": "Move around freely to inspect the whole board.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3807664,
+      "capacity": 94,
+      "japanese": "サイコロを振る前に\nルートやお店の状況や\nこれから進みそうな地域の\n状況をチェックするといいよ。",
+      "english": "Before rolling\ncheck routes,\nshops, areas\nahead.",
+      "full_english": "Before rolling\ncheck routes,\nshops, areas\nahead.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3807760,
+      "capacity": 69,
+      "japanese": "ここでは 自分が持っている\n株の中から 好きな株を\n売ることができるよ。",
+      "english": "Here you can\nsell any of\nthe stocks you\nown.",
+      "full_english": "Here you can sell any of the stocks you own.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3807832,
+      "capacity": 91,
+      "japanese": "ただし もってる株を\n10株以上売ると その株価が\n下がってしまうことがある。\n気をつけてくれよ!",
+      "english": "Selling 10+\nshares can\nlower prices.\nBe careful!",
+      "full_english": "Selling 10+\nshares can\nlower prices.\nBe careful!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3807928,
+      "capacity": 72,
+      "japanese": "ここでは みんながどの株を\nいくつ持ってるかを\n一覧表でチェックできるよ。",
+      "english": "See everyone's\nstocks and\nshare counts\nin this table.",
+      "full_english": "See everyone's stocks and share counts in this table.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3808000,
+      "capacity": 71,
+      "japanese": "ほかの人の持ち株を\nきちんと知っておくことも\nこのゲームのポイントだね。",
+      "english": "Knowing your\nrivals' stock\nholdings\nmatters too!",
+      "full_english": "Knowing your rivals' stock holdings matters too!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3808072,
+      "capacity": 74,
+      "japanese": "ここでは 現金がほしいとき\nキミが持ってるお店を\n競売に出すことができるよ。",
+      "english": "Need cash?\nAuction one of\nyour shops\nhere.",
+      "full_english": "Need cash? Auction one of your shops here.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3808152,
+      "capacity": 90,
+      "japanese": "赤字になってから売ると\n銀行に手数料をとられるけど\nいまのタイミングで\n先に売った場合は……",
+      "english": "Forced sales\nin debt cost a\nbank fee. Sell\nearly...",
+      "full_english": "Forced sales\nin debt cost a\nbank fee. Sell\nearly...",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3808248,
+      "capacity": 88,
+      "japanese": "買いとり金額がそのまま\nキミの収入になる。\nそういう意味ではけっこう\n大事なメニューだね。",
+      "english": "You keep the\nfull price!\nThat's why the\nmenu matters!",
+      "full_english": "You keep the\nfull price!\nThat's why the\nmenu matters!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3808336,
+      "capacity": 67,
+      "japanese": "いま 競売は\nおすすめしたくないね。\n誰に買われるか\nわからないしね。",
+      "english": "Don't auction\nnow. We can't\nchoose buyers.",
+      "full_english": "Don't auction\nnow. We can't\nchoose buyers.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3809016,
+      "capacity": 86,
+      "japanese": "ほかの人が持ってるお店を\nお金をはらって買いとりたい\nというときのための\nメニューだよ。",
+      "english": "Use this menu\nto offer cash\nfor another\nplayer's shop.",
+      "full_english": "Use this menu to offer cash for another player's shop.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3809104,
+      "capacity": 98,
+      "japanese": "買いたいお店を指定して\n自分で値段をつけることが\nできるんだ。もちろん\nその先は相手しだいだけどね。",
+      "english": "Pick a shop.\nSet a price.\nThe owner can\nrefuse.",
+      "full_english": "Pick a shop.\nSet a price.\nThe owner can\nrefuse.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3809672,
+      "capacity": 62,
+      "japanese": "このメニューを使えば\n自分のお店を 誰かに\n売ることができるよ。",
+      "english": "Sell your shop\nto another\nplayer here.",
+      "full_english": "Sell your shop\nto another\nplayer here.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3816712,
+      "capacity": 71,
+      "japanese": "【?】マークのマスに\nとまったときは\nチャンスカードを\n引くことができる。",
+      "english": "Land on a [?]\nspace to draw\na Chance card.",
+      "full_english": "Land on a [?] space to draw a Chance card.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3816784,
+      "capacity": 57,
+      "japanese": "引いた結果\nいったい何が起きるかは\nあけてみてのお楽しみ。",
+      "english": "What will\nhappen? Turn\nit over to\nfind out!",
+      "full_english": "What will happen? Turn it over to find out!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3816848,
+      "capacity": 90,
+      "japanese": "実はこのパネルは 同じ人が\n4枚以上並べてめくると\nボーナスがもらえるしくみに\nなってるんだ。",
+      "english": "Reveal 4 or\nmore panels in\na row to earn\na bonus!",
+      "full_english": "Reveal 4 or more panels in a row to earn a bonus!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3816944,
+      "capacity": 90,
+      "japanese": "だから チャンスカードは\nタテ・ヨコ・ナナメ\nどれかの方向に 1列続けて\nめくっていくといいよ!",
+      "english": "Reveal panels\nin a row:\nacross, down\nor diagonally!",
+      "full_english": "Reveal panels in a row: across, down or diagonally!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3817040,
+      "capacity": 91,
+      "japanese": "チャンスカードをひくと\nいいこと 悪いこと\nヘンなこと……とにかく\nいろんなことが起きるんだ。",
+      "english": "Chance cards\ncan bring\ngood, bad or\nweird events!",
+      "full_english": "Chance cards can bring good, bad or weird events!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3817136,
+      "capacity": 52,
+      "japanese": "さあ 今回は\n何が起きるのかな?\nとにかくグッドラック!",
+      "english": "What will\nhappen now?\nGood luck!",
+      "full_english": "What will happen now? Good luck!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3819352,
+      "capacity": 24,
+      "japanese": "よーし マーク1つゲット!",
+      "english": "Got one suit!",
+      "full_english": "Got one suit!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3819376,
+      "capacity": 97,
+      "japanese": "出発前にも話したけど\n▲▼◆■の 4つのマークを\nそろえてから銀行を通れば\nサラリーが もらえるんだ。",
+      "english": "Get all 4\nsuits, then\npass the bank\nfor a salary.",
+      "full_english": "Get all 4\nsuits, then\npass the bank\nfor a salary.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3819480,
+      "capacity": 74,
+      "japanese": "あと3つのマークは\nどこに行けばそろうのか\nきっちりチェックして\n先に進もう!",
+      "english": "Check where to\nget the other\n3 suits, then\nmove on!",
+      "full_english": "Check where to get the other 3 suits, then move on!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3839344,
+      "capacity": 33,
+      "japanese": "今回 多少は\nもうかったようだね。",
+      "english": "Made a small\nprofit!",
+      "full_english": "Made a small\nprofit!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3839384,
+      "capacity": 40,
+      "japanese": "今回は\nきみの持ってる\n株価が上がったぞ!",
+      "english": "Your stocks\nwent up in\nprice!",
+      "full_english": "Your stocks went up in price!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3848168,
+      "capacity": 75,
+      "japanese": "まずはサイコロを振って\n出た目の数だけ進むのが\nいただきストリートの基本だ。",
+      "english": "Basic rule:\nroll the die.\nMove that many\nspaces.",
+      "full_english": "Basic rule:\nroll the die.\nMove that many\nspaces.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3848248,
+      "capacity": 88,
+      "japanese": "ちなみに ▲▼◆■の\n4つのマークの場所を通って\n銀行に戻ってくれば\nサラリーがもらえるよ。",
+      "english": "Pass all 4\nsuit spaces,\nthen the bank\nfor a salary.",
+      "full_english": "Pass all 4\nsuit spaces,\nthen the bank\nfor a salary.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3850568,
+      "capacity": 60,
+      "japanese": "このコマンドを選ぶと\nマップの クリア条件を\n確認できるんだ。",
+      "english": "Use this to\ncheck the\nboard's win\nconditions.",
+      "full_english": "Use this to check the board's win conditions.",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3850632,
+      "capacity": 55,
+      "japanese": "しっかり 確認して\nぼくと いっしょに\n目標を めざそうぜ!",
+      "english": "Check the goal\nLet's reach it\ntogether!",
+      "full_english": "Check the goal\nLet's reach it\ntogether!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3851824,
+      "capacity": 56,
+      "japanese": "高くっても\nせっかくの チャンスだ。\n株を 買っておこうぜ!",
+      "english": "Even at a high\nprice, this is\na chance to\nbuy stocks!",
+      "full_english": "Even at a high price, this is a chance to buy stocks!",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "tutor",
+      "offset": 3851880,
+      "capacity": 48,
+      "japanese": "いくら 株を買えても\nいま 高いお金は\n払えないよ!",
+      "english": "We can't pay\na high price\nfor stocks now",
+      "full_english": "We can't pay\na high price\nfor stocks now",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901384,
+      "capacity": 7,
+      "japanese": "ろてん",
+      "english": "Stall",
+      "full_english": "Stall",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901392,
+      "capacity": 7,
+      "japanese": "あきち",
+      "english": "Plot",
+      "full_english": "Plot",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901472,
+      "capacity": 7,
+      "japanese": "なまえ",
+      "english": "Name",
+      "full_english": "Name",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901480,
+      "capacity": 7,
+      "japanese": "おかね",
+      "english": "Cash",
+      "full_english": "Cash",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901488,
+      "capacity": 5,
+      "japanese": "かぶ",
+      "english": "Stk",
+      "full_english": "Stk",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901496,
+      "capacity": 7,
+      "japanese": "おみせ",
+      "english": "Shops",
+      "full_english": "Shops",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901512,
+      "capacity": 7,
+      "japanese": "%dけん",
+      "english": "%d",
+      "full_english": "%d",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901520,
+      "capacity": 7,
+      "japanese": "%dまい",
+      "english": "%d",
+      "full_english": "%d",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901528,
+      "capacity": 7,
+      "japanese": "バッジ",
+      "english": "Badge",
+      "full_english": "Badge",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901536,
+      "capacity": 7,
+      "japanese": "やすみ",
+      "english": "Closed",
+      "full_english": "Closed",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901544,
+      "capacity": 7,
+      "japanese": "カジノ",
+      "english": "Casino",
+      "full_english": "Casino",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901568,
+      "capacity": 6,
+      "japanese": "競売\n",
+      "english": "Bid\n",
+      "full_english": "Bid\n",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901576,
+      "capacity": 6,
+      "japanese": "交換\n",
+      "english": "Swap\n",
+      "full_english": "Swap\n",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901584,
+      "capacity": 5,
+      "japanese": "改築",
+      "english": "Redo",
+      "full_english": "Redo",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901592,
+      "capacity": 8,
+      "japanese": "資産表\n",
+      "english": "Net\n",
+      "full_english": "Net\n",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901600,
+      "capacity": 8,
+      "japanese": "はやい\n",
+      "english": "Fast\n",
+      "full_english": "Fast\n",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901608,
+      "capacity": 8,
+      "japanese": "ふつう\n",
+      "english": "Normal\n",
+      "full_english": "Normal\n",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901616,
+      "capacity": 7,
+      "japanese": "おそい",
+      "english": "Slow",
+      "full_english": "Slow",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901624,
+      "capacity": 6,
+      "japanese": "はい\n",
+      "english": "Yes\n",
+      "full_english": "Yes\n",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901632,
+      "capacity": 7,
+      "japanese": "いいえ",
+      "english": "No",
+      "full_english": "No",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901696,
+      "capacity": 5,
+      "japanese": "%d周",
+      "english": "L%d",
+      "full_english": "L%d",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901712,
+      "capacity": 7,
+      "japanese": "ねだん",
+      "english": "Price",
+      "full_english": "Price",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901720,
+      "capacity": 7,
+      "japanese": "のこり",
+      "english": "Left",
+      "full_english": "Left",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901728,
+      "capacity": 7,
+      "japanese": "けっか",
+      "english": "Result",
+      "full_english": "Result",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3901784,
+      "capacity": 7,
+      "japanese": "%dかぶ",
+      "english": "%d",
+      "full_english": "%d",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3902200,
+      "capacity": 5,
+      "japanese": "お金",
+      "english": "$",
+      "full_english": "$",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3902208,
+      "capacity": 3,
+      "japanese": "株",
+      "english": "S",
+      "full_english": "S",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3902216,
+      "capacity": 5,
+      "japanese": "お店",
+      "english": "Sh",
+      "full_english": "Sh",
+      "visual_status": "not yet tested"
+    },
+    {
+      "kind": "ui",
+      "offset": 3902224,
+      "capacity": 5,
+      "japanese": "合計",
+      "english": "NW",
+      "full_english": "NW",
+      "visual_status": "not yet tested"
+    }
+  ],
+  "code_changes": 0,
+  "tutor_renderer": "direct 0x139390, no card-formatter escaping",
+  "tutor_table_pages": 1825,
+  "tutor_pages_covered": 96
+}

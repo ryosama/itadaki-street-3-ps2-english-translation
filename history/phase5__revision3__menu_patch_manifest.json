@@ -1,0 +1,352 @@
+{
+  "source_sha256": "d6d1ad76f990c1af99e6c3c1431092e375c308d80be99b2f5bfe8c51a5f545e5",
+  "base_sha256": "e4c1917834ca50c6b2ab4326a01bd096e1df5a91c9b6d63b44aef5e8835f685d",
+  "patched_sha256": "7ca5c38cfb1c629a91abbe3a78e4d2f54fbad0bacd8c5e62ba702d3cfbb0501c",
+  "size": 3923328,
+  "menu_patch_count": 28,
+  "menu_changed_byte_count": 663,
+  "patches": [
+    {
+      "kind": "main_label",
+      "offset": 3540592,
+      "virtual_address": 4585072,
+      "japanese": "フリープレイ\n",
+      "english": "Free Play\n",
+      "capacity_including_nul": 14,
+      "used_including_nul": 11,
+      "pointer_offsets": [
+        3149048
+      ]
+    },
+    {
+      "kind": "main_label",
+      "offset": 3540608,
+      "virtual_address": 4585088,
+      "japanese": "家庭教師モード\n",
+      "english": "Tutor Mode\n",
+      "capacity_including_nul": 16,
+      "used_including_nul": 12,
+      "pointer_offsets": [
+        3149052
+      ]
+    },
+    {
+      "kind": "main_label",
+      "offset": 3540624,
+      "virtual_address": 4585104,
+      "japanese": "トーナメント\n",
+      "english": "Tournament\n",
+      "capacity_including_nul": 14,
+      "used_including_nul": 12,
+      "pointer_offsets": [
+        3149056
+      ]
+    },
+    {
+      "kind": "main_label",
+      "offset": 3540640,
+      "virtual_address": 4585120,
+      "japanese": "育成モード\n",
+      "english": "Training\n",
+      "capacity_including_nul": 12,
+      "used_including_nul": 10,
+      "pointer_offsets": [
+        3149060
+      ]
+    },
+    {
+      "kind": "main_label",
+      "offset": 3540656,
+      "virtual_address": 4585136,
+      "japanese": "いただきクエスト\n",
+      "english": "Quest\n",
+      "capacity_including_nul": 18,
+      "used_including_nul": 7,
+      "pointer_offsets": [
+        3149064
+      ]
+    },
+    {
+      "kind": "main_label",
+      "offset": 3540680,
+      "virtual_address": 4585160,
+      "japanese": "データをみる\n",
+      "english": "Records\n",
+      "capacity_including_nul": 14,
+      "used_including_nul": 9,
+      "pointer_offsets": [
+        3149068
+      ]
+    },
+    {
+      "kind": "main_label",
+      "offset": 3540696,
+      "virtual_address": 4585176,
+      "japanese": "ルール説明\n",
+      "english": "Rules\n",
+      "capacity_including_nul": 12,
+      "used_including_nul": 7,
+      "pointer_offsets": [
+        3149072
+      ]
+    },
+    {
+      "kind": "main_label",
+      "offset": 3540712,
+      "virtual_address": 4585192,
+      "japanese": "ゲームをおわる",
+      "english": "Quit Game",
+      "capacity_including_nul": 15,
+      "used_including_nul": 10,
+      "pointer_offsets": [
+        3149076
+      ]
+    },
+    {
+      "kind": "player_label",
+      "offset": 3904872,
+      "virtual_address": 4949352,
+      "japanese": "ひとり\n",
+      "english": "1P\n",
+      "capacity_including_nul": 8,
+      "used_including_nul": 4,
+      "pointer_offsets": [
+        3140984,
+        3143392
+      ]
+    },
+    {
+      "kind": "player_label",
+      "offset": 3904880,
+      "virtual_address": 4949360,
+      "japanese": "ふたり\n",
+      "english": "2P\n",
+      "capacity_including_nul": 8,
+      "used_including_nul": 4,
+      "pointer_offsets": [
+        3140988,
+        3143396
+      ]
+    },
+    {
+      "kind": "player_label",
+      "offset": 3539136,
+      "virtual_address": 4583616,
+      "japanese": "さんにん\n",
+      "english": "3P\n",
+      "capacity_including_nul": 10,
+      "used_including_nul": 4,
+      "pointer_offsets": [
+        3143400
+      ]
+    },
+    {
+      "kind": "player_label",
+      "offset": 3904928,
+      "virtual_address": 4949408,
+      "japanese": "よにん\n",
+      "english": "4P\n",
+      "capacity_including_nul": 8,
+      "used_including_nul": 4,
+      "pointer_offsets": [
+        3143404
+      ]
+    },
+    {
+      "kind": "data_label",
+      "offset": 3539536,
+      "virtual_address": 4584016,
+      "japanese": "記録を見る\n",
+      "english": "View\n",
+      "capacity_including_nul": 12,
+      "used_including_nul": 6,
+      "pointer_offsets": [
+        3145420
+      ]
+    },
+    {
+      "kind": "data_label",
+      "offset": 3539552,
+      "virtual_address": 4584032,
+      "japanese": "記録を消す\n",
+      "english": "Erase\n",
+      "capacity_including_nul": 12,
+      "used_including_nul": 7,
+      "pointer_offsets": [
+        3145424
+      ]
+    },
+    {
+      "kind": "data_label",
+      "offset": 3539568,
+      "virtual_address": 4584048,
+      "japanese": "データロード\n",
+      "english": "Load\n",
+      "capacity_including_nul": 14,
+      "used_including_nul": 6,
+      "pointer_offsets": [
+        3145428
+      ]
+    },
+    {
+      "kind": "data_label",
+      "offset": 3539584,
+      "virtual_address": 4584064,
+      "japanese": "データセーブ",
+      "english": "Save",
+      "capacity_including_nul": 13,
+      "used_including_nul": 5,
+      "pointer_offsets": [
+        3145432
+      ]
+    },
+    {
+      "kind": "main_description",
+      "offset": 3608144,
+      "virtual_address": 4652624,
+      "japanese": "みんなで 対戦もできる\nゲームモードです。",
+      "english": "Play a game\nwith friends\nor the CPU.",
+      "capacity_including_nul": 41,
+      "used_including_nul": 37,
+      "pointer_offsets": [
+        3254816
+      ]
+    },
+    {
+      "kind": "main_description",
+      "offset": 3608192,
+      "virtual_address": 4652672,
+      "japanese": "家庭教師の先生に\nいろいろ 教えてもらえる\nゲームモードです。",
+      "english": "Learn to play\nwith your tutor.",
+      "capacity_including_nul": 60,
+      "used_including_nul": 31,
+      "pointer_offsets": [
+        3254820
+      ]
+    },
+    {
+      "kind": "main_description",
+      "offset": 3608256,
+      "virtual_address": 4652736,
+      "japanese": "ひとりで 遊ぶ\n勝ち抜き形式の\nゲームモードです。",
+      "english": "Play solo in\na knockout\ntournament.",
+      "capacity_including_nul": 48,
+      "used_including_nul": 36,
+      "pointer_offsets": [
+        3254824
+      ]
+    },
+    {
+      "kind": "main_description",
+      "offset": 3608304,
+      "virtual_address": 4652784,
+      "japanese": "キャラクターを 育てて遊べる\nゲームモードです。",
+      "english": "Train your\ncharacter\nas you play.",
+      "capacity_including_nul": 47,
+      "used_including_nul": 34,
+      "pointer_offsets": [
+        3254828
+      ]
+    },
+    {
+      "kind": "main_description",
+      "offset": 3608352,
+      "virtual_address": 4652832,
+      "japanese": "いろいろな 場面からの\nクリアを めざす\nゲームモードです。",
+      "english": "Clear goals in\nvaried starting\nsituations.",
+      "capacity_including_nul": 57,
+      "used_including_nul": 43,
+      "pointer_offsets": [
+        3254832
+      ]
+    },
+    {
+      "kind": "main_description",
+      "offset": 3608416,
+      "virtual_address": 4652896,
+      "japanese": "いままでの ゲーム成績を\n見ることが できます。",
+      "english": "View your past\nresults.",
+      "capacity_including_nul": 46,
+      "used_including_nul": 24,
+      "pointer_offsets": [
+        3254836
+      ]
+    },
+    {
+      "kind": "main_description",
+      "offset": 3608464,
+      "virtual_address": 4652944,
+      "japanese": "いただきストリートの\nゲームの説明を\n聞くことが できます。",
+      "english": "Learn the rules\nof Itadaki\nStreet.",
+      "capacity_including_nul": 58,
+      "used_including_nul": 35,
+      "pointer_offsets": [
+        3254840
+      ]
+    },
+    {
+      "kind": "main_description",
+      "offset": 3608528,
+      "virtual_address": 4653008,
+      "japanese": "いただきストリートを\nおわります。",
+      "english": "End the game.",
+      "capacity_including_nul": 34,
+      "used_including_nul": 14,
+      "pointer_offsets": [
+        3254844
+      ]
+    },
+    {
+      "kind": "prompt",
+      "offset": 3541272,
+      "virtual_address": 4585752,
+      "japanese": "何人で 遊びますか?",
+      "english": "Players?",
+      "capacity_including_nul": 19,
+      "used_including_nul": 9,
+      "pointer_offsets": []
+    },
+    {
+      "kind": "prompt",
+      "offset": 3540560,
+      "virtual_address": 4585040,
+      "japanese": "いただきストリートへ\nようこそ。",
+      "english": "Welcome to\nItadaki Street.",
+      "capacity_including_nul": 32,
+      "used_including_nul": 27,
+      "pointer_offsets": []
+    },
+    {
+      "kind": "prompt",
+      "offset": 3540776,
+      "virtual_address": 4585256,
+      "japanese": "今日は どのモードで\n遊びますか?",
+      "english": "Choose a mode.",
+      "capacity_including_nul": 32,
+      "used_including_nul": 15,
+      "pointer_offsets": []
+    },
+    {
+      "kind": "prompt",
+      "offset": 3553040,
+      "virtual_address": 4597520,
+      "japanese": "どれにしますか？",
+      "english": "Which option?",
+      "capacity_including_nul": 17,
+      "used_including_nul": 14,
+      "pointer_offsets": []
+    }
+  ],
+  "code_changed": true,
+  "pointers_changed": false,
+  "runtime_verified": false,
+  "font_patch": {
+    "offset": 790984,
+    "virtual_address": 1835464,
+    "original_hex": "14000624",
+    "patched_hex": "10000624",
+    "original": "addiu a2,zero,20",
+    "patched": "addiu a2,zero,16",
+    "scope": "menu-building helper 0x1C015C; may affect its other menu groups"
+  }
+}

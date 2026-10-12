@@ -1,0 +1,2706 @@
+{
+  "source": "decompile\\SLPM_621.12",
+  "base": "translation_work\\phase5\\revision3\\patched\\SLPM_621.12",
+  "source_sha256": "d6d1ad76f990c1af99e6c3c1431092e375c308d80be99b2f5bfe8c51a5f545e5",
+  "base_sha256": "7ca5c38cfb1c629a91abbe3a78e4d2f54fbad0bacd8c5e62ba702d3cfbb0501c",
+  "patched_sha256": "caf7931bcf43c87de8c2363dedd05fff0cbe7fbe720bbdcb80af658d0f687889",
+  "file_size": 3923328,
+  "changed_bytes_from_base": 11446,
+  "unique_allocations": 334,
+  "stats": {
+    "card_summary": {
+      "total": 185,
+      "integrated": 177,
+      "drafts": 8
+    },
+    "card_detail": {
+      "total": 140,
+      "integrated": 129,
+      "drafts": 11
+    },
+    "save_load_ui": {
+      "total": 30,
+      "integrated": 30,
+      "drafts": 0
+    },
+    "training_ui": {
+      "total": 2,
+      "integrated": 2,
+      "drafts": 0
+    }
+  },
+  "patches": [
+    {
+      "kind": "card_summary",
+      "id": "1",
+      "offset": 3576944,
+      "capacity": 21,
+      "english": "Change\ncourse!",
+      "encoded_text": "Change\ncourse!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "2",
+      "offset": 3576968,
+      "capacity": 15,
+      "english": "Roll\nagain!",
+      "encoded_text": "Roll\nagain!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "3",
+      "offset": 3576984,
+      "capacity": 38,
+      "english": "Warp:\nany but\nChance!",
+      "encoded_text": "Warp:\nany but\nChance!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "4",
+      "offset": 3577024,
+      "capacity": 21,
+      "english": "Give\n100G!",
+      "encoded_text": "Give\n100G!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "5",
+      "offset": 3577048,
+      "capacity": 30,
+      "english": "Any shop\nor plot:\nwarp!",
+      "encoded_text": "Any shop\nor plot:\nwarp!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "6",
+      "offset": 3577080,
+      "capacity": 25,
+      "english": "Any\nChance:\nwarp!",
+      "encoded_text": "Any\nChance:\nwarp!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "7",
+      "offset": 3577112,
+      "capacity": 36,
+      "english": "Shops:\nvalue\n+7%!",
+      "encoded_text": "Shops:\nvalue\n+7%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "8",
+      "offset": 3577152,
+      "capacity": 35,
+      "english": "30% up!\nRoll\nagain!",
+      "encoded_text": "30% up!\nRoll\nagain!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "9",
+      "offset": 3577192,
+      "capacity": 28,
+      "english": "Holiday!\nRoll\nagain!",
+      "encoded_text": "Holiday!\nRoll\nagain!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "10",
+      "offset": 3577224,
+      "capacity": 31,
+      "english": "50% off!\nRoll\nagain!",
+      "encoded_text": "50% off!\nRoll\nagain!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "11",
+      "offset": 3577256,
+      "capacity": 47,
+      "english": "Get roll\nx11G\nper foe!",
+      "encoded_text": "Get roll\nx11G\nper foe!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "12",
+      "offset": 3577304,
+      "capacity": 43,
+      "english": "Invest\nin your\nshops!",
+      "encoded_text": "Invest\nin your\nshops!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "13",
+      "offset": 3577352,
+      "capacity": 39,
+      "english": "Shops:\nvalue\n-13%!",
+      "encoded_text": "Shops:\nvalue\n-13%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "14",
+      "offset": 3577392,
+      "capacity": 32,
+      "english": "Pay each\n30G!",
+      "encoded_text": "Pay each\n30G!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "15",
+      "offset": 3577424,
+      "capacity": 41,
+      "english": "Get roll\nx50G!",
+      "encoded_text": "Get roll\nx50G!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "16",
+      "offset": 3577472,
+      "capacity": 37,
+      "english": "Recovery\nin 3\nareas!",
+      "encoded_text": "Recovery\nin 3\nareas!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "17",
+      "offset": 3577512,
+      "capacity": 39,
+      "english": "Get half\nsalary!",
+      "encoded_text": "Get half\nsalary!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "18",
+      "offset": 3577552,
+      "capacity": 33,
+      "english": "Sell to\nbank at\n2x!",
+      "encoded_text": "Sell to\nbank at\n2x!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "19",
+      "offset": 3577592,
+      "capacity": 10,
+      "english": "Night\nfee",
+      "encoded_text": "Night\nfee"
+    },
+    {
+      "kind": "card_summary",
+      "id": "20",
+      "offset": 3577608,
+      "capacity": 33,
+      "english": "Draw one\nmore\ncard!",
+      "encoded_text": "Draw one\nmore\ncard!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "21",
+      "offset": 3577648,
+      "capacity": 28,
+      "english": "Get 10\nshares!",
+      "encoded_text": "Get 10\nshares!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "22",
+      "offset": 3577680,
+      "capacity": 29,
+      "english": "Sell at\n2x value",
+      "encoded_text": "Sell at\n2x value"
+    },
+    {
+      "kind": "card_summary",
+      "id": "23",
+      "offset": 3577712,
+      "capacity": 41,
+      "english": "A blank\nChance\ncard!",
+      "encoded_text": "A blank\nChance\ncard!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "24",
+      "offset": 3577760,
+      "capacity": 28,
+      "english": "Bank:\nsell\n+200G!",
+      "encoded_text": "Bank:\nsell\n+200G!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "25",
+      "offset": 3577792,
+      "capacity": 19,
+      "english": "Half-\nprice\nday!",
+      "encoded_text": "Half-\nprice\nday!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "26",
+      "offset": 3577816,
+      "capacity": 37,
+      "english": "Get a\nshare of\nfees!",
+      "encoded_text": "Get a\nshare of\nfees!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "27",
+      "offset": 3577856,
+      "capacity": 38,
+      "english": "Get 27G\nper shop",
+      "encoded_text": "Get 27G\nper shop"
+    },
+    {
+      "kind": "card_summary",
+      "id": "28",
+      "offset": 3577896,
+      "capacity": 25,
+      "english": "Maharaja\nappears!",
+      "encoded_text": "Maharaja\nappears!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "29",
+      "offset": 3577928,
+      "capacity": 39,
+      "english": "Warp to\nanother\nplayer!",
+      "encoded_text": "Warp to\nanother\nplayer!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "30",
+      "offset": 3577968,
+      "capacity": 39,
+      "english": "100G day\nRoll\nagain!",
+      "encoded_text": "100G day\nRoll\nagain!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "31",
+      "offset": 3578008,
+      "capacity": 44,
+      "english": "Area's\nshops:\n+10%!",
+      "encoded_text": "Area's\nshops:\n+10%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "32",
+      "offset": 3578056,
+      "capacity": 44,
+      "english": "Area's\nshops:\n+20%!",
+      "encoded_text": "Area's\nshops:\n+20%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "33",
+      "offset": 3578104,
+      "capacity": 29,
+      "english": "Sell at\n3x value",
+      "encoded_text": "Sell at\n3x value"
+    },
+    {
+      "kind": "card_summary",
+      "id": "34",
+      "offset": 3578136,
+      "capacity": 15,
+      "english": "Day off!",
+      "encoded_text": "Day off!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "35",
+      "offset": 3578152,
+      "capacity": 28,
+      "english": "Sell any\nshares:\n+35%!",
+      "encoded_text": "Sell any\nshares:\n+35%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "36",
+      "offset": 3578184,
+      "capacity": 42,
+      "english": "Pay 100G\nto\ninvest!",
+      "encoded_text": "Pay 100G\nto\ninvest!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "37",
+      "offset": 3578232,
+      "capacity": 44,
+      "english": "Area's\nshops:\n+30%!",
+      "encoded_text": "Area's\nshops:\n+30%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "38",
+      "offset": 3578280,
+      "capacity": 29,
+      "english": "Buy any\nshares:\n+10%!",
+      "encoded_text": "Buy any\nshares:\n+10%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "39",
+      "offset": 3578312,
+      "capacity": 20,
+      "english": "Give\n50G!",
+      "encoded_text": "Give\n50G!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "40",
+      "offset": 3907080,
+      "capacity": 8,
+      "english": "Flood!",
+      "encoded_text": "Flood!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "41",
+      "offset": 3578336,
+      "capacity": 27,
+      "english": "Shares:\n-10%!",
+      "encoded_text": "Shares:\n-10%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "42",
+      "offset": 3578368,
+      "capacity": 27,
+      "english": "Shares:\n-20%!",
+      "encoded_text": "Shares:\n-20%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "43",
+      "offset": 3578400,
+      "capacity": 26,
+      "english": "Tax: 2G\nper\nshare!",
+      "encoded_text": "Tax: 2G\nper\nshare!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "44",
+      "offset": 3578432,
+      "capacity": 10,
+      "english": "Fire!",
+      "encoded_text": "Fire!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "45",
+      "offset": 3578448,
+      "capacity": 34,
+      "english": "Tax: 20G\nper shop",
+      "encoded_text": "Tax: 20G\nper shop"
+    },
+    {
+      "kind": "card_summary",
+      "id": "47",
+      "offset": 3578488,
+      "capacity": 42,
+      "english": "Wizard's\nstrange\nspell!",
+      "encoded_text": "Wizard's\nstrange\nspell!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "48",
+      "offset": 3578536,
+      "capacity": 44,
+      "english": "Area's\nshops:\n-10%!",
+      "encoded_text": "Area's\nshops:\n-10%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "49",
+      "offset": 3578584,
+      "capacity": 44,
+      "english": "Area's\nshops:\n-20%!",
+      "encoded_text": "Area's\nshops:\n-20%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "50",
+      "offset": 3578632,
+      "capacity": 37,
+      "english": "Repeat\nyour\nmove!",
+      "encoded_text": "Repeat\nyour\nmove!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "51",
+      "offset": 3578672,
+      "capacity": 15,
+      "english": "Move +1!",
+      "encoded_text": "Move +1!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "52",
+      "offset": 3578688,
+      "capacity": 15,
+      "english": "Move +2!",
+      "encoded_text": "Move +2!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "53",
+      "offset": 3578704,
+      "capacity": 13,
+      "english": "Go to\nbank!",
+      "encoded_text": "Go to\nbank!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "54",
+      "offset": 3578720,
+      "capacity": 27,
+      "english": "Pay 100G\nto go to\nbank!",
+      "encoded_text": "Pay 100G\nto go to\nbank!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "55",
+      "offset": 3578752,
+      "capacity": 39,
+      "english": "Roll:\nshop for\nfree!",
+      "encoded_text": "Roll:\nshop for\nfree!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "56",
+      "offset": 3578792,
+      "capacity": 43,
+      "english": "Roll:\nshop at\n50% off!",
+      "encoded_text": "Roll:\nshop at\n50% off!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "57",
+      "offset": 3578840,
+      "capacity": 21,
+      "english": "Warp\nanywhere",
+      "encoded_text": "Warp\nanywhere"
+    },
+    {
+      "kind": "card_summary",
+      "id": "58",
+      "offset": 3578864,
+      "capacity": 41,
+      "english": "Pay 100G\nWarp: no\nChance!",
+      "encoded_text": "Pay 100G\nWarp: no\nChance!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "59",
+      "offset": 3578912,
+      "capacity": 29,
+      "english": "Buy any\nshares:\n-10%!",
+      "encoded_text": "Buy any\nshares:\n-10%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "60",
+      "offset": 3578944,
+      "capacity": 27,
+      "english": "Shares:\n+10%!",
+      "encoded_text": "Shares:\n+10%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "61",
+      "offset": 3578976,
+      "capacity": 27,
+      "english": "Shares:\n10%\ndividend",
+      "encoded_text": "Shares:\n10%\ndividend"
+    },
+    {
+      "kind": "card_summary",
+      "id": "62",
+      "offset": 3579008,
+      "capacity": 27,
+      "english": "Shares:\n20%\ndividend",
+      "encoded_text": "Shares:\n20%\ndividend"
+    },
+    {
+      "kind": "card_summary",
+      "id": "63",
+      "offset": 3579040,
+      "capacity": 27,
+      "english": "Shares:\n+20%!",
+      "encoded_text": "Shares:\n+20%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "64",
+      "offset": 3579072,
+      "capacity": 27,
+      "english": "Shares:\n+30%!",
+      "encoded_text": "Shares:\n+30%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "65",
+      "offset": 3579104,
+      "capacity": 22,
+      "english": "Buy\nshares!",
+      "encoded_text": "Buy\nshares!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "66",
+      "offset": 3579128,
+      "capacity": 26,
+      "english": "Get any\n10\nshares!",
+      "encoded_text": "Get any\n10\nshares!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "67",
+      "offset": 3579160,
+      "capacity": 20,
+      "english": "Buy any\nshares!",
+      "encoded_text": "Buy any\nshares!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "68",
+      "offset": 3579184,
+      "capacity": 25,
+      "english": "Waku-\nWaku\nRope!",
+      "encoded_text": "Waku-\nWaku\nRope!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "69",
+      "offset": 3579216,
+      "capacity": 28,
+      "english": "Sell any\nshares:\n+20%!",
+      "encoded_text": "Sell any\nshares:\n+20%!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "70",
+      "offset": 3579248,
+      "capacity": 19,
+      "english": "Salary!",
+      "encoded_text": "Salary!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "71",
+      "offset": 3579272,
+      "capacity": 10,
+      "english": "Windfall",
+      "encoded_text": "Windfall"
+    },
+    {
+      "kind": "card_summary",
+      "id": "72",
+      "offset": 3579288,
+      "capacity": 35,
+      "english": "Get 20G\nper shop",
+      "encoded_text": "Get 20G\nper shop"
+    },
+    {
+      "kind": "card_summary",
+      "id": "73",
+      "offset": 3579328,
+      "capacity": 24,
+      "english": "Buy a\nshop!",
+      "encoded_text": "Buy a\nshop!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "74",
+      "offset": 3579352,
+      "capacity": 42,
+      "english": "Auction\nyour\nshop: 2x",
+      "encoded_text": "Auction\nyour\nshop: 2x"
+    },
+    {
+      "kind": "card_summary",
+      "id": "75",
+      "offset": 3579400,
+      "capacity": 36,
+      "english": "Buy shop\nat 2x!",
+      "encoded_text": "Buy shop\nat 2x!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "76",
+      "offset": 3579440,
+      "capacity": 35,
+      "english": "Get the\nLucky\nHat!",
+      "encoded_text": "Get the\nLucky\nHat!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "77",
+      "offset": 3579480,
+      "capacity": 41,
+      "english": "5 shares\nin each\narea!",
+      "encoded_text": "5 shares\nin each\narea!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "78",
+      "offset": 3579528,
+      "capacity": 32,
+      "english": "Buy shop\n+200G!",
+      "encoded_text": "Buy shop\n+200G!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "79",
+      "offset": 3579560,
+      "capacity": 36,
+      "english": "Buy shop\nat 3x!",
+      "encoded_text": "Buy shop\nat 3x!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "80",
+      "offset": 3579600,
+      "capacity": 15,
+      "english": "Building\nboom!",
+      "encoded_text": "Building\nboom!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "81",
+      "offset": 3579616,
+      "capacity": 16,
+      "english": "Traffic\njam!",
+      "encoded_text": "Traffic\njam!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "82",
+      "offset": 3579632,
+      "capacity": 38,
+      "english": "Find a\nLucky\nClover!",
+      "encoded_text": "Find a\nLucky\nClover!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "83",
+      "offset": 3579672,
+      "capacity": 42,
+      "english": "Wizard's\nstorm\nspell!",
+      "encoded_text": "Wizard's\nstorm\nspell!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "84",
+      "offset": 3579720,
+      "capacity": 15,
+      "english": "Shooting\nstar!",
+      "encoded_text": "Shooting\nstar!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "85",
+      "offset": 3579736,
+      "capacity": 36,
+      "english": "Roll 2\ndice and\nmove!",
+      "encoded_text": "Roll 2\ndice and\nmove!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "86",
+      "offset": 3579776,
+      "capacity": 34,
+      "english": "Invest\n100G for\nfree!",
+      "encoded_text": "Invest\n100G for\nfree!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "87",
+      "offset": 3579816,
+      "capacity": 21,
+      "english": "Invest\nfor free",
+      "encoded_text": "Invest\nfor free"
+    },
+    {
+      "kind": "card_summary",
+      "id": "88",
+      "offset": 3579840,
+      "capacity": 44,
+      "english": "Wizard's\nnonsense\nspell!",
+      "encoded_text": "Wizard's\nnonsense\nspell!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "89",
+      "offset": 3579888,
+      "capacity": 17,
+      "english": "Reserve\nticket",
+      "encoded_text": "Reserve\nticket"
+    },
+    {
+      "kind": "card_summary",
+      "id": "91",
+      "offset": 3579912,
+      "capacity": 16,
+      "english": "Holiday\nthanks!",
+      "encoded_text": "Holiday\nthanks!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "92",
+      "offset": 3579928,
+      "capacity": 32,
+      "english": "No more\n2s on\ndice!",
+      "encoded_text": "No more\n2s on\ndice!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "93",
+      "offset": 3579960,
+      "capacity": 13,
+      "english": "Invest\nx2!",
+      "encoded_text": "Invest\nx2!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "94",
+      "offset": 3579976,
+      "capacity": 32,
+      "english": "No more\n4s on\ndice!",
+      "encoded_text": "No more\n4s on\ndice!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "95",
+      "offset": 3580008,
+      "capacity": 19,
+      "english": "Everyone\ngathers!",
+      "encoded_text": "Everyone\ngathers!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "96",
+      "offset": 3580032,
+      "capacity": 23,
+      "english": "Get a\nspade!",
+      "encoded_text": "Get a\nspade!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "97",
+      "offset": 3580056,
+      "capacity": 21,
+      "english": "Get a\nheart!",
+      "encoded_text": "Get a\nheart!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "98",
+      "offset": 3580080,
+      "capacity": 21,
+      "english": "Get a\ndiamond!",
+      "encoded_text": "Get a\ndiamond!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "99",
+      "offset": 3580104,
+      "capacity": 25,
+      "english": "Get a\nclub!",
+      "encoded_text": "Get a\nclub!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "100",
+      "offset": 3580136,
+      "capacity": 30,
+      "english": "Get an\nAnywhere\nCard!",
+      "encoded_text": "Get an\nAnywhere\nCard!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "101",
+      "offset": 3580168,
+      "capacity": 43,
+      "english": "A lovely\npresent!\nInside?",
+      "encoded_text": "A lovely\npresent!\nInside?"
+    },
+    {
+      "kind": "card_summary",
+      "id": "102",
+      "offset": 3580216,
+      "capacity": 27,
+      "english": "Buy 2\nshops!",
+      "encoded_text": "Buy 2\nshops!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "103",
+      "offset": 3580248,
+      "capacity": 30,
+      "english": "Reset\nrevealed\ncards!",
+      "encoded_text": "Reset\nrevealed\ncards!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "104",
+      "offset": 3580280,
+      "capacity": 18,
+      "english": "Buy at\n4x!",
+      "encoded_text": "Buy at\n4x!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "105",
+      "offset": 3580304,
+      "capacity": 18,
+      "english": "Buy at\n5x!",
+      "encoded_text": "Buy at\n5x!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "106",
+      "offset": 3580328,
+      "capacity": 18,
+      "english": "Buy at\n6x!",
+      "encoded_text": "Buy at\n6x!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "107",
+      "offset": 3580352,
+      "capacity": 28,
+      "english": "A lively\ntrio\narrives!",
+      "encoded_text": "A lively\ntrio\narrives!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "108",
+      "offset": 3580384,
+      "capacity": 23,
+      "english": "Suit\nAngel\nappears!",
+      "encoded_text": "Suit\nAngel\nappears!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "109",
+      "offset": 3580408,
+      "capacity": 19,
+      "english": "Holi-\ndemon!",
+      "encoded_text": "Holi-\ndemon!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "110",
+      "offset": 3580432,
+      "capacity": 27,
+      "english": "Anywhere\nCard\ntyphoon!",
+      "encoded_text": "Anywhere\nCard\ntyphoon!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "111",
+      "offset": 3580464,
+      "capacity": 25,
+      "english": "Shares\nfrom the\ncastle!",
+      "encoded_text": "Shares\nfrom the\ncastle!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "113",
+      "offset": 3580520,
+      "capacity": 34,
+      "english": "Candy\nfrom the\ncastle!",
+      "encoded_text": "Candy\nfrom the\ncastle!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "114",
+      "offset": 3580560,
+      "capacity": 27,
+      "english": "Mermaid\nBridge:\nleft!",
+      "encoded_text": "Mermaid\nBridge:\nleft!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "115",
+      "offset": 3580592,
+      "capacity": 27,
+      "english": "Mermaid\nBridge:\nright!",
+      "encoded_text": "Mermaid\nBridge:\nright!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "116",
+      "offset": 3580624,
+      "capacity": 27,
+      "english": "Mermaid\nBridge:\ncenter!",
+      "encoded_text": "Mermaid\nBridge:\ncenter!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "117",
+      "offset": 3580656,
+      "capacity": 34,
+      "english": "Deep-sea\nfish:\n500G!",
+      "encoded_text": "Deep-sea\nfish:\n500G!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "118",
+      "offset": 3580696,
+      "capacity": 31,
+      "english": "Get 100G\nfrom\neach foe",
+      "encoded_text": "Get 100G\nfrom\neach foe"
+    },
+    {
+      "kind": "card_summary",
+      "id": "121",
+      "offset": 3580776,
+      "capacity": 12,
+      "english": "Squall!",
+      "encoded_text": "Squall!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "122",
+      "offset": 3580792,
+      "capacity": 38,
+      "english": "Rainbow!\nGood\nfortune?",
+      "encoded_text": "Rainbow!\nGood\nfortune?"
+    },
+    {
+      "kind": "card_summary",
+      "id": "123",
+      "offset": 3580832,
+      "capacity": 37,
+      "english": "Circuit\nbreaker\ntripped!",
+      "encoded_text": "Circuit\nbreaker\ntripped!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "124",
+      "offset": 3580872,
+      "capacity": 28,
+      "english": "Cheap\nsushi\ncosts up",
+      "encoded_text": "Cheap\nsushi\ncosts up"
+    },
+    {
+      "kind": "card_summary",
+      "id": "125",
+      "offset": 3580904,
+      "capacity": 21,
+      "english": "Pearl in\nsushi!",
+      "encoded_text": "Pearl in\nsushi!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "126",
+      "offset": 3580928,
+      "capacity": 19,
+      "english": "Shares\nin sushi",
+      "encoded_text": "Shares\nin sushi"
+    },
+    {
+      "kind": "card_summary",
+      "id": "127",
+      "offset": 3580952,
+      "capacity": 14,
+      "english": "Switch\nfails!",
+      "encoded_text": "Switch\nfails!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "128",
+      "offset": 3580968,
+      "capacity": 19,
+      "english": "Motor in\nreverse!",
+      "encoded_text": "Motor in\nreverse!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "129",
+      "offset": 3580992,
+      "capacity": 34,
+      "english": "All to\nthe cash\nregister",
+      "encoded_text": "All to\nthe cash\nregister"
+    },
+    {
+      "kind": "card_summary",
+      "id": "130",
+      "offset": 3581032,
+      "capacity": 14,
+      "english": "Festival",
+      "encoded_text": "Festival"
+    },
+    {
+      "kind": "card_summary",
+      "id": "131",
+      "offset": 3581048,
+      "capacity": 38,
+      "english": "Changing\nsuits\nfreeze!",
+      "encoded_text": "Changing\nsuits\nfreeze!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "132",
+      "offset": 3581088,
+      "capacity": 16,
+      "english": "Bank\nmoves!",
+      "encoded_text": "Bank\nmoves!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "133",
+      "offset": 3581104,
+      "capacity": 32,
+      "english": "Cursed\ndice!",
+      "encoded_text": "Cursed\ndice!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "134",
+      "offset": 3581136,
+      "capacity": 14,
+      "english": "Bridge\nshut!",
+      "encoded_text": "Bridge\nshut!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "135",
+      "offset": 3581152,
+      "capacity": 10,
+      "english": "Typhoon!",
+      "encoded_text": "Typhoon!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "137",
+      "offset": 3581216,
+      "capacity": 43,
+      "english": "City\nlights:\nluck!",
+      "encoded_text": "City\nlights:\nluck!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "138",
+      "offset": 3581264,
+      "capacity": 9,
+      "english": "Z shift!",
+      "encoded_text": "Z shift!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "139",
+      "offset": 3581280,
+      "capacity": 9,
+      "english": "S shift!",
+      "encoded_text": "S shift!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "140",
+      "offset": 3581296,
+      "capacity": 14,
+      "english": "Cross\nshift!",
+      "encoded_text": "Cross\nshift!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "141",
+      "offset": 3581312,
+      "capacity": 21,
+      "english": "Warp to\nSharkfin",
+      "encoded_text": "Warp to\nSharkfin"
+    },
+    {
+      "kind": "card_summary",
+      "id": "142",
+      "offset": 3581336,
+      "capacity": 23,
+      "english": "To\nFluffy\nPharmacy",
+      "encoded_text": "To\nFluffy\nPharmacy"
+    },
+    {
+      "kind": "card_summary",
+      "id": "143",
+      "offset": 3581360,
+      "capacity": 33,
+      "english": "Warp B3:\nShining\nJewels",
+      "encoded_text": "Warp B3:\nShining\nJewels"
+    },
+    {
+      "kind": "card_summary",
+      "id": "144",
+      "offset": 3581400,
+      "capacity": 31,
+      "english": "Warp B3:\nConfused\nHelms",
+      "encoded_text": "Warp B3:\nConfused\nHelms"
+    },
+    {
+      "kind": "card_summary",
+      "id": "145",
+      "offset": 3581432,
+      "capacity": 21,
+      "english": "Sun Gate\nopens!",
+      "encoded_text": "Sun Gate\nopens!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "146",
+      "offset": 3581456,
+      "capacity": 19,
+      "english": "Moon\nGate\nopens!",
+      "encoded_text": "Moon\nGate\nopens!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "147",
+      "offset": 3581480,
+      "capacity": 19,
+      "english": "Star\nGate\nopens!",
+      "encoded_text": "Star\nGate\nopens!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "151",
+      "offset": 3581544,
+      "capacity": 46,
+      "english": "Meteor\nshower:\nwish!",
+      "encoded_text": "Meteor\nshower:\nwish!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "152",
+      "offset": 3581592,
+      "capacity": 32,
+      "english": "Freight\nat Comet\nGinza!",
+      "encoded_text": "Freight\nat Comet\nGinza!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "153",
+      "offset": 3581624,
+      "capacity": 39,
+      "english": "Space\nCafe to\nEarth!",
+      "encoded_text": "Space\nCafe to\nEarth!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "154",
+      "offset": 3581664,
+      "capacity": 40,
+      "english": "The sun!\nGood\nfortune?",
+      "encoded_text": "The sun!\nGood\nfortune?"
+    },
+    {
+      "kind": "card_summary",
+      "id": "155",
+      "offset": 3581704,
+      "capacity": 14,
+      "english": "Hokkaido\nup!",
+      "encoded_text": "Hokkaido\nup!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "156",
+      "offset": 3581720,
+      "capacity": 12,
+      "english": "Shikoku\nup!",
+      "encoded_text": "Shikoku\nup!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "157",
+      "offset": 3581736,
+      "capacity": 12,
+      "english": "Kyushu\nup!",
+      "encoded_text": "Kyushu\nup!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "158",
+      "offset": 3581752,
+      "capacity": 12,
+      "english": "Okinawa\nup!",
+      "encoded_text": "Okinawa\nup!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "159",
+      "offset": 3581768,
+      "capacity": 16,
+      "english": "Sado\nrises!",
+      "encoded_text": "Sado\nrises!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "160",
+      "offset": 3581784,
+      "capacity": 12,
+      "english": "Oshima\nup!",
+      "encoded_text": "Oshima\nup!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "161",
+      "offset": 3581800,
+      "capacity": 34,
+      "english": "Everyone\nto\nKyoto!",
+      "encoded_text": "Everyone\nto\nKyoto!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "162",
+      "offset": 3581840,
+      "capacity": 19,
+      "english": "Finance\nBig Bang",
+      "encoded_text": "Finance\nBig Bang"
+    },
+    {
+      "kind": "card_summary",
+      "id": "163",
+      "offset": 3581864,
+      "capacity": 44,
+      "english": "Any shop\nin\nRoppongi",
+      "encoded_text": "Any shop\nin\nRoppongi"
+    },
+    {
+      "kind": "card_summary",
+      "id": "164",
+      "offset": 3581912,
+      "capacity": 18,
+      "english": "Alien\ninvasion",
+      "encoded_text": "Alien\ninvasion"
+    },
+    {
+      "kind": "card_summary",
+      "id": "165",
+      "offset": 3581936,
+      "capacity": 37,
+      "english": "All line\nup for\ncoaster!",
+      "encoded_text": "All line\nup for\ncoaster!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "166",
+      "offset": 3581976,
+      "capacity": 43,
+      "english": "To shop\nin Slot\narea!",
+      "encoded_text": "To shop\nin Slot\narea!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "167",
+      "offset": 3582024,
+      "capacity": 41,
+      "english": "To shop\nin Bingo\narea!",
+      "encoded_text": "To shop\nin Bingo\narea!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "168",
+      "offset": 3582072,
+      "capacity": 15,
+      "english": "Sea oil\nfound!",
+      "encoded_text": "Sea oil\nfound!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "169",
+      "offset": 3582088,
+      "capacity": 15,
+      "english": "Go to\nHawaii!",
+      "encoded_text": "Go to\nHawaii!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "171",
+      "offset": 3582104,
+      "capacity": 30,
+      "english": "To\nColorado\nCleaners",
+      "encoded_text": "To\nColorado\nCleaners"
+    },
+    {
+      "kind": "card_summary",
+      "id": "173",
+      "offset": 3582176,
+      "capacity": 34,
+      "english": "To Epcot\nCafe\nStand!",
+      "encoded_text": "To Epcot\nCafe\nStand!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "174",
+      "offset": 3582216,
+      "capacity": 34,
+      "english": "To\nBourbon\nLiquors!",
+      "encoded_text": "To\nBourbon\nLiquors!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "175",
+      "offset": 3582256,
+      "capacity": 10,
+      "english": "Gather!",
+      "encoded_text": "Gather!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "176",
+      "offset": 3582272,
+      "capacity": 14,
+      "english": "Meteors!",
+      "encoded_text": "Meteors!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "177",
+      "offset": 3582288,
+      "capacity": 22,
+      "english": "Tsunami\nhits\nship!",
+      "encoded_text": "Tsunami\nhits\nship!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "179",
+      "offset": 3582344,
+      "capacity": 25,
+      "english": "To Fagus\nExcavate",
+      "encoded_text": "To Fagus\nExcavate"
+    },
+    {
+      "kind": "card_summary",
+      "id": "180",
+      "offset": 3582376,
+      "capacity": 16,
+      "english": "Volcano\nerupts!",
+      "encoded_text": "Volcano\nerupts!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "181",
+      "offset": 3582392,
+      "capacity": 21,
+      "english": "To Sky\nBank!",
+      "encoded_text": "To Sky\nBank!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "182",
+      "offset": 3582416,
+      "capacity": 21,
+      "english": "Blue Sky\nBank!",
+      "encoded_text": "Blue Sky\nBank!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "183",
+      "offset": 3582440,
+      "capacity": 23,
+      "english": "A ghost\ncaught\nyou!",
+      "encoded_text": "A ghost\ncaught\nyou!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "185",
+      "offset": 3582464,
+      "capacity": 32,
+      "english": "A ghost\nappears!",
+      "encoded_text": "A ghost\nappears!"
+    },
+    {
+      "kind": "card_summary",
+      "id": "186",
+      "offset": 3582496,
+      "capacity": 36,
+      "english": "Ghosts\nparty!",
+      "encoded_text": "Ghosts\nparty!"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0",
+      "offset": 3582536,
+      "capacity": 49,
+      "english": "{P}\nMay move either\nway next turn.",
+      "encoded_text": "P『\nMay move either\nway next turn.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "1",
+      "offset": 3582592,
+      "capacity": 59,
+      "english": "All shop fees\nrise 30%%\nfor 1 turn!",
+      "encoded_text": "『All shop fees\nrise 30%%\nfor 1 turn!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "2",
+      "offset": 3582656,
+      "capacity": 49,
+      "english": "All shops close\nfor 1 turn.",
+      "encoded_text": "『All shops close\nfor 1 turn.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "3",
+      "offset": 3582712,
+      "capacity": 57,
+      "english": "All shop fees\nare half price\nfor 1 turn!",
+      "encoded_text": "『All shop fees\nare half price\nfor 1 turn!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "4",
+      "offset": 3582776,
+      "capacity": 43,
+      "english": "{P}\nPays 30G each;\n90G total!",
+      "encoded_text": "P『\nPays 30G each;\n90G total!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "5",
+      "offset": 3582824,
+      "capacity": 58,
+      "english": "{P}'s shop fees\nrise 30%%\nfor 1 turn!",
+      "encoded_text": "P『's shop fees\nrise 30%%\nfor 1 turn!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "6",
+      "offset": 3582888,
+      "capacity": 56,
+      "english": "{P}'s shop fees\nare half price\nfor 1 turn!",
+      "encoded_text": "P『's shop fees\nare half price\nfor 1 turn!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "7",
+      "offset": 3582944,
+      "capacity": 56,
+      "english": "{P}\nGets a share of\nfees for 1 turn.",
+      "encoded_text": "P『\nGets a share of\nfees for 1 turn.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "8",
+      "offset": 3583000,
+      "capacity": 61,
+      "english": "All shop fees\nare 100G\nfor 1 turn!",
+      "encoded_text": "『All shop fees\nare 100G\nfor 1 turn!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "9",
+      "offset": 3583064,
+      "capacity": 50,
+      "english": "{P}'s shops\nclose for\n1 turn.",
+      "encoded_text": "P『's shops\nclose for\n1 turn.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "13",
+      "offset": 3583240,
+      "capacity": 35,
+      "english": "Bad luck!\nLost your wallet!",
+      "encoded_text": "『Bad luck!\nLost your wallet!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "14",
+      "offset": 3583280,
+      "capacity": 21,
+      "english": "{P} gets {G}G!",
+      "encoded_text": "P『 gets 』G『G!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "15",
+      "offset": 3583304,
+      "capacity": 53,
+      "english": "{P}\nNow earns 1G\nper step.",
+      "encoded_text": "P『\nNow earns 1G\nper step.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "16",
+      "offset": 3583360,
+      "capacity": 48,
+      "english": "{P}\nGets double\nnext salary!",
+      "encoded_text": "P『\nGets double\nnext salary!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "17",
+      "offset": 3583408,
+      "capacity": 41,
+      "english": "{P}\nGets an\nAnywhere Card!",
+      "encoded_text": "P『\nGets an\nAnywhere Card!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "18",
+      "offset": 3583456,
+      "capacity": 42,
+      "english": "Everyone gets\nan Anywhere\nCard!",
+      "encoded_text": "『Everyone gets\nan Anywhere\nCard!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "19",
+      "offset": 3583504,
+      "capacity": 54,
+      "english": "{P}'s shop values\nfall by 13%%.",
+      "encoded_text": "P『's shop values\nfall by 13%%.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "20",
+      "offset": 3583560,
+      "capacity": 51,
+      "english": "{P}\nOwns no shops!",
+      "encoded_text": "P『\nOwns no shops!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "21",
+      "offset": 3583616,
+      "capacity": 43,
+      "english": "{P}\n{G} shops x27G;\nearns {g}G.",
+      "encoded_text": "P『\n』G『 shops x27G;\nearns 』g『G.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "22",
+      "offset": 3583664,
+      "capacity": 54,
+      "english": "{P}'s shop values\nrise by 7%%.",
+      "encoded_text": "P『's shop values\nrise by 7%%.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "23",
+      "offset": 3583720,
+      "capacity": 44,
+      "english": "{P}\n{G} shops x20G;\npays {g}G!",
+      "encoded_text": "P『\n』G『 shops x20G;\npays 』g『G!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "24",
+      "offset": 3583768,
+      "capacity": 43,
+      "english": "{P}\n{G} shops x20G;\nearns {g}G.",
+      "encoded_text": "P『\n』G『 shops x20G;\nearns 』g『G.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "25",
+      "offset": 3583816,
+      "capacity": 43,
+      "english": "{P}\nOwns no shares!",
+      "encoded_text": "P『\nOwns no shares!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "26",
+      "offset": 3583864,
+      "capacity": 43,
+      "english": "{P}\n{G} shares x2G;\npays {g}G!",
+      "encoded_text": "P『\n』G『 shares x2G;\npays 』g『G!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "27",
+      "offset": 3583912,
+      "capacity": 19,
+      "english": "Who gets it?",
+      "encoded_text": "『Who gets it?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "28",
+      "offset": 3583936,
+      "capacity": 32,
+      "english": "No one can\nreceive it.",
+      "encoded_text": "『No one can\nreceive it.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "29",
+      "offset": 3583968,
+      "capacity": 45,
+      "english": "{P}\nRoll {G} x11G x3;\nearns {g}G.",
+      "encoded_text": "P『\nRoll 』G『 x11G x3;\nearns 』g『G.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "30",
+      "offset": 3584016,
+      "capacity": 41,
+      "english": "{P}\nRoll {G} x50G;\nearns {g}G.",
+      "encoded_text": "P『\nRoll 』G『 x50G;\nearns 』g『G.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "31",
+      "offset": 3584064,
+      "capacity": 50,
+      "english": "{E}\nShop values\nrise by {G}%%.",
+      "encoded_text": "E『\nShop values\nrise by 』G『%%.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "32",
+      "offset": 3584120,
+      "capacity": 32,
+      "english": "{E}\nShares fall\nby {G}%%.",
+      "encoded_text": "E『\nShares fall\nby 』G『%%.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "33",
+      "offset": 3584152,
+      "capacity": 34,
+      "english": "{P}\nGets 10 shares\nin {E}!",
+      "encoded_text": "P『\nGets 10 shares\nin 』E『!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "34",
+      "offset": 3584192,
+      "capacity": 50,
+      "english": "{E}\nShop values\nfall by {G}%%.",
+      "encoded_text": "E『\nShop values\nfall by 』G『%%.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "35",
+      "offset": 3584248,
+      "capacity": 32,
+      "english": "{E}\nShares rise\nby {G}%%.",
+      "encoded_text": "E『\nShares rise\nby 』G『%%.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "36",
+      "offset": 3584280,
+      "capacity": 29,
+      "english": "{P}\nBuy shares\nin {E}?",
+      "encoded_text": "P『\nBuy shares\nin 』E『?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "37",
+      "offset": 3584312,
+      "capacity": 26,
+      "english": "Cancel buying\nshares?",
+      "encoded_text": "『Cancel buying\nshares?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "38",
+      "offset": 3584344,
+      "capacity": 40,
+      "english": "Power returns\nin {G} turns.",
+      "encoded_text": "『Power returns\nin 』G『 turns.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "39",
+      "offset": 3584384,
+      "capacity": 57,
+      "english": "Until then,\nswitches stop\nand shops close.",
+      "encoded_text": "『Until then,\nswitches stop\nand shops close.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "40",
+      "offset": 3584448,
+      "capacity": 42,
+      "english": "The gift held\nan Anywhere\nCard!",
+      "encoded_text": "『The gift held\nan Anywhere\nCard!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "41",
+      "offset": 3584496,
+      "capacity": 39,
+      "english": "The gift held\nall four suits!",
+      "encoded_text": "『The gift held\nall four suits!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "42",
+      "offset": 3584536,
+      "capacity": 35,
+      "english": "{P}\nHas all\nfour suits!",
+      "encoded_text": "P『\nHas all\nfour suits!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "43",
+      "offset": 3584576,
+      "capacity": 55,
+      "english": "For 1 turn,\nthe dice only\nroll 1!",
+      "encoded_text": "『For 1 turn,\nthe dice only\nroll 1!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "44",
+      "offset": 3584632,
+      "capacity": 56,
+      "english": "From now on,\nno one can\nroll {G}!",
+      "encoded_text": "『From now on,\nno one can\nroll 』G『!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "45",
+      "offset": 3584688,
+      "capacity": 31,
+      "english": "{G} was already\nremoved!",
+      "encoded_text": "G『 was already\nremoved!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "46",
+      "offset": 3584720,
+      "capacity": 62,
+      "english": "Switch failure!\nNo switching\nfor {G} turns!",
+      "encoded_text": "『Switch failure!\nNo switching\nfor 』G『 turns!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "47",
+      "offset": 3584784,
+      "capacity": 52,
+      "english": "{P}\nAny shares +10%%.\nBuy them?",
+      "encoded_text": "P『\nAny shares +10%%.\nBuy them?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "48",
+      "offset": 3584840,
+      "capacity": 42,
+      "english": "Cancel buying\nshares at\n+10%%?",
+      "encoded_text": "『Cancel buying\nshares at\n+10%%?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "49",
+      "offset": 3584888,
+      "capacity": 52,
+      "english": "{P}\nAny shares -10%%.\nBuy them?",
+      "encoded_text": "P『\nAny shares -10%%.\nBuy them?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "50",
+      "offset": 3584944,
+      "capacity": 42,
+      "english": "Cancel buying\nshares at\n-10%%?",
+      "encoded_text": "『Cancel buying\nshares at\n-10%%?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "51",
+      "offset": 3584992,
+      "capacity": 45,
+      "english": "{P}\nShares sell +{G}%%.\nSell them?",
+      "encoded_text": "P『\nShares sell +』G『%%.\nSell them?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "52",
+      "offset": 3585040,
+      "capacity": 34,
+      "english": "Cancel selling\nat +{G}%%?",
+      "encoded_text": "『Cancel selling\nat +』G『%%?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "53",
+      "offset": 3585080,
+      "capacity": 56,
+      "english": "Get a {G}%%\ndividend on\nyour share value.",
+      "encoded_text": "『Get a 』G『%%\ndividend on\nyour share value.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "54",
+      "offset": 3585136,
+      "capacity": 38,
+      "english": "{P}\n{G}G x10%%;\nearns {g}G.",
+      "encoded_text": "P『\n』G『G x10%%;\nearns 』g『G.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "55",
+      "offset": 3585176,
+      "capacity": 38,
+      "english": "{P}\n{G}G x20%%;\nearns {g}G.",
+      "encoded_text": "P『\n』G『G x20%%;\nearns 』g『G.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "56",
+      "offset": 3585216,
+      "capacity": 55,
+      "english": "{P}\nDoes not have\n{G}G cash.",
+      "encoded_text": "P『\nDoes not have\n』G『G cash.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "57",
+      "offset": 3585272,
+      "capacity": 35,
+      "english": "Pay {G}G to\ngo to the bank?",
+      "encoded_text": "『Pay 』G『G to\ngo to the bank?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "58",
+      "offset": 3585312,
+      "capacity": 32,
+      "english": "Pay {G}G\nto warp?",
+      "encoded_text": "『Pay 』G『G\nto warp?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "59",
+      "offset": 3585344,
+      "capacity": 14,
+      "english": "Invest?",
+      "encoded_text": "『Invest?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "61",
+      "offset": 3585384,
+      "capacity": 57,
+      "english": "{P}\nHas no shops\nto invest in!",
+      "encoded_text": "P『\nHas no shops\nto invest in!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "62",
+      "offset": 3585448,
+      "capacity": 45,
+      "english": "You do not\nhave {G}G\nin cash.",
+      "encoded_text": "『You do not\nhave 』G『G\nin cash.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "63",
+      "offset": 3585496,
+      "capacity": 53,
+      "english": "Invest free,\nup to 999G.\nInvest now?",
+      "encoded_text": "『Invest free,\nup to 999G.\nInvest now?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "64",
+      "offset": 3585552,
+      "capacity": 45,
+      "english": "Double the\ninvestment effect.\nInvest?",
+      "encoded_text": "『Double the\ninvestment effect.\nInvest?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "65",
+      "offset": 3585600,
+      "capacity": 48,
+      "english": "There are no\nunowned shops\nleft!",
+      "encoded_text": "『There are no\nunowned shops\nleft!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "66",
+      "offset": 3585648,
+      "capacity": 49,
+      "english": "There are no\nshops to\ninvest in!",
+      "encoded_text": "『There are no\nshops to\ninvest in!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "67",
+      "offset": 3585704,
+      "capacity": 59,
+      "english": "{P}\nSell a shop\nat {G}x value?",
+      "encoded_text": "P『\nSell a shop\nat 』G『x value?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "69",
+      "offset": 3585808,
+      "capacity": 51,
+      "english": "Buy an\nunowned shop?",
+      "encoded_text": "『Buy an\nunowned shop?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "70",
+      "offset": 3585864,
+      "capacity": 28,
+      "english": "Cancel buying\nthe shop?",
+      "encoded_text": "『Cancel buying\nthe shop?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "71",
+      "offset": 3585896,
+      "capacity": 62,
+      "english": "Buy an unowned\nshop at {G}x\nthe price?",
+      "encoded_text": "『Buy an unowned\nshop at 』G『x\nthe price?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "72",
+      "offset": 3585960,
+      "capacity": 40,
+      "english": "Cancel buying\nthe shop at {G}x?",
+      "encoded_text": "『Cancel buying\nthe shop at 』G『x?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "73",
+      "offset": 3586000,
+      "capacity": 62,
+      "english": "Buy an unowned\nshop for an\nextra 200G?",
+      "encoded_text": "『Buy an unowned\nshop for an\nextra 200G?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "74",
+      "offset": 3586064,
+      "capacity": 46,
+      "english": "Cancel buying\nthe shop for\nan extra 200G?",
+      "encoded_text": "『Cancel buying\nthe shop for\nan extra 200G?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "75",
+      "offset": 3586112,
+      "capacity": 50,
+      "english": "Buy any shop\nat {G}x\nthe price?",
+      "encoded_text": "『Buy any shop\nat 』G『x\nthe price?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "76",
+      "offset": 3586168,
+      "capacity": 41,
+      "english": "Cancel buying\nthe shop at {G}x?",
+      "encoded_text": "『Cancel buying\nthe shop at 』G『x?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "77",
+      "offset": 3586216,
+      "capacity": 46,
+      "english": "You can buy\none more shop.\nBuy it?",
+      "encoded_text": "『You can buy\none more shop.\nBuy it?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "78",
+      "offset": 3586264,
+      "capacity": 34,
+      "english": "{S}\nValue falls\nby {G}%%.",
+      "encoded_text": "S『\nValue falls\nby 』G『%%.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "79",
+      "offset": 3586304,
+      "capacity": 57,
+      "english": "A rainbow bridge\nlinks Cliffside\nfor {G} turns.",
+      "encoded_text": "『A rainbow bridge\nlinks Cliffside\nfor 』G『 turns.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "80",
+      "offset": 3586368,
+      "capacity": 49,
+      "english": "All shops close\nfor {G} turns.",
+      "encoded_text": "『All shops close\nfor 』G『 turns.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "81",
+      "offset": 3586424,
+      "capacity": 37,
+      "english": "All shares\nrise by {G}%%.",
+      "encoded_text": "『All shares\nrise by 』G『%%.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "82",
+      "offset": 3586464,
+      "capacity": 23,
+      "english": "{P}\nPays {G}G!",
+      "encoded_text": "P『\nPays 』G『G!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "83",
+      "offset": 3586488,
+      "capacity": 36,
+      "english": "Bridge closed\nfor {G} turns!",
+      "encoded_text": "『Bridge closed\nfor 』G『 turns!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "84",
+      "offset": 3586528,
+      "capacity": 32,
+      "english": "No boats\nfor {G} turns!",
+      "encoded_text": "『No boats\nfor 』G『 turns!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "85",
+      "offset": 3586560,
+      "capacity": 46,
+      "english": "The typhoon\nhas canceled\nthe cruise.",
+      "encoded_text": "『The typhoon\nhas canceled\nthe cruise.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "86",
+      "offset": 3586608,
+      "capacity": 42,
+      "english": "Mermaid Bridge\nis already\nfar left.",
+      "encoded_text": "『Mermaid Bridge\nis already\nfar left.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "87",
+      "offset": 3586656,
+      "capacity": 42,
+      "english": "Mermaid Bridge\nis already\nfar right.",
+      "encoded_text": "『Mermaid Bridge\nis already\nfar right.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "89",
+      "offset": 3586752,
+      "capacity": 41,
+      "english": "Squares already\nin Z formation.",
+      "encoded_text": "『Squares already\nin Z formation.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "90",
+      "offset": 3586800,
+      "capacity": 45,
+      "english": "The squares are\nalready in\nS formation.",
+      "encoded_text": "『The squares are\nalready in\nS formation.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "91",
+      "offset": 3586848,
+      "capacity": 46,
+      "english": "Squares already\nin cross formation.",
+      "encoded_text": "『Squares already\nin cross formation.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "92",
+      "offset": 3586896,
+      "capacity": 39,
+      "english": "{P}\n{G}G x3 players;\nearns {g}G!",
+      "encoded_text": "P『\n』G『G x3 players;\nearns 』g『G!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "93",
+      "offset": 3586936,
+      "capacity": 48,
+      "english": "All owned stalls\nare now shops!",
+      "encoded_text": "『All owned stalls\nare now shops!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "94",
+      "offset": 3586984,
+      "capacity": 20,
+      "english": "All get\n{G}G!",
+      "encoded_text": "『All get\n』G『G!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "96",
+      "offset": 3587056,
+      "capacity": 47,
+      "english": "Graveyard Bank\nand the casino\nswap places!",
+      "encoded_text": "『Graveyard Bank\nand the casino\nswap places!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "97",
+      "offset": 3587104,
+      "capacity": 35,
+      "english": "Warp to\nthis district.",
+      "encoded_text": "『Warp to\nthis district.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "98",
+      "offset": 3587144,
+      "capacity": 34,
+      "english": "{S}\nValue rises\nby {G}%%.",
+      "encoded_text": "S『\nValue rises\nby 』G『%%.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "99",
+      "offset": 3587184,
+      "capacity": 48,
+      "english": "All owned shops\nare now stalls!",
+      "encoded_text": "『All owned shops\nare now stalls!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "100",
+      "offset": 3587232,
+      "capacity": 34,
+      "english": "The Maharaja\nis already here.",
+      "encoded_text": "『The Maharaja\nis already here.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "101",
+      "offset": 3587272,
+      "capacity": 36,
+      "english": "Holidemon\nis already here.",
+      "encoded_text": "『Holidemon\nis already here.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "102",
+      "offset": 3587312,
+      "capacity": 40,
+      "english": "The Suit Angel\nis already here.",
+      "encoded_text": "『The Suit Angel\nis already here.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "103",
+      "offset": 3587352,
+      "capacity": 35,
+      "english": "{P}\nGave {p}\n{G}G!",
+      "encoded_text": "P『\nGave 』p『\n』G『G!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "104",
+      "offset": 3587392,
+      "capacity": 55,
+      "english": "Reserve an\nunowned shop?",
+      "encoded_text": "『Reserve an\nunowned shop?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "105",
+      "offset": 3587448,
+      "capacity": 25,
+      "english": "Cancel\nreservation?",
+      "encoded_text": "『Cancel\nreservation?』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "106",
+      "offset": 3587480,
+      "capacity": 68,
+      "english": "A reward was due,\nbut {P}\nhad no money.",
+      "encoded_text": "『A reward was due,\nbut 』P『\nhad no money.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "107",
+      "offset": 3587552,
+      "capacity": 26,
+      "english": "Reward:\n{G}G!",
+      "encoded_text": "『Reward:\n』G『G!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "108",
+      "offset": 3587584,
+      "capacity": 36,
+      "english": "But the finder\nreturned it!",
+      "encoded_text": "『But the finder\nreturned it!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "109",
+      "offset": 3587624,
+      "capacity": 35,
+      "english": "Reward:\n{G}%% of\nyour cash.",
+      "encoded_text": "『Reward:\n』G『%% of\nyour cash.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "110",
+      "offset": 3587664,
+      "capacity": 39,
+      "english": "{P}\n{G}G x10%%;\npays {g}G!",
+      "encoded_text": "P『\n』G『G x10%%;\npays 』g『G!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "111",
+      "offset": 3587704,
+      "capacity": 53,
+      "english": "For 1 turn,\nnon-shop squares\nbecome holidays.",
+      "encoded_text": "『For 1 turn,\nnon-shop squares\nbecome holidays.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "112",
+      "offset": 3587760,
+      "capacity": 49,
+      "english": "{P}\nCannot buy\nany shops.",
+      "encoded_text": "P『\nCannot buy\nany shops.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "113",
+      "offset": 3587816,
+      "capacity": 37,
+      "english": "Other players\nswap positions.",
+      "encoded_text": "『Other players\nswap positions.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "114",
+      "offset": 3587856,
+      "capacity": 55,
+      "english": "Passing a switch\nnow rotates it\nthe other way.",
+      "encoded_text": "『Passing a switch\nnow rotates it\nthe other way.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "117",
+      "offset": 3587992,
+      "capacity": 48,
+      "english": "Everyone but\n{P}\nwas sent far away!",
+      "encoded_text": "『Everyone but\n』P『\nwas sent far away!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "118",
+      "offset": 3588040,
+      "capacity": 33,
+      "english": "Sun Gate\nis already open.",
+      "encoded_text": "『Sun Gate\nis already open.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36bff0",
+      "offset": 3588080,
+      "capacity": 31,
+      "english": "Moon Gate\nis already open.",
+      "encoded_text": "『Moon Gate\nis already open.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c010",
+      "offset": 3588112,
+      "capacity": 31,
+      "english": "Star Gate\nis already open.",
+      "encoded_text": "『Star Gate\nis already open.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c030",
+      "offset": 3588144,
+      "capacity": 33,
+      "english": "Raincloud Gate\nalready open.",
+      "encoded_text": "『Raincloud Gate\nalready open.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c058",
+      "offset": 3588184,
+      "capacity": 33,
+      "english": "Hokkaido\nalready surfaced.",
+      "encoded_text": "『Hokkaido\nalready surfaced.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c080",
+      "offset": 3588224,
+      "capacity": 31,
+      "english": "Shikoku\nalready surfaced.",
+      "encoded_text": "『Shikoku\nalready surfaced.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c0a0",
+      "offset": 3588256,
+      "capacity": 31,
+      "english": "Kyushu\nalready surfaced.",
+      "encoded_text": "『Kyushu\nalready surfaced.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c0c0",
+      "offset": 3588288,
+      "capacity": 31,
+      "english": "Okinawa\nalready surfaced.",
+      "encoded_text": "『Okinawa\nalready surfaced.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c0e0",
+      "offset": 3588320,
+      "capacity": 35,
+      "english": "Sado Island\nalready surfaced.",
+      "encoded_text": "『Sado Island\nalready surfaced.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c108",
+      "offset": 3588360,
+      "capacity": 31,
+      "english": "Oshima\nalready surfaced.",
+      "encoded_text": "『Oshima\nalready surfaced.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c128",
+      "offset": 3588392,
+      "capacity": 45,
+      "english": "God's Bank and\nstockbroker\nswap squares.",
+      "encoded_text": "『God's Bank and\nstockbroker\nswap squares.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c180",
+      "offset": 3588480,
+      "capacity": 41,
+      "english": "A ghost is\nhanding out\nsome cards...",
+      "encoded_text": "『A ghost is\nhanding out\nsome cards...』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c1d0",
+      "offset": 3588560,
+      "capacity": 51,
+      "english": "No shops could\nrise in value.",
+      "encoded_text": "『No shops could\nrise in value.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c208",
+      "offset": 3588616,
+      "capacity": 40,
+      "english": "Forced labor at\nCosmoport Soyuz!",
+      "encoded_text": "『Forced labor at\nCosmoport Soyuz!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c230",
+      "offset": 3588656,
+      "capacity": 38,
+      "english": "{P}\nHad no money!",
+      "encoded_text": "P『\nHad no money!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c258",
+      "offset": 3588696,
+      "capacity": 43,
+      "english": "4 Tokyo areas:\nshop values\nfall 10%%!",
+      "encoded_text": "『4 Tokyo areas:\nshop values\nfall 10%%!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c288",
+      "offset": 3588744,
+      "capacity": 46,
+      "english": "Take shelter\nat any shop in\nJupiter!",
+      "encoded_text": "『Take shelter\nat any shop in\nJupiter!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c2b8",
+      "offset": 3588792,
+      "capacity": 33,
+      "english": "Nearby shops:\nvalues +30%%!",
+      "encoded_text": "『Nearby shops:\nvalues +30%%!』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c2e0",
+      "offset": 3588832,
+      "capacity": 38,
+      "english": "Go to any shop\nin Armageddon.",
+      "encoded_text": "『Go to any shop\nin Armageddon.』"
+    },
+    {
+      "kind": "card_detail",
+      "id": "0x36c308",
+      "offset": 3588872,
+      "capacity": 38,
+      "english": "Go to any shop\nin Apocalypse.",
+      "encoded_text": "『Go to any shop\nin Apocalypse.』"
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359128",
+      "offset": 3510568,
+      "capacity": 39,
+      "english": "Create new\nsave data?",
+      "encoded_text": "Create new\nsave data?"
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359150",
+      "offset": 3510608,
+      "capacity": 71,
+      "english": "Memory card is\nunformatted.\nFormat it?",
+      "encoded_text": "Memory card is\nunformatted.\nFormat it?"
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359198",
+      "offset": 3510680,
+      "capacity": 31,
+      "english": "Overwrite\nsave data?",
+      "encoded_text": "Overwrite\nsave data?"
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3591b8",
+      "offset": 3510712,
+      "capacity": 52,
+      "english": "Saving data.\nPlease wait.",
+      "encoded_text": "Saving data.\nPlease wait."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3591f0",
+      "offset": 3510768,
+      "capacity": 70,
+      "english": "Formatting card.\nDo not remove\nit or turn off.",
+      "encoded_text": "Formatting card.\nDo not remove\nit or turn off."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359238",
+      "offset": 3510840,
+      "capacity": 52,
+      "english": "Memory card\nformat complete.",
+      "encoded_text": "Memory card\nformat complete."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359270",
+      "offset": 3510896,
+      "capacity": 49,
+      "english": "Save complete.",
+      "encoded_text": "Save complete."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3592a8",
+      "offset": 3510952,
+      "capacity": 35,
+      "english": "Memory card\nwas removed.",
+      "encoded_text": "Memory card\nwas removed."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3592d0",
+      "offset": 3510992,
+      "capacity": 29,
+      "english": "Format failed.",
+      "encoded_text": "Format failed."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3592f0",
+      "offset": 3511024,
+      "capacity": 23,
+      "english": "Save failed.",
+      "encoded_text": "Save failed."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359308",
+      "offset": 3511048,
+      "capacity": 47,
+      "english": "No memory card\ninserted.",
+      "encoded_text": "No memory card\ninserted."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359338",
+      "offset": 3511096,
+      "capacity": 35,
+      "english": "Not a PS2\nmemory card.",
+      "encoded_text": "Not a PS2\nmemory card."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359360",
+      "offset": 3511136,
+      "capacity": 89,
+      "english": "Not enough space\nto save data.\nAt least 573KB\nof free space\nis required.",
+      "encoded_text": "Not enough space\nto save data.\nAt least 573KB\nof free space\nis required."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3593c0",
+      "offset": 3511232,
+      "capacity": 17,
+      "english": "Cancel?",
+      "encoded_text": "Cancel?"
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3593d8",
+      "offset": 3511256,
+      "capacity": 52,
+      "english": "Loading data.\nPlease wait.",
+      "encoded_text": "Loading data.\nPlease wait."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359410",
+      "offset": 3511312,
+      "capacity": 49,
+      "english": "Load complete.",
+      "encoded_text": "Load complete."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359448",
+      "offset": 3511368,
+      "capacity": 23,
+      "english": "Load failed.",
+      "encoded_text": "Load failed."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359460",
+      "offset": 3511392,
+      "capacity": 63,
+      "english": "No save data\non this\nmemory card.",
+      "encoded_text": "No save data\non this\nmemory card."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3594a0",
+      "offset": 3511456,
+      "capacity": 127,
+      "english": "Not enough space\non memory card.\nSaving requires\nat least %dKB.\nStart anyway?",
+      "encoded_text": "Not enough space\non memory card.\nSaving requires\nat least %dKB.\nStart anyway?"
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359520",
+      "offset": 3511584,
+      "capacity": 119,
+      "english": "No memory card\ninserted.\nSaving requires\nat least %dKB.\nStart anyway?",
+      "encoded_text": "No memory card\ninserted.\nSaving requires\nat least %dKB.\nStart anyway?"
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359598",
+      "offset": 3511704,
+      "capacity": 78,
+      "english": "Loading from\ncard slot 1.\nPlease wait.",
+      "encoded_text": "Loading from\ncard slot 1.\nPlease wait."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3595e8",
+      "offset": 3511784,
+      "capacity": 79,
+      "english": "Loading from\ncard slot 1-A.\nPlease wait.",
+      "encoded_text": "Loading from\ncard slot 1-A.\nPlease wait."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359638",
+      "offset": 3511864,
+      "capacity": 50,
+      "english": "Saving data.\nPlease wait.",
+      "encoded_text": "Saving data.\nPlease wait."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359670",
+      "offset": 3511920,
+      "capacity": 42,
+      "english": "No memory card\ninserted.",
+      "encoded_text": "No memory card\ninserted."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3596a0",
+      "offset": 3511968,
+      "capacity": 75,
+      "english": "Cannot save.\nAt least 573KB\nof free space\nis required.",
+      "encoded_text": "Cannot save.\nAt least 573KB\nof free space\nis required."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3596f0",
+      "offset": 3512048,
+      "capacity": 13,
+      "english": "Canceled.",
+      "encoded_text": "Canceled."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359700",
+      "offset": 3512064,
+      "capacity": 50,
+      "english": "Loading data.\nPlease wait.",
+      "encoded_text": "Loading data.\nPlease wait."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359738",
+      "offset": 3512120,
+      "capacity": 56,
+      "english": "No save data\non this card.",
+      "encoded_text": "No save data\non this card."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x359770",
+      "offset": 3512176,
+      "capacity": 75,
+      "english": "Loading from\ncard slot 1.\nPlease wait.",
+      "encoded_text": "Loading from\ncard slot 1.\nPlease wait."
+    },
+    {
+      "kind": "save_load_ui",
+      "id": "0x3597c0",
+      "offset": 3512256,
+      "capacity": 76,
+      "english": "Loading from\ncard slot 1-A.\nPlease wait.",
+      "encoded_text": "Loading from\ncard slot 1-A.\nPlease wait."
+    },
+    {
+      "kind": "training_ui",
+      "id": "0x3601d8",
+      "offset": 3539416,
+      "capacity": 78,
+      "english": "Create\nStats\nStudy\nTrain\nShare\nDelete",
+      "encoded_text": "Create\nStats\nStudy\nTrain\nShare\nDelete"
+    },
+    {
+      "kind": "training_ui",
+      "id": "0x360bb8",
+      "offset": 3541944,
+      "capacity": 44,
+      "english": "Train a character\nyou created.",
+      "encoded_text": "Train a character\nyou created."
+    }
+  ]
+}

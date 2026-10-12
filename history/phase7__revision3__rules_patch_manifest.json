@@ -1,0 +1,3051 @@
+{
+  "source_sha256": "d6d1ad76f990c1af99e6c3c1431092e375c308d80be99b2f5bfe8c51a5f545e5",
+  "base": "translation_work\\phase6\\revision3\\patched\\SLPM_621.12",
+  "base_sha256": "caf7931bcf43c87de8c2363dedd05fff0cbe7fbe720bbdcb80af658d0f687889",
+  "patched_sha256": "9b297f21d71c86719ca7f2a3e37d53fff765a17103841e144e2e703404e981c1",
+  "file_size": 3923328,
+  "counts": {
+    "rules": 62,
+    "submenu": 124
+  },
+  "changed_bytes": 6406,
+  "patches": [
+    {
+      "kind": "rules",
+      "offset": 3590984,
+      "virtual_address": 4635464,
+      "japanese": "では ルールの\n説明を はじめるね。",
+      "english": "Let's learn\nthe rules!",
+      "capacity": 34,
+      "required_bytes": 23,
+      "line_characters": [
+        11,
+        10
+      ],
+      "pointer_offsets": [
+        3248688
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591024,
+      "virtual_address": 4635504,
+      "japanese": "いただきストリートの\n目的は お金持ちに\nなることよ。",
+      "english": "In Itadaki\nStreet, aim to\nget rich!",
+      "capacity": 52,
+      "required_bytes": 36,
+      "line_characters": [
+        10,
+        14,
+        9
+      ],
+      "pointer_offsets": [
+        3248692
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591080,
+      "virtual_address": 4635560,
+      "japanese": "最初に 基本から\nおしえて あげるわね。",
+      "english": "First, let's\nlearn the\nbasics.",
+      "capacity": 38,
+      "required_bytes": 31,
+      "line_characters": [
+        12,
+        9,
+        7
+      ],
+      "pointer_offsets": [
+        3248696
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591120,
+      "virtual_address": 4635600,
+      "japanese": "まず ひとりずつ\nサイコロを ふって\n目の数だけ 進むの。",
+      "english": "Roll in turns.\nMove that many\nsteps.",
+      "capacity": 54,
+      "required_bytes": 37,
+      "line_characters": [
+        14,
+        14,
+        6
+      ],
+      "pointer_offsets": [
+        3248700
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591176,
+      "virtual_address": 4635656,
+      "japanese": "上 下 左 右の\nあなたのお好きな方を\nえらんで 進んでね。",
+      "english": "Choose up,\ndown, left\nor right.",
+      "capacity": 55,
+      "required_bytes": 32,
+      "line_characters": [
+        10,
+        10,
+        9
+      ],
+      "pointer_offsets": [
+        3248704
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591232,
+      "virtual_address": 4635712,
+      "japanese": "わかれ道では\n矢印が 出るから\n方向を選ぶの。",
+      "english": "At a fork, use\nthe arrows to\npick your way.",
+      "capacity": 44,
+      "required_bytes": 44,
+      "line_characters": [
+        14,
+        13,
+        14
+      ],
+      "pointer_offsets": [
+        3248708
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591280,
+      "virtual_address": 4635760,
+      "japanese": "[?]に 止まったら\nチャンスカードを\n1枚 ひけるわ。",
+      "english": "Land on [?] to\ndraw a\nChance card.",
+      "capacity": 49,
+      "required_bytes": 35,
+      "line_characters": [
+        14,
+        6,
+        12
+      ],
+      "pointer_offsets": [
+        3248712
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591336,
+      "virtual_address": 4635816,
+      "japanese": "なにが 起こるかは\nカードしだいよ!",
+      "english": "What happens\ndepends on\nthe card!",
+      "capacity": 34,
+      "required_bytes": 34,
+      "line_characters": [
+        12,
+        10,
+        9
+      ],
+      "pointer_offsets": [
+        3248716
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591376,
+      "virtual_address": 4635856,
+      "japanese": "ハートや スペードの\nチャンスを通ると\nそのマークを もらえるの。",
+      "english": "Pass hearts or\nspades to get\ntheir suits.",
+      "capacity": 63,
+      "required_bytes": 42,
+      "line_characters": [
+        14,
+        13,
+        12
+      ],
+      "pointer_offsets": [
+        3248720
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591440,
+      "virtual_address": 4635920,
+      "japanese": "マークを4つそろえて\n銀行に いくと\nサラリーを もらえるよ。",
+      "english": "Get four suits\nand visit the\nbank for pay.",
+      "capacity": 58,
+      "required_bytes": 43,
+      "line_characters": [
+        14,
+        13,
+        13
+      ],
+      "pointer_offsets": [
+        3248724
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591504,
+      "virtual_address": 4635984,
+      "japanese": "次に お店の買い方を\nおしえるわね!",
+      "english": "Next, how to\nbuy a shop!",
+      "capacity": 34,
+      "required_bytes": 25,
+      "line_characters": [
+        12,
+        11
+      ],
+      "pointer_offsets": [
+        3248728
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591544,
+      "virtual_address": 4636024,
+      "japanese": "たとえば\nこのお店は まだ\n持ち主が いません。",
+      "english": "For example,\nthis shop has\nno owner yet.",
+      "capacity": 45,
+      "required_bytes": 41,
+      "line_characters": [
+        12,
+        13,
+        13
+      ],
+      "pointer_offsets": [
+        3248732
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591592,
+      "virtual_address": 4636072,
+      "japanese": "お店の下に\n2つの数字が\n出てるでしょ。",
+      "english": "See the two\nnumbers below\nthe shop?",
+      "capacity": 38,
+      "required_bytes": 36,
+      "line_characters": [
+        11,
+        13,
+        9
+      ],
+      "pointer_offsets": [
+        3248736
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591632,
+      "virtual_address": 4636112,
+      "japanese": "上の数字は\nあなたが お店を\n買うときの 値段で",
+      "english": "Top number:\nthe price to\nbuy this shop.",
+      "capacity": 45,
+      "required_bytes": 40,
+      "line_characters": [
+        11,
+        12,
+        14
+      ],
+      "pointer_offsets": [
+        3248740
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591680,
+      "virtual_address": 4636160,
+      "japanese": "持ち主が いない\nお店に とまれば\nその値段で 買えるの。",
+      "english": "Unowned shops:\nland there to\nbuy them.",
+      "capacity": 54,
+      "required_bytes": 39,
+      "line_characters": [
+        14,
+        13,
+        9
+      ],
+      "pointer_offsets": [
+        3248744
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591736,
+      "virtual_address": 4636216,
+      "japanese": "だけど この数字は\nお店を買ったときに\n見えなくなっちゃうわ。",
+      "english": "After you buy,\nthis number\ndisappears.",
+      "capacity": 60,
+      "required_bytes": 39,
+      "line_characters": [
+        14,
+        11,
+        11
+      ],
+      "pointer_offsets": [
+        3248748
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591800,
+      "virtual_address": 4636280,
+      "japanese": "下の数字は だれかが\nお店に 入ったとき\nはらう 買い物料よ。",
+      "english": "Bottom number:\nthe fee paid\nby visitors.",
+      "capacity": 58,
+      "required_bytes": 41,
+      "line_characters": [
+        14,
+        12,
+        12
+      ],
+      "pointer_offsets": [
+        3248752
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591864,
+      "virtual_address": 4636344,
+      "japanese": "この数字は お店を\n買ったあとも ずっと\n見えているの。",
+      "english": "After you buy,\nthis number\nstays visible.",
+      "capacity": 53,
+      "required_bytes": 42,
+      "line_characters": [
+        14,
+        11,
+        14
+      ],
+      "pointer_offsets": [
+        3248756
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591920,
+      "virtual_address": 4636400,
+      "japanese": "あなたの お店に\nほかの人が とまると\n買い物料がもらえるわ。",
+      "english": "Others pay you\nwhen they land\non your shops.",
+      "capacity": 59,
+      "required_bytes": 45,
+      "line_characters": [
+        14,
+        14,
+        14
+      ],
+      "pointer_offsets": [
+        3248760
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3591984,
+      "virtual_address": 4636464,
+      "japanese": "そして 人のお店にとまると\n買い物料を はらうことに\nなっちゃうってワケ。",
+      "english": "Pay rivals if\nyou land at\ntheir shops.",
+      "capacity": 71,
+      "required_bytes": 39,
+      "line_characters": [
+        13,
+        11,
+        12
+      ],
+      "pointer_offsets": [
+        3248764
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592056,
+      "virtual_address": 4636536,
+      "japanese": "それと 自分のお店に\nとまったら 増資が\nできちゃうの!",
+      "english": "Your own shop:\nland there to\ninvest!",
+      "capacity": 52,
+      "required_bytes": 37,
+      "line_characters": [
+        14,
+        13,
+        7
+      ],
+      "pointer_offsets": [
+        3248768
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592112,
+      "virtual_address": 4636592,
+      "japanese": "お金を出して 自分の\nお店を大きくするのが\n増資[ぞうし]よ。",
+      "english": "Investing:\nspend money to\ngrow the shop.",
+      "capacity": 58,
+      "required_bytes": 41,
+      "line_characters": [
+        10,
+        14,
+        14
+      ],
+      "pointer_offsets": [
+        3248772
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592176,
+      "virtual_address": 4636656,
+      "japanese": "増資をすれば\nもらえる 買い物料も\nぐ～んと ふえちゃうわ。",
+      "english": "Invest to\ngreatly raise\nshop fees!",
+      "capacity": 57,
+      "required_bytes": 35,
+      "line_characters": [
+        9,
+        13,
+        10
+      ],
+      "pointer_offsets": [
+        3248776
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592240,
+      "virtual_address": 4636720,
+      "japanese": "お店のことは\nおしえたから 次は\nエリアのことね。",
+      "english": "Now you know\nshops. Next:\ndistricts!",
+      "capacity": 48,
+      "required_bytes": 37,
+      "line_characters": [
+        12,
+        12,
+        10
+      ],
+      "pointer_offsets": [
+        3248780
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592288,
+      "virtual_address": 4636768,
+      "japanese": "お店は いくつかが\nまとまって エリアと\nよばれているわ。",
+      "english": "Shops are\ngrouped into\ndistricts.",
+      "capacity": 55,
+      "required_bytes": 34,
+      "line_characters": [
+        9,
+        12,
+        10
+      ],
+      "pointer_offsets": [
+        3248784
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592344,
+      "virtual_address": 4636824,
+      "japanese": "このお店と",
+      "english": "This shop",
+      "capacity": 11,
+      "required_bytes": 10,
+      "line_characters": [
+        9
+      ],
+      "pointer_offsets": [
+        3248788
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592360,
+      "virtual_address": 4636840,
+      "japanese": "このお店と ",
+      "english": "and this",
+      "capacity": 12,
+      "required_bytes": 9,
+      "line_characters": [
+        8
+      ],
+      "pointer_offsets": [
+        3248792
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592376,
+      "virtual_address": 4636856,
+      "japanese": "このお店と  ",
+      "english": "and this",
+      "capacity": 13,
+      "required_bytes": 9,
+      "line_characters": [
+        8
+      ],
+      "pointer_offsets": [
+        3248796
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592392,
+      "virtual_address": 4636872,
+      "japanese": "そして このお店が\n同じエリアよ。",
+      "english": "and this shop:\nsame district!",
+      "capacity": 33,
+      "required_bytes": 30,
+      "line_characters": [
+        14,
+        14
+      ],
+      "pointer_offsets": [
+        3248800
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592432,
+      "virtual_address": 4636912,
+      "japanese": "お店の まわりの色が\n同じなら エリアも\n同じということね。",
+      "english": "Same border\ncolor means\nsame district.",
+      "capacity": 57,
+      "required_bytes": 39,
+      "line_characters": [
+        11,
+        11,
+        14
+      ],
+      "pointer_offsets": [
+        3248804
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592496,
+      "virtual_address": 4636976,
+      "japanese": "同じエリアの お店を\nいくつも 買えたなら\nとっても おトクよ!",
+      "english": "Buy more shops\nin a district:\nit pays off!",
+      "capacity": 59,
+      "required_bytes": 43,
+      "line_characters": [
+        14,
+        14,
+        12
+      ],
+      "pointer_offsets": [
+        3248808
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592560,
+      "virtual_address": 4637040,
+      "japanese": "増資できる 金額も\nどんどん 上がるし\n買い物料も アップ!",
+      "english": "Invest more\nand charge\nhigher fees!",
+      "capacity": 55,
+      "required_bytes": 36,
+      "line_characters": [
+        11,
+        10,
+        12
+      ],
+      "pointer_offsets": [
+        3248812
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592616,
+      "virtual_address": 4637096,
+      "japanese": "さらに 全部\n買いしめちゃえば\nとっても もうかっちゃう。",
+      "english": "Own them all\nand make even\nmore profit!",
+      "capacity": 55,
+      "required_bytes": 40,
+      "line_characters": [
+        12,
+        13,
+        12
+      ],
+      "pointer_offsets": [
+        3248816
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592672,
+      "virtual_address": 4637152,
+      "japanese": "そうそう それと\nエリアの株も\nすごく 大切!",
+      "english": "District\nshares are\nimportant too!",
+      "capacity": 42,
+      "required_bytes": 35,
+      "line_characters": [
+        8,
+        10,
+        14
+      ],
+      "pointer_offsets": [
+        3248820
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592720,
+      "virtual_address": 4637200,
+      "japanese": "株を買えば だれでも\n好きな エリアの\n株主に なれるわ。",
+      "english": "Anyone can buy\nshares in any\ndistrict.",
+      "capacity": 54,
+      "required_bytes": 39,
+      "line_characters": [
+        14,
+        13,
+        9
+      ],
+      "pointer_offsets": [
+        3248824
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592776,
+      "virtual_address": 4637256,
+      "japanese": "株主に なっておくと\nいろいろ おトクな\nことが あるの!",
+      "english": "Owning shares\nbrings lots of\nbenefits!",
+      "capacity": 53,
+      "required_bytes": 39,
+      "line_characters": [
+        13,
+        14,
+        9
+      ],
+      "pointer_offsets": [
+        3248828
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592832,
+      "virtual_address": 4637312,
+      "japanese": "株をもっていると\n自分のお店がなくても\n配当が もらえちゃう!",
+      "english": "Shares pay you\ndividends even\nwith no shops.",
+      "capacity": 59,
+      "required_bytes": 45,
+      "line_characters": [
+        14,
+        14,
+        14
+      ],
+      "pointer_offsets": [
+        3248832
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592896,
+      "virtual_address": 4637376,
+      "japanese": "お店が大きくなると\nそこの エリアの\n株も 値上がるわ。",
+      "english": "Growing shops\nlifts stock in\nthat district.",
+      "capacity": 53,
+      "required_bytes": 44,
+      "line_characters": [
+        13,
+        14,
+        14
+      ],
+      "pointer_offsets": [
+        3248836
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3592952,
+      "virtual_address": 4637432,
+      "japanese": "だから 株をもって\n増資すると あっというまに\nお金持ちになれるってこと!",
+      "english": "Buy shares,\nthen invest to\nget rich fast!",
+      "capacity": 70,
+      "required_bytes": 42,
+      "line_characters": [
+        11,
+        14,
+        14
+      ],
+      "pointer_offsets": [
+        3248840
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593024,
+      "virtual_address": 4637504,
+      "japanese": "じゃあ 気になる\n株は どこで 手に\nはいるかって いうと……。",
+      "english": "Where can you\nbuy shares?\nWell...",
+      "capacity": 59,
+      "required_bytes": 34,
+      "line_characters": [
+        13,
+        11,
+        7
+      ],
+      "pointer_offsets": [
+        3248844
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593088,
+      "virtual_address": 4637568,
+      "japanese": "株屋さんと",
+      "english": "Broker and",
+      "capacity": 11,
+      "required_bytes": 11,
+      "line_characters": [
+        10
+      ],
+      "pointer_offsets": [
+        3248848
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593104,
+      "virtual_address": 4637584,
+      "japanese": "銀行で\n売っているわ!",
+      "english": "the bank!",
+      "capacity": 21,
+      "required_bytes": 10,
+      "line_characters": [
+        9
+      ],
+      "pointer_offsets": [
+        3248852
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593128,
+      "virtual_address": 4637608,
+      "japanese": "株を 買いたいときは\nそこで ○ボタンを\nおしてね♪",
+      "english": "To buy shares,\npress Circle\nthere!",
+      "capacity": 49,
+      "required_bytes": 35,
+      "line_characters": [
+        14,
+        12,
+        6
+      ],
+      "pointer_offsets": [
+        3248856
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593184,
+      "virtual_address": 4637664,
+      "japanese": "株の 使い方を\nおぼえると グッと\nおもしろくなるのよ。",
+      "english": "Learn to use\nshares for\neven more fun!",
+      "capacity": 53,
+      "required_bytes": 39,
+      "line_characters": [
+        12,
+        10,
+        14
+      ],
+      "pointer_offsets": [
+        3248860
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593240,
+      "virtual_address": 4637720,
+      "japanese": "遊ぶ面に よっては\n値段が ついていない\n空き地というのが あるの。",
+      "english": "Some maps have\nvacant plots\nwith no price.",
+      "capacity": 64,
+      "required_bytes": 43,
+      "line_characters": [
+        14,
+        12,
+        14
+      ],
+      "pointer_offsets": [
+        3248864
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593304,
+      "virtual_address": 4637784,
+      "japanese": "なにを たてるかは\n空き地を 買った人しか\n決められません!",
+      "english": "Only the owner\nchooses what\nto build!",
+      "capacity": 56,
+      "required_bytes": 38,
+      "line_characters": [
+        14,
+        12,
+        9
+      ],
+      "pointer_offsets": [
+        3248868
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593360,
+      "virtual_address": 4637840,
+      "japanese": "お店以外にも いろいろと\nたてられちゃうから\n楽しみにしててね!",
+      "english": "Build shops or\nother things.\nHave fun!",
+      "capacity": 61,
+      "required_bytes": 39,
+      "line_characters": [
+        14,
+        13,
+        9
+      ],
+      "pointer_offsets": [
+        3248872
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593424,
+      "virtual_address": 4637904,
+      "japanese": "こんどは\n画面の 左下を\n見てみて!",
+      "english": "Now look at\nthe bottom\nleft!",
+      "capacity": 33,
+      "required_bytes": 29,
+      "line_characters": [
+        11,
+        10,
+        5
+      ],
+      "pointer_offsets": [
+        3248876
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593464,
+      "virtual_address": 4637944,
+      "japanese": "この全体マップで\nどこが だれのお店か\nひとめで わかっちゃうの。",
+      "english": "The minimap\nshows who owns\neach shop.",
+      "capacity": 63,
+      "required_bytes": 38,
+      "line_characters": [
+        11,
+        14,
+        10
+      ],
+      "pointer_offsets": [
+        3248880
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593528,
+      "virtual_address": 4638008,
+      "japanese": "自分や ほかの人の\n位置も わかるように\nなっているよ。",
+      "english": "See where you\nand others are\non the map.",
+      "capacity": 53,
+      "required_bytes": 41,
+      "line_characters": [
+        13,
+        14,
+        11
+      ],
+      "pointer_offsets": [
+        3248884
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593584,
+      "virtual_address": 4638064,
+      "japanese": "次に\n画面の 右下を\n見て!",
+      "english": "See bottom\nright next.",
+      "capacity": 25,
+      "required_bytes": 23,
+      "line_characters": [
+        10,
+        11
+      ],
+      "pointer_offsets": [
+        3248888
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593616,
+      "virtual_address": 4638096,
+      "japanese": "この表は みんなが\nもっている お金と\n資産の 合計よ。",
+      "english": "This table\nshows cash and\ntotal assets.",
+      "capacity": 52,
+      "required_bytes": 40,
+      "line_characters": [
+        10,
+        14,
+        13
+      ],
+      "pointer_offsets": [
+        3248892
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593672,
+      "virtual_address": 4638152,
+      "japanese": "左の数字は 現金\n右の数字は 総資産に\nなっているの!",
+      "english": "Left: cash.\nRight: total\nassets!",
+      "capacity": 50,
+      "required_bytes": 33,
+      "line_characters": [
+        11,
+        12,
+        7
+      ],
+      "pointer_offsets": [
+        3248896
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593728,
+      "virtual_address": 4638208,
+      "japanese": "総資産って いうのは\n現金と 株と お店の\n値段の合計のことよ。",
+      "english": "Total assets:\ncash + shares\n+ shop values.",
+      "capacity": 60,
+      "required_bytes": 43,
+      "line_characters": [
+        13,
+        13,
+        14
+      ],
+      "pointer_offsets": [
+        3248900
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593792,
+      "virtual_address": 4638272,
+      "japanese": "お店と株を買って\n増資すれば 総資産は\nどんどん ふえていくわ!",
+      "english": "Shops, shares,\ninvestments:\ngrow assets!",
+      "capacity": 60,
+      "required_bytes": 41,
+      "line_characters": [
+        14,
+        12,
+        12
+      ],
+      "pointer_offsets": [
+        3248904
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593856,
+      "virtual_address": 4638336,
+      "japanese": "目標の資産をもって\n銀行に もどったら\nゲームセットよ。",
+      "english": "Reach the goal\nthen visit the\nbank to win!",
+      "capacity": 54,
+      "required_bytes": 43,
+      "line_characters": [
+        14,
+        14,
+        12
+      ],
+      "pointer_offsets": [
+        3248908
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593912,
+      "virtual_address": 4638392,
+      "japanese": "それと \nだれかが 破産しても\nゲームセットになるわ。",
+      "english": "The game ends\nif anyone goes\nbankrupt too.",
+      "capacity": 51,
+      "required_bytes": 43,
+      "line_characters": [
+        13,
+        14,
+        13
+      ],
+      "pointer_offsets": [
+        3248912
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3593968,
+      "virtual_address": 4638448,
+      "japanese": "そのとき\nいちばん お金もちの人が\n優勝よ!",
+      "english": "Then the\nrichest player\nis the winner!",
+      "capacity": 41,
+      "required_bytes": 39,
+      "line_characters": [
+        8,
+        14,
+        14
+      ],
+      "pointer_offsets": [
+        3248916
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3594016,
+      "virtual_address": 4638496,
+      "japanese": "では ゲームを\nお楽しみに!",
+      "english": "Have fun\nplaying!",
+      "capacity": 26,
+      "required_bytes": 18,
+      "line_characters": [
+        8,
+        8
+      ],
+      "pointer_offsets": [
+        3248920
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3594048,
+      "virtual_address": 4638528,
+      "japanese": "もっと いたストを\n強くなりたいってときの\nひけつ はね……。",
+      "english": "Want to play\nItadaki Street\nbetter?",
+      "capacity": 59,
+      "required_bytes": 36,
+      "line_characters": [
+        12,
+        14,
+        7
+      ],
+      "pointer_offsets": [
+        3248924
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3594112,
+      "virtual_address": 4638592,
+      "japanese": "わたしの授業を\n受けに来ること!",
+      "english": "Come and take\nmy lessons!",
+      "capacity": 31,
+      "required_bytes": 26,
+      "line_characters": [
+        13,
+        11
+      ],
+      "pointer_offsets": [
+        3248928
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "rules",
+      "offset": 3594144,
+      "virtual_address": 4638624,
+      "japanese": "ビシビシ きたえて\nあげるから うふふ。",
+      "english": "I'll train you\nhard! Hee hee.",
+      "capacity": 38,
+      "required_bytes": 30,
+      "line_characters": [
+        14,
+        14
+      ],
+      "pointer_offsets": [
+        3248932
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3460864,
+      "virtual_address": 4505344,
+      "japanese": "STARTボタンでやめる",
+      "english": "START: quit",
+      "capacity": 20,
+      "required_bytes": 12,
+      "line_characters": [
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538552,
+      "virtual_address": 4583032,
+      "japanese": "ぜんぶ\nスロットのみ\nラッキーパネルなし",
+      "english": "All games\nSlots\nNo panels",
+      "capacity": 39,
+      "required_bytes": 26,
+      "line_characters": [
+        9,
+        5,
+        9
+      ],
+      "pointer_offsets": [
+        3141016
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538616,
+      "virtual_address": 4583096,
+      "japanese": "おつかれさまでした。\nこのまま電源を お切りください。",
+      "english": "Thanks for\nplaying. You may\nturn off power.",
+      "capacity": 53,
+      "required_bytes": 44,
+      "line_characters": [
+        10,
+        16,
+        15
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538672,
+      "virtual_address": 4583152,
+      "japanese": "ストリート %s\n",
+      "english": "Street %s\n",
+      "capacity": 15,
+      "required_bytes": 11,
+      "line_characters": [
+        9,
+        0
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538688,
+      "virtual_address": 4583168,
+      "japanese": "対戦相手を 選んでください",
+      "english": "Pick opponents.",
+      "capacity": 26,
+      "required_bytes": 16,
+      "line_characters": [
+        15
+      ],
+      "pointer_offsets": [
+        3141848
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538720,
+      "virtual_address": 4583200,
+      "japanese": "どのトーナメントに 参加しますか?",
+      "english": "Pick tournament.",
+      "capacity": 33,
+      "required_bytes": 17,
+      "line_characters": [
+        16
+      ],
+      "pointer_offsets": [
+        3141872
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538760,
+      "virtual_address": 4583240,
+      "japanese": "どのクエストで 遊びますか?",
+      "english": "Pick quest.",
+      "capacity": 27,
+      "required_bytes": 12,
+      "line_characters": [
+        11
+      ],
+      "pointer_offsets": [
+        3141884
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538792,
+      "virtual_address": 4583272,
+      "japanese": "対戦相手を 選びます",
+      "english": "Pick opponents.",
+      "capacity": 20,
+      "required_bytes": 16,
+      "line_characters": [
+        15
+      ],
+      "pointer_offsets": [
+        3141896
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538816,
+      "virtual_address": 4583296,
+      "japanese": "どのマップで 遊びますか?",
+      "english": "Pick a map.",
+      "capacity": 25,
+      "required_bytes": 12,
+      "line_characters": [
+        11
+      ],
+      "pointer_offsets": [
+        3141920
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538848,
+      "virtual_address": 4583328,
+      "japanese": "個人データ選択",
+      "english": "Pick data",
+      "capacity": 15,
+      "required_bytes": 10,
+      "line_characters": [
+        9
+      ],
+      "pointer_offsets": [
+        3141956
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538864,
+      "virtual_address": 4583344,
+      "japanese": "どのデータを 消しますか?",
+      "english": "Delete which data?",
+      "capacity": 25,
+      "required_bytes": 19,
+      "line_characters": [
+        18
+      ],
+      "pointer_offsets": [
+        3141968
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538896,
+      "virtual_address": 4583376,
+      "japanese": "育成キャラを 選んでください",
+      "english": "Pick trainee.",
+      "capacity": 28,
+      "required_bytes": 14,
+      "line_characters": [
+        13
+      ],
+      "pointer_offsets": [
+        3141992,
+        3142004,
+        3142016,
+        3142028,
+        3142064
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538928,
+      "virtual_address": 4583408,
+      "japanese": "プレイヤーキャラを 選んでください",
+      "english": "Pick character.",
+      "capacity": 34,
+      "required_bytes": 16,
+      "line_characters": [
+        15
+      ],
+      "pointer_offsets": [
+        3142040
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538968,
+      "virtual_address": 4583448,
+      "japanese": "個人データ",
+      "english": "Personal",
+      "capacity": 11,
+      "required_bytes": 9,
+      "line_characters": [
+        8
+      ],
+      "pointer_offsets": [
+        3142076
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3538984,
+      "virtual_address": 4583464,
+      "japanese": "授業データ",
+      "english": "Lessons",
+      "capacity": 11,
+      "required_bytes": 8,
+      "line_characters": [
+        7
+      ],
+      "pointer_offsets": [
+        3142088
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539000,
+      "virtual_address": 4583480,
+      "japanese": "ステータス",
+      "english": "Stats",
+      "capacity": 11,
+      "required_bytes": 6,
+      "line_characters": [
+        5
+      ],
+      "pointer_offsets": [
+        3142100
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539016,
+      "virtual_address": 4583496,
+      "japanese": "育成キャラを選ぶ",
+      "english": "Trainee",
+      "capacity": 17,
+      "required_bytes": 8,
+      "line_characters": [
+        7
+      ],
+      "pointer_offsets": [
+        3142128
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539040,
+      "virtual_address": 4583520,
+      "japanese": "別のスロットから選ぶ",
+      "english": "Other slot",
+      "capacity": 21,
+      "required_bytes": 11,
+      "line_characters": [
+        10
+      ],
+      "pointer_offsets": [
+        3142132,
+        3142144
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539064,
+      "virtual_address": 4583544,
+      "japanese": "名簿から消す",
+      "english": "Remove",
+      "capacity": 13,
+      "required_bytes": 7,
+      "line_characters": [
+        6
+      ],
+      "pointer_offsets": [
+        3142136,
+        3142148
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539080,
+      "virtual_address": 4583560,
+      "japanese": "プレイヤーを選ぶ",
+      "english": "Player",
+      "capacity": 17,
+      "required_bytes": 7,
+      "line_characters": [
+        6
+      ],
+      "pointer_offsets": [
+        3142140
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539104,
+      "virtual_address": 4583584,
+      "japanese": "プレイヤー名簿",
+      "english": "Players",
+      "capacity": 15,
+      "required_bytes": 8,
+      "line_characters": [
+        7
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539120,
+      "virtual_address": 4583600,
+      "japanese": "育成キャラ名簿",
+      "english": "Trainees",
+      "capacity": 15,
+      "required_bytes": 9,
+      "line_characters": [
+        8
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539152,
+      "virtual_address": 4583632,
+      "japanese": "ゲームスタート\n",
+      "english": "Start\n",
+      "capacity": 16,
+      "required_bytes": 7,
+      "line_characters": [
+        5,
+        0
+      ],
+      "pointer_offsets": [
+        3143756
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539168,
+      "virtual_address": 4583648,
+      "japanese": "設定を変える\n",
+      "english": "Settings\n",
+      "capacity": 14,
+      "required_bytes": 10,
+      "line_characters": [
+        8,
+        0
+      ],
+      "pointer_offsets": [
+        3143760
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539184,
+      "virtual_address": 4583664,
+      "japanese": "アドバイス\n",
+      "english": "Advice\n",
+      "capacity": 12,
+      "required_bytes": 8,
+      "line_characters": [
+        6,
+        0
+      ],
+      "pointer_offsets": [
+        3143764
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539200,
+      "virtual_address": 4583680,
+      "japanese": "ひとり\nふたり\nさんにん",
+      "english": "1P\n2P\n3P",
+      "capacity": 23,
+      "required_bytes": 9,
+      "line_characters": [
+        2,
+        2,
+        2
+      ],
+      "pointer_offsets": [
+        3143912
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539224,
+      "virtual_address": 4583704,
+      "japanese": "ぜんぶ\nスロット",
+      "english": "All\nSlots",
+      "capacity": 16,
+      "required_bytes": 10,
+      "line_characters": [
+        3,
+        5
+      ],
+      "pointer_offsets": [
+        3143964
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539240,
+      "virtual_address": 4583720,
+      "japanese": "目標金額を入力してください。",
+      "english": "Set asset goal.",
+      "capacity": 29,
+      "required_bytes": 16,
+      "line_characters": [
+        15
+      ],
+      "pointer_offsets": [
+        3144068
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539272,
+      "virtual_address": 4583752,
+      "japanese": "破産人数を選択してください。",
+      "english": "Bankruptcy limit?",
+      "capacity": 29,
+      "required_bytes": 18,
+      "line_characters": [
+        17
+      ],
+      "pointer_offsets": [
+        3144120
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539304,
+      "virtual_address": 4583784,
+      "japanese": "カジノの設定を選択してください。",
+      "english": "Casino settings?",
+      "capacity": 33,
+      "required_bytes": 17,
+      "line_characters": [
+        16
+      ],
+      "pointer_offsets": [
+        3144172
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539344,
+      "virtual_address": 4583824,
+      "japanese": "空き地モードの設定を選択してください。",
+      "english": "Plot settings?",
+      "capacity": 39,
+      "required_bytes": 15,
+      "line_characters": [
+        14
+      ],
+      "pointer_offsets": [
+        3144224
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539384,
+      "virtual_address": 4583864,
+      "japanese": "そのままうつす\nだれかにあげる",
+      "english": "Copy\nGive away",
+      "capacity": 30,
+      "required_bytes": 15,
+      "line_characters": [
+        4,
+        9
+      ],
+      "pointer_offsets": [
+        3144432
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539496,
+      "virtual_address": 4583976,
+      "japanese": "順番をきめます。",
+      "english": "Deciding order.",
+      "capacity": 17,
+      "required_bytes": 16,
+      "line_characters": [
+        15
+      ],
+      "pointer_offsets": [
+        3145316
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539520,
+      "virtual_address": 4584000,
+      "japanese": "はい\nいいえ",
+      "english": "Yes\nNo",
+      "capacity": 12,
+      "required_bytes": 7,
+      "line_characters": [
+        3,
+        2
+      ],
+      "pointer_offsets": [
+        3145368,
+        3145888,
+        3146616
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539600,
+      "virtual_address": 4584080,
+      "japanese": "個人データ\nベストテン\n授業データ",
+      "english": "Personal\nTop Ten\nLessons",
+      "capacity": 33,
+      "required_bytes": 25,
+      "line_characters": [
+        8,
+        7,
+        7
+      ],
+      "pointer_offsets": [
+        3145472
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539640,
+      "virtual_address": 4584120,
+      "japanese": "個人データ\nベストテン",
+      "english": "Personal\nTop Ten",
+      "capacity": 22,
+      "required_bytes": 17,
+      "line_characters": [
+        8,
+        7
+      ],
+      "pointer_offsets": [
+        3145524
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539832,
+      "virtual_address": 4584312,
+      "japanese": "プレイヤー名簿\n",
+      "english": "Players\n",
+      "capacity": 16,
+      "required_bytes": 9,
+      "line_characters": [
+        7,
+        0
+      ],
+      "pointer_offsets": [
+        3145940
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539848,
+      "virtual_address": 4584328,
+      "japanese": "MEMORY CARD 差込口 1\nMEMORY CARD 差込口 2",
+      "english": "Card slot 1\nCard slot 2",
+      "capacity": 42,
+      "required_bytes": 24,
+      "line_characters": [
+        11,
+        11
+      ],
+      "pointer_offsets": [
+        3146200
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3539896,
+      "virtual_address": 4584376,
+      "japanese": "MEMORY CARD 差込口1-A\nMEMORY CARD 差込口1-B\nMEMORY CARD 差込口1-C\nMEMORY CARD 差込口1-D\nMEMORY CARD 差込口 2",
+      "english": "Card slot 1-A\nCard slot 1-B\nCard slot 1-C\nCard slot 1-D\nCard slot 2",
+      "capacity": 109,
+      "required_bytes": 68,
+      "line_characters": [
+        13,
+        13,
+        13,
+        13,
+        11
+      ],
+      "pointer_offsets": [
+        3146460
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540008,
+      "virtual_address": 4584488,
+      "japanese": "目標金額   %6d",
+      "english": "Goal     %6d",
+      "capacity": 15,
+      "required_bytes": 13,
+      "line_characters": [
+        12
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540024,
+      "virtual_address": 4584504,
+      "japanese": "いただきカップ\n",
+      "english": "Itadaki Cup\n",
+      "capacity": 16,
+      "required_bytes": 13,
+      "line_characters": [
+        11,
+        0
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540040,
+      "virtual_address": 4584520,
+      "japanese": "いただきグランプリ\n",
+      "english": "Grand Prix\n",
+      "capacity": 20,
+      "required_bytes": 12,
+      "line_characters": [
+        10,
+        0
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540064,
+      "virtual_address": 4584544,
+      "japanese": "いたストマラソン\n",
+      "english": "Marathon\n",
+      "capacity": 18,
+      "required_bytes": 10,
+      "line_characters": [
+        8,
+        0
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540088,
+      "virtual_address": 4584568,
+      "japanese": "%d回戦スタート!",
+      "english": "Round %d!",
+      "capacity": 16,
+      "required_bytes": 10,
+      "line_characters": [
+        9
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540104,
+      "virtual_address": 4584584,
+      "japanese": "準決勝スタート!",
+      "english": "Semifinal!",
+      "capacity": 16,
+      "required_bytes": 11,
+      "line_characters": [
+        10
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540120,
+      "virtual_address": 4584600,
+      "japanese": "決勝戦スタート!",
+      "english": "Final!",
+      "capacity": 16,
+      "required_bytes": 7,
+      "line_characters": [
+        6
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540136,
+      "virtual_address": 4584616,
+      "japanese": "クリア条件 %s",
+      "english": "Goal: %s",
+      "capacity": 14,
+      "required_bytes": 9,
+      "line_characters": [
+        8
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540152,
+      "virtual_address": 4584632,
+      "japanese": "それでは クエストナンバー%d\n%s\nスタートです!",
+      "english": "Quest %d\n%s\nLet's start!",
+      "capacity": 45,
+      "required_bytes": 25,
+      "line_characters": [
+        8,
+        2,
+        12
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540808,
+      "virtual_address": 4585288,
+      "japanese": "家庭教師は\nだれに しますか?",
+      "english": "Choose your\ntutor.",
+      "capacity": 28,
+      "required_bytes": 19,
+      "line_characters": [
+        11,
+        6
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540840,
+      "virtual_address": 4585320,
+      "japanese": "あら 私ですね。",
+      "english": "Me? All right!",
+      "capacity": 16,
+      "required_bytes": 15,
+      "line_characters": [
+        14
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540856,
+      "virtual_address": 4585336,
+      "japanese": "はい。雷門ひかるさんですね。",
+      "english": "Hikaru, then!",
+      "capacity": 29,
+      "required_bytes": 14,
+      "line_characters": [
+        13
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540888,
+      "virtual_address": 4585368,
+      "japanese": "いただきカップ",
+      "english": "Itadaki Cup",
+      "capacity": 15,
+      "required_bytes": 12,
+      "line_characters": [
+        11
+      ],
+      "pointer_offsets": [
+        3540952
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540904,
+      "virtual_address": 4585384,
+      "japanese": "いただきグランプリ",
+      "english": "Grand Prix",
+      "capacity": 19,
+      "required_bytes": 11,
+      "line_characters": [
+        10
+      ],
+      "pointer_offsets": [
+        3540956
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540928,
+      "virtual_address": 4585408,
+      "japanese": "いたスト マラソン",
+      "english": "Marathon",
+      "capacity": 18,
+      "required_bytes": 9,
+      "line_characters": [
+        8
+      ],
+      "pointer_offsets": [
+        3540960
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540968,
+      "virtual_address": 4585448,
+      "japanese": "いただき マップ",
+      "english": "Itadaki Maps",
+      "capacity": 16,
+      "required_bytes": 13,
+      "line_characters": [
+        12
+      ],
+      "pointer_offsets": [
+        3541032
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3540984,
+      "virtual_address": 4585464,
+      "japanese": "グランプリ マップ",
+      "english": "GP Maps",
+      "capacity": 18,
+      "required_bytes": 8,
+      "line_characters": [
+        7
+      ],
+      "pointer_offsets": [
+        3541036
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541008,
+      "virtual_address": 4585488,
+      "japanese": "ベストコレクション",
+      "english": "Best Maps",
+      "capacity": 19,
+      "required_bytes": 10,
+      "line_characters": [
+        9
+      ],
+      "pointer_offsets": [
+        3541040
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541048,
+      "virtual_address": 4585528,
+      "japanese": "ストリート",
+      "english": "Street",
+      "capacity": 11,
+      "required_bytes": 7,
+      "line_characters": [
+        6
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541184,
+      "virtual_address": 4585664,
+      "japanese": "テクニック",
+      "english": "Skill",
+      "capacity": 11,
+      "required_bytes": 6,
+      "line_characters": [
+        5
+      ],
+      "pointer_offsets": [
+        3541232
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541200,
+      "virtual_address": 4585680,
+      "japanese": "うんのよさ",
+      "english": "Luck",
+      "capacity": 11,
+      "required_bytes": 5,
+      "line_characters": [
+        4
+      ],
+      "pointer_offsets": [
+        3541236
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541216,
+      "virtual_address": 4585696,
+      "japanese": "こんじょう",
+      "english": "Grit",
+      "capacity": 11,
+      "required_bytes": 5,
+      "line_characters": [
+        4
+      ],
+      "pointer_offsets": [
+        3541240
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541248,
+      "virtual_address": 4585728,
+      "japanese": "いただきクエスト%d",
+      "english": "Quest %d",
+      "capacity": 19,
+      "required_bytes": 9,
+      "line_characters": [
+        8
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541296,
+      "virtual_address": 4585776,
+      "japanese": "あら やめるのね。",
+      "english": "Cancel, then.",
+      "capacity": 18,
+      "required_bytes": 14,
+      "line_characters": [
+        13
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541320,
+      "virtual_address": 4585800,
+      "japanese": "あなた ひとりで\nいらしたのね。",
+      "english": "You're playing\nalone today.",
+      "capacity": 31,
+      "required_bytes": 28,
+      "line_characters": [
+        14,
+        12
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541352,
+      "virtual_address": 4585832,
+      "japanese": "今日は %sで\nいらしたのね。",
+      "english": "You're playing\nas %s.",
+      "capacity": 27,
+      "required_bytes": 22,
+      "line_characters": [
+        14,
+        6
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541832,
+      "virtual_address": 4586312,
+      "japanese": "その名前は\nすでに登録されています",
+      "english": "That name is\nalready taken.",
+      "capacity": 34,
+      "required_bytes": 28,
+      "line_characters": [
+        12,
+        14
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541872,
+      "virtual_address": 4586352,
+      "japanese": "そのキャラは\nすでに登録されています",
+      "english": "That character\nis registered.",
+      "capacity": 36,
+      "required_bytes": 30,
+      "line_characters": [
+        14,
+        14
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541912,
+      "virtual_address": 4586392,
+      "japanese": "%sさんの\nデータを消しました。",
+      "english": "Deleted\n%s's data.",
+      "capacity": 30,
+      "required_bytes": 19,
+      "line_characters": [
+        7,
+        10
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3541992,
+      "virtual_address": 4586472,
+      "japanese": "どのタイプに しますか?",
+      "english": "Which type?",
+      "capacity": 23,
+      "required_bytes": 12,
+      "line_characters": [
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542016,
+      "virtual_address": 4586496,
+      "japanese": "これで よろしいですか?",
+      "english": "Is this OK?",
+      "capacity": 23,
+      "required_bytes": 12,
+      "line_characters": [
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542040,
+      "virtual_address": 4586520,
+      "japanese": "メモリーカード(PS2)に\nセーブします\nよろしいですか?",
+      "english": "Save to the\nPS2 memory card?",
+      "capacity": 51,
+      "required_bytes": 29,
+      "line_characters": [
+        11,
+        16
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542096,
+      "virtual_address": 4586576,
+      "japanese": "登録しました。",
+      "english": "Registered.",
+      "capacity": 15,
+      "required_bytes": 12,
+      "line_characters": [
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542112,
+      "virtual_address": 4586592,
+      "japanese": "登録するのを やめました。",
+      "english": "Registration\ncanceled.",
+      "capacity": 26,
+      "required_bytes": 23,
+      "line_characters": [
+        12,
+        9
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542144,
+      "virtual_address": 4586624,
+      "japanese": "まだ %sさんは\n育成キャラを\nつくっていません。",
+      "english": "%s has not\ncreated a\ntrainee yet.",
+      "capacity": 46,
+      "required_bytes": 34,
+      "line_characters": [
+        10,
+        9,
+        12
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542192,
+      "virtual_address": 4586672,
+      "japanese": "はじめに 育成キャラを\nつくってください。",
+      "english": "Create a\ntrainee first.",
+      "capacity": 41,
+      "required_bytes": 24,
+      "line_characters": [
+        8,
+        14
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542240,
+      "virtual_address": 4586720,
+      "japanese": "どのキャラをうつしますか?",
+      "english": "Which trainee\nto transfer",
+      "capacity": 26,
+      "required_bytes": 26,
+      "line_characters": [
+        13,
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542272,
+      "virtual_address": 4586752,
+      "japanese": "%sさんが うつすことは\nできません。\n自分の 育成キャラを\n選んでください。",
+      "english": "%s cannot\ntransfer that.\nChoose your\nown trainee.",
+      "capacity": 72,
+      "required_bytes": 50,
+      "line_characters": [
+        9,
+        14,
+        11,
+        12
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542344,
+      "virtual_address": 4586824,
+      "japanese": "では うつしたい\nメモリーカード(PS2)を\nスロットに\nさして ください。",
+      "english": "Insert the\ndestination\nPS2 memory card\ninto a slot.",
+      "capacity": 67,
+      "required_bytes": 52,
+      "line_characters": [
+        10,
+        11,
+        15,
+        12
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542416,
+      "virtual_address": 4586896,
+      "japanese": "スロットを 選んでください。",
+      "english": "Choose a slot.",
+      "capacity": 28,
+      "required_bytes": 15,
+      "line_characters": [
+        14
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542448,
+      "virtual_address": 4586928,
+      "japanese": "それでは %sを\nそのまま うつすか\nだれかに あげるか\n決めてください。",
+      "english": "Copy %s,\nor give it\nto someone?",
+      "capacity": 67,
+      "required_bytes": 32,
+      "line_characters": [
+        8,
+        10,
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542520,
+      "virtual_address": 4587000,
+      "japanese": "%sは\nすでに 登録されています。\n上書きしますか?",
+      "english": "%s already\nregistered.\nOverwrite?",
+      "capacity": 47,
+      "required_bytes": 34,
+      "line_characters": [
+        10,
+        11,
+        10
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542568,
+      "virtual_address": 4587048,
+      "japanese": "やめるのですね。\nわかりました。",
+      "english": "Canceled.\nUnderstood.",
+      "capacity": 32,
+      "required_bytes": 22,
+      "line_characters": [
+        9,
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542600,
+      "virtual_address": 4587080,
+      "japanese": "それでは %sを\nうつします。\nメモリーカード(PS2)に\nセーブしますが よろしいですか?",
+      "english": "Transfer %s\nand save to the\nPS2 memory card?",
+      "capacity": 80,
+      "required_bytes": 45,
+      "line_characters": [
+        11,
+        15,
+        16
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542680,
+      "virtual_address": 4587160,
+      "japanese": "%sを 消します。\nよろしいですか?",
+      "english": "Delete %s?",
+      "capacity": 32,
+      "required_bytes": 11,
+      "line_characters": [
+        10
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542712,
+      "virtual_address": 4587192,
+      "japanese": "消しおわりました。",
+      "english": "Deleted.",
+      "capacity": 19,
+      "required_bytes": 9,
+      "line_characters": [
+        8
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542736,
+      "virtual_address": 4587216,
+      "japanese": "%sさんは\nすでに 会員名簿に\n登録されています。",
+      "english": "%s is\nalready on the\nplayer list.",
+      "capacity": 46,
+      "required_bytes": 34,
+      "line_characters": [
+        5,
+        14,
+        12
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542784,
+      "virtual_address": 4587264,
+      "japanese": "これ以上 育成キャラを\nうつせません。",
+      "english": "Cannot transfer\nmore trainees.",
+      "capacity": 37,
+      "required_bytes": 31,
+      "line_characters": [
+        15,
+        14
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542824,
+      "virtual_address": 4587304,
+      "japanese": "%sを\nだれに あげますか?",
+      "english": "Give %s\nto whom?",
+      "capacity": 24,
+      "required_bytes": 17,
+      "line_characters": [
+        7,
+        8
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542848,
+      "virtual_address": 4587328,
+      "japanese": "%sを %sさんに\nあげます。\nこれからは %sさんが\nこのキャラの 主人です。",
+      "english": "Give %s to %s.\nNow %s owns\nthis trainee.",
+      "capacity": 69,
+      "required_bytes": 41,
+      "line_characters": [
+        14,
+        11,
+        13
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542920,
+      "virtual_address": 4587400,
+      "japanese": "%sさんは\n上書きされますが\nよろしいですか?",
+      "english": "Overwrite\n%s's data?",
+      "capacity": 42,
+      "required_bytes": 21,
+      "line_characters": [
+        9,
+        10
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3542968,
+      "virtual_address": 4587448,
+      "japanese": "%sさんは\n育成キャラを つくって\nいませんよ。",
+      "english": "%s has not\ncreated a\ntrainee yet.",
+      "capacity": 44,
+      "required_bytes": 34,
+      "line_characters": [
+        10,
+        9,
+        12
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3543016,
+      "virtual_address": 4587496,
+      "japanese": "すでに %sさんは\n育成キャラを つくっています。",
+      "english": "%s already\nhas a trainee.",
+      "capacity": 46,
+      "required_bytes": 26,
+      "line_characters": [
+        10,
+        14
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3543064,
+      "virtual_address": 4587544,
+      "japanese": "これ以上 育成キャラを\nつくれません。",
+      "english": "Cannot create\nmore trainees.",
+      "capacity": 37,
+      "required_bytes": 29,
+      "line_characters": [
+        13,
+        14
+      ],
+      "pointer_offsets": [
+        486844,
+        487088,
+        572668,
+        581020
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3543104,
+      "virtual_address": 4587584,
+      "japanese": "育成キャラは\nひとりも いません。",
+      "english": "There are\nno trainees.",
+      "capacity": 33,
+      "required_bytes": 23,
+      "line_characters": [
+        9,
+        12
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545128,
+      "virtual_address": 4589608,
+      "japanese": "それでは\nあなたの お名前を\n教えてください。",
+      "english": "Please tell me\nyour name.",
+      "capacity": 44,
+      "required_bytes": 26,
+      "line_characters": [
+        14,
+        10
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545176,
+      "virtual_address": 4589656,
+      "japanese": "名前を 決めてください。",
+      "english": "Choose a name.",
+      "capacity": 24,
+      "required_bytes": 15,
+      "line_characters": [
+        14
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545200,
+      "virtual_address": 4589680,
+      "japanese": "けってい-○ボタン",
+      "english": "Circle: confirm",
+      "capacity": 18,
+      "required_bytes": 16,
+      "line_characters": [
+        15
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545224,
+      "virtual_address": 4589704,
+      "japanese": "もどる--×ボタン",
+      "english": "Cross: back",
+      "capacity": 17,
+      "required_bytes": 12,
+      "line_characters": [
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545248,
+      "virtual_address": 4589728,
+      "japanese": "おわり--STARTボタン",
+      "english": "START: done",
+      "capacity": 20,
+      "required_bytes": 12,
+      "line_characters": [
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545272,
+      "virtual_address": 4589752,
+      "japanese": "%sさんね。",
+      "english": "%s, OK.",
+      "capacity": 11,
+      "required_bytes": 8,
+      "line_characters": [
+        7
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545480,
+      "virtual_address": 4589960,
+      "japanese": "%sさんの\n参加が 決まりました。",
+      "english": "%s has\njoined the game.",
+      "capacity": 31,
+      "required_bytes": 24,
+      "line_characters": [
+        6,
+        16
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545728,
+      "virtual_address": 4590208,
+      "japanese": "同じすがたの キャラは\n一緒に プレーできません。\nちがうすがたに\n変えてください。",
+      "english": "Players cannot\nlook identical.\nChoose another\nappearance.",
+      "capacity": 80,
+      "required_bytes": 58,
+      "line_characters": [
+        14,
+        15,
+        14,
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545808,
+      "virtual_address": 4590288,
+      "japanese": "トーナメントでは\nどのキャラを つかいますか?",
+      "english": "Tournament player?",
+      "capacity": 44,
+      "required_bytes": 19,
+      "line_characters": [
+        18
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545856,
+      "virtual_address": 4590336,
+      "japanese": "いただきクエストで\nつかうキャラを\n選んでください。",
+      "english": "Quest character?",
+      "capacity": 51,
+      "required_bytes": 17,
+      "line_characters": [
+        16
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545912,
+      "virtual_address": 4590392,
+      "japanese": "どのキャラに しますか?",
+      "english": "Which character?",
+      "capacity": 23,
+      "required_bytes": 17,
+      "line_characters": [
+        16
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3545936,
+      "virtual_address": 4590416,
+      "japanese": "%sさん\n今日は どのキャラで\n遊びますか?",
+      "english": "%s, which\ncharacter today?",
+      "capacity": 39,
+      "required_bytes": 27,
+      "line_characters": [
+        9,
+        16
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3546280,
+      "virtual_address": 4590760,
+      "japanese": "スロットのみ",
+      "english": "Slots only",
+      "capacity": 13,
+      "required_bytes": 11,
+      "line_characters": [
+        10
+      ],
+      "pointer_offsets": [
+        3546324
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3546296,
+      "virtual_address": 4590776,
+      "japanese": "ラッキーパネルなし",
+      "english": "No Lucky Panels",
+      "capacity": 19,
+      "required_bytes": 16,
+      "line_characters": [
+        15
+      ],
+      "pointer_offsets": [
+        3546328
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3546488,
+      "virtual_address": 4590968,
+      "japanese": "この前 遊んだ\n続きからで よろしいですか?\n(中断セーブしたところから\n始まります。)",
+      "english": "Resume your\nprevious game\nfrom the\nsuspend save?",
+      "capacity": 81,
+      "required_bytes": 49,
+      "line_characters": [
+        11,
+        13,
+        8,
+        13
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3546576,
+      "virtual_address": 4591056,
+      "japanese": "中断すると 前に遊んだときの\n記録(中断セーブデータ)が\n消えてしまいますが\nよろしいですか?",
+      "english": "Suspending\nwill overwrite\nyour previous\nsuspend save.\nIs this OK?",
+      "capacity": 88,
+      "required_bytes": 66,
+      "line_characters": [
+        10,
+        14,
+        13,
+        13,
+        11
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3546664,
+      "virtual_address": 4591144,
+      "japanese": "うまくロードできませんでした。",
+      "english": "Could not load.",
+      "capacity": 31,
+      "required_bytes": 16,
+      "line_characters": [
+        15
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3547560,
+      "virtual_address": 4592040,
+      "japanese": "遊んだデータを\nセーブしますか?",
+      "english": "Save your\nresults?",
+      "capacity": 31,
+      "required_bytes": 19,
+      "line_characters": [
+        9,
+        8
+      ],
+      "pointer_offsets": [
+        3150120
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3547592,
+      "virtual_address": 4592072,
+      "japanese": "スロットを選んでください。",
+      "english": "Choose a slot.",
+      "capacity": 27,
+      "required_bytes": 15,
+      "line_characters": [
+        14
+      ],
+      "pointer_offsets": [
+        3150124
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3547624,
+      "virtual_address": 4592104,
+      "japanese": "セーブしないと 遊んだときの\n記録が 消えますが\nかまいませんか?",
+      "english": "Without saving,\nyour results\nwill be lost.\nIs this OK?",
+      "capacity": 62,
+      "required_bytes": 55,
+      "line_characters": [
+        15,
+        12,
+        13,
+        11
+      ],
+      "pointer_offsets": [
+        3150128
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3547752,
+      "virtual_address": 4592232,
+      "japanese": "つづけて\nチャレンジしますか？",
+      "english": "Keep trying?",
+      "capacity": 30,
+      "required_bytes": 13,
+      "line_characters": [
+        12
+      ],
+      "pointer_offsets": [
+        3150136
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3547784,
+      "virtual_address": 4592264,
+      "japanese": "おつかれさまでした。",
+      "english": "Thanks!",
+      "capacity": 21,
+      "required_bytes": 8,
+      "line_characters": [
+        7
+      ],
+      "pointer_offsets": [
+        3150140
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3547904,
+      "virtual_address": 4592384,
+      "japanese": "つづけて\nあそびますか？",
+      "english": "Play again?",
+      "capacity": 24,
+      "required_bytes": 12,
+      "line_characters": [
+        11
+      ],
+      "pointer_offsets": [
+        3150152
+      ],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3553064,
+      "virtual_address": 4597544,
+      "japanese": "どの記録を見ますか？",
+      "english": "Which records?",
+      "capacity": 21,
+      "required_bytes": 15,
+      "line_characters": [
+        14
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3553088,
+      "virtual_address": 4597568,
+      "japanese": "どの記録を消しますか？",
+      "english": "Delete which\nrecords?",
+      "capacity": 23,
+      "required_bytes": 22,
+      "line_characters": [
+        12,
+        8
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3553112,
+      "virtual_address": 4597592,
+      "japanese": "誰の授業データを見ますか？",
+      "english": "Whose lessons\nto view?",
+      "capacity": 27,
+      "required_bytes": 23,
+      "line_characters": [
+        13,
+        8
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3553144,
+      "virtual_address": 4597624,
+      "japanese": "ベストテンデータを 消します。\nよろしいですか？",
+      "english": "Delete Top Ten\nrecords?",
+      "capacity": 47,
+      "required_bytes": 24,
+      "line_characters": [
+        14,
+        8
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3553192,
+      "virtual_address": 4597672,
+      "japanese": "ベストテンデータを\n消しました",
+      "english": "Top Ten records\ndeleted.",
+      "capacity": 30,
+      "required_bytes": 25,
+      "line_characters": [
+        15,
+        8
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3553512,
+      "virtual_address": 4597992,
+      "japanese": "%sさんの\nデータを消しますか?",
+      "english": "Delete\n%s's data?",
+      "capacity": 29,
+      "required_bytes": 18,
+      "line_characters": [
+        6,
+        10
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    },
+    {
+      "kind": "submenu",
+      "offset": 3553544,
+      "virtual_address": 4598024,
+      "japanese": "%sさんの\nデータをけしました",
+      "english": "Deleted\n%s's data.",
+      "capacity": 28,
+      "required_bytes": 19,
+      "line_characters": [
+        7,
+        10
+      ],
+      "pointer_offsets": [],
+      "review": "binary verified; visual testing incomplete"
+    }
+  ]
+}

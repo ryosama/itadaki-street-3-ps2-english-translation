@@ -1,0 +1,1423 @@
+[
+  {
+    "needle": "あなたの",
+    "offset": "0x360988",
+    "size": 72,
+    "japanese": "あなたの お名前を\n自分の つかう\nアナログコントローラで\n教えてください。",
+    "current": "あなたの お名前を\n自分の つかう\nアナログコントローラで\n教えてください。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x361828",
+    "size": 44,
+    "japanese": "それでは\nあなたの お名前を\n教えてください。",
+    "current": "Please tell me\nyour name."
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x36c880",
+    "size": 31,
+    "japanese": "あなたのお店を\n選んで ください",
+    "current": "Choose\nyour shop."
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x36ca10",
+    "size": 50,
+    "japanese": "お店を点検するため\nあなたのお店が\n休日に なります",
+    "current": "お店を点検するため\nあなたのお店が\n休日に なります"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x36cc08",
+    "size": 55,
+    "japanese": "上 下 左 右の\nあなたのお好きな方を\nえらんで 進んでね。",
+    "current": "Choose up,\ndown, left\nor right."
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x36cef0",
+    "size": 59,
+    "japanese": "あなたの お店に\nほかの人が とまると\n買い物料がもらえるわ。",
+    "current": "Others pay you\nwhen they land\non your shops."
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x36d9b8",
+    "size": 56,
+    "japanese": "これ あなたのでしょ。\nはい。だいじに\nしまっておいてね♪",
+    "current": "これ あなたのでしょ。\nはい。だいじに\nしまっておいてね♪"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x36db58",
+    "size": 48,
+    "japanese": "これって あなたのよね\nはい!\nたいせつに してね。",
+    "current": "これって あなたのよね\nはい!\nたいせつに してね。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x36dce8",
+    "size": 79,
+    "japanese": "こんなものが あったけど\nあなたの ものでしょ。\nはい だいじに\nしまっておいてね。",
+    "current": "こんなものが あったけど\nあなたの ものでしょ。\nはい だいじに\nしまっておいてね。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x36de48",
+    "size": 70,
+    "japanese": "これも あなたのでしょ。\nなんだか いろいろと\n落ちているわね。\nうふふ。",
+    "current": "これも あなたのでしょ。\nなんだか いろいろと\n落ちているわね。\nうふふ。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x377c20",
+    "size": 53,
+    "japanese": "A9B4C3マハラジャさん\nあなたの 運命は\n決まりましたわ!",
+    "current": "A9B4C3マハラジャさん\nあなたの 運命は\n決まりましたわ!"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x393310",
+    "size": 84,
+    "japanese": "矢印がふたつ以上\n出ているときは\nどっちにでも進めちゃうの!\nあなたの好きな道を選んで!",
+    "current": "More than one\narrow? Pick\nany of those\nroutes!"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x393cd0",
+    "size": 69,
+    "japanese": "こっちへ 行けば\n同じ エリアの中に\nあなたのお店を\nふやせるんじゃない?",
+    "current": "こっちへ 行けば\n同じ エリアの中に\nあなたのお店を\nふやせるんじゃない?"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x394870",
+    "size": 83,
+    "japanese": "前もって このコマンドで\n売り出しておけば\n買い取り価格が全部\nあなたの収入になるの。",
+    "current": "Sell early to\nkeep the whole\nsale price."
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x394e48",
+    "size": 58,
+    "japanese": "このコマンドを使えば\nあなたの お店を\n売ることができます。",
+    "current": "このコマンドを使えば\nあなたの お店を\n売ることができます。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x394f78",
+    "size": 65,
+    "japanese": "え?\nいま 売る気なの?\nあなたの先生として\n反対させて いただきます!",
+    "current": "え?\nいま 売る気なの?\nあなたの先生として\n反対させて いただきます!"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x395190",
+    "size": 71,
+    "japanese": "仮に あなたの言うとおりに\nいま 交換したとして\nそこに どんなメリットが?",
+    "current": "仮に あなたの言うとおりに\nいま 交換したとして\nそこに どんなメリットが?"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x395350",
+    "size": 38,
+    "japanese": "あなたのテレビにあわせて\n設定してね。",
+    "current": "Set it to suit\nyour TV."
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x3963e0",
+    "size": 90,
+    "japanese": "【休日】に きちゃったわね\nここに 止まると\nあなたのお店は ぜ～んぶ\nつぎの番まで お休みよ。",
+    "current": "【休日】に きちゃったわね\nここに 止まると\nあなたのお店は ぜ～んぶ\nつぎの番まで お休みよ。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x396940",
+    "size": 52,
+    "japanese": "いま あなたの いる場所に\nあるのが【スイッチ】です。",
+    "current": "いま あなたの いる場所に\nあるのが【スイッチ】です。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x399708",
+    "size": 37,
+    "japanese": "このまま銀行に行けば\nあなたの勝ちね!",
+    "current": "このまま銀行に行けば\nあなたの勝ちね!"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x3997b8",
+    "size": 66,
+    "japanese": "あなたは 総資産\nトップだから つまり\nこのままなら\nあなたの 優勝ね!",
+    "current": "あなたは 総資産\nトップだから つまり\nこのままなら\nあなたの 優勝ね!"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x39b1d0",
+    "size": 67,
+    "japanese": "そのへんが これからの\nあなたの 課題じゃ\nないかしら。\nがんばってね!",
+    "current": "そのへんが これからの\nあなたの 課題じゃ\nないかしら。\nがんばってね!"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x39be68",
+    "size": 22,
+    "japanese": "つぎは あなたの番よ。",
+    "current": "つぎは あなたの番よ。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x39bed8",
+    "size": 59,
+    "japanese": "あなたのプレーを 見てると\nわたしも いろいろ\n勉強になるわ。",
+    "current": "あなたのプレーを 見てると\nわたしも いろいろ\n勉強になるわ。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x39bf30",
+    "size": 31,
+    "japanese": "あなたのサイコロ運を\n信じるわ!",
+    "current": "あなたのサイコロ運を\n信じるわ!"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x39cce0",
+    "size": 78,
+    "japanese": "あなたの持ち株が\n値下がりしたけど\n気分まで おちこまない\nように しましょうね。",
+    "current": "あなたの持ち株が\n値下がりしたけど\n気分まで おちこまない\nように しましょうね。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x39d2a0",
+    "size": 45,
+    "japanese": "この エリアの\nあなたのお店は\nこれが1つめね。",
+    "current": "この エリアの\nあなたのお店は\nこれが1つめね。"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x39d368",
+    "size": 43,
+    "japanese": "このエリアの\nあなたのお店は\nこれで2軒目ね!",
+    "current": "このエリアの\nあなたのお店は\nこれで2軒目ね!"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x39d4a0",
+    "size": 34,
+    "japanese": "これで このエリアは\nあなたのもの!",
+    "current": "これで このエリアは\nあなたのもの!"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x39ec40",
+    "size": 46,
+    "japanese": "あとは このまま\n銀行を通れば\nあなたの 優勝よ!",
+    "current": "あとは このまま\n銀行を通れば\nあなたの 優勝よ!"
+  },
+  {
+    "needle": "あなたの",
+    "offset": "0x39f570",
+    "size": 82,
+    "japanese": "ここでは あなたのお店と\nひとのお店を 2軒ずつまで\n選んで 交換することが\nできます。",
+    "current": "ここでは あなたのお店と\nひとのお店を 2軒ずつまで\n選んで 交換することが\nできます。"
+  },
+  {
+    "needle": "未登録",
+    "offset": "0x3b9610",
+    "size": 7,
+    "japanese": "未登録",
+    "current": "未登録"
+  },
+  {
+    "needle": "未登録",
+    "offset": "0x3b99d8",
+    "size": 7,
+    "japanese": "未登録",
+    "current": "未登録"
+  },
+  {
+    "needle": "強さランク",
+    "offset": "0x362190",
+    "size": 22,
+    "japanese": "強さランク   %c → %c",
+    "current": "強さランク   %c → %c"
+  },
+  {
+    "needle": "強さランク",
+    "offset": "0x362dc0",
+    "size": 27,
+    "japanese": "強さランク が %cに なった!",
+    "current": "強さランク が %cに なった!"
+  },
+  {
+    "needle": "強さランク",
+    "offset": "0x363ae8",
+    "size": 13,
+    "japanese": "強さランク:-",
+    "current": "強さランク:-"
+  },
+  {
+    "needle": "強さランク",
+    "offset": "0x363b78",
+    "size": 14,
+    "japanese": "強さランク:%c",
+    "current": "強さランク:%c"
+  },
+  {
+    "needle": "出身",
+    "offset": "0x3830a8",
+    "size": 56,
+    "japanese": "A5B0ごきげんさん!\n京都出身の 狂言師\nくろうど でおます。",
+    "current": "A5B0ごきげんさん!\n京都出身の 狂言師\nくろうど でおます。"
+  },
+  {
+    "needle": "出身",
+    "offset": "0x3b9918",
+    "size": 8,
+    "japanese": "出身:%s",
+    "current": "出身:%s"
+  },
+  {
+    "needle": "仕事",
+    "offset": "0x374240",
+    "size": 49,
+    "japanese": "A9B3オペの仕事のようには\nうまく いかないものね。",
+    "current": "A9B3オペの仕事のようには\nうまく いかないものね。"
+  },
+  {
+    "needle": "仕事",
+    "offset": "0x3752a0",
+    "size": 50,
+    "japanese": "A1B0週末には\n仕事を 忘れて\nここで くつろぎたいわ!",
+    "current": "A1B0週末には\n仕事を 忘れて\nここで くつろぎたいわ!"
+  },
+  {
+    "needle": "仕事",
+    "offset": "0x3763c8",
+    "size": 57,
+    "japanese": "A1B6せっかく 仕事をサボって\n出場した以上\n決勝をめざすわ!",
+    "current": "A1B6せっかく 仕事をサボって\n出場した以上\n決勝をめざすわ!"
+  },
+  {
+    "needle": "仕事",
+    "offset": "0x37d930",
+    "size": 47,
+    "japanese": "A6B6C3これで 余の\n仕事が ひとつ\n達成されたか。",
+    "current": "A6B6C3これで 余の\n仕事が ひとつ\n達成されたか。"
+  },
+  {
+    "needle": "仕事",
+    "offset": "0x3b9920",
+    "size": 8,
+    "japanese": "仕事:%s",
+    "current": "仕事:%s"
+  },
+  {
+    "needle": "趣味",
+    "offset": "0x3b9928",
+    "size": 8,
+    "japanese": "趣味:%s",
+    "current": "趣味:%s"
+  },
+  {
+    "needle": "勝率",
+    "offset": "0x361b98",
+    "size": 10,
+    "japanese": "勝率:----",
+    "current": "勝率:----"
+  },
+  {
+    "needle": "勝率",
+    "offset": "0x361bb8",
+    "size": 13,
+    "japanese": "勝率:%d.%d%d",
+    "current": "勝率:%d.%d%d"
+  },
+  {
+    "needle": "勝率",
+    "offset": "0x363ad8",
+    "size": 11,
+    "japanese": "勝率: ----",
+    "current": "勝率: ----"
+  },
+  {
+    "needle": "勝率",
+    "offset": "0x363b68",
+    "size": 13,
+    "japanese": "勝率:  %d.%d",
+    "current": "勝率:  %d.%d"
+  },
+  {
+    "needle": "勝率",
+    "offset": "0x363c00",
+    "size": 14,
+    "japanese": "勝率  %d.%d%d",
+    "current": "勝率  %d.%d%d"
+  },
+  {
+    "needle": "勝率",
+    "offset": "0x399e08",
+    "size": 45,
+    "japanese": "この調子で どんどん\n勝率を 上げていきましょ!",
+    "current": "この調子で どんどん\n勝率を 上げていきましょ!"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x34cc48",
+    "size": 20,
+    "japanese": "つぎのランクまで%dG",
+    "current": "つぎのランクまで%dG"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x34cc60",
+    "size": 13,
+    "japanese": "おみせランク",
+    "current": "Shop rank"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x361bc8",
+    "size": 10,
+    "japanese": "ランク:%s",
+    "current": "ランク:%s"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x362190",
+    "size": 22,
+    "japanese": "強さランク   %c → %c",
+    "current": "強さランク   %c → %c"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x362dc0",
+    "size": 27,
+    "japanese": "強さランク が %cに なった!",
+    "current": "強さランク が %cに なった!"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x363a10",
+    "size": 13,
+    "japanese": "つよさランク",
+    "current": "Skill rank"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x363ae8",
+    "size": 13,
+    "japanese": "強さランク:-",
+    "current": "強さランク:-"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x363b78",
+    "size": 14,
+    "japanese": "強さランク:%c",
+    "current": "強さランク:%c"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x363bc8",
+    "size": 16,
+    "japanese": "つよさランク %c",
+    "current": "つよさランク %c"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x368f48",
+    "size": 17,
+    "japanese": "コンビニランクの",
+    "current": "コンビニランクの"
+  },
+  {
+    "needle": "ランク",
+    "offset": "0x370d40",
+    "size": 11,
+    "japanese": "トランクス",
+    "current": "トランクス"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x35f290",
+    "size": 19,
+    "japanese": "10ターン以内で優勝",
+    "current": "10ターン以内で優勝"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x35f328",
+    "size": 19,
+    "japanese": "15ターン以内で優勝",
+    "current": "15ターン以内で優勝"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x35f3d0",
+    "size": 15,
+    "japanese": "優勝を めざせ!",
+    "current": "優勝を めざせ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x35f428",
+    "size": 29,
+    "japanese": "10ターン以内に 優勝をめざせ!",
+    "current": "10ターン以内に 優勝をめざせ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x35f590",
+    "size": 31,
+    "japanese": "うまく 乗りきり 優勝を めざせ!",
+    "current": "うまく 乗りきり 優勝を めざせ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x360ae0",
+    "size": 45,
+    "japanese": "トーナメントは 5回戦を\n勝ちぬけば 優勝です。",
+    "current": "トーナメントは 5回戦を\n勝ちぬけば 優勝です。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x361b88",
+    "size": 11,
+    "japanese": "優勝:---回",
+    "current": "優勝:---回"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x361ba8",
+    "size": 11,
+    "japanese": "優勝:%3d回",
+    "current": "優勝:%3d回"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3622c8",
+    "size": 55,
+    "japanese": "決勝戦は 1位にならないと\n優勝できないので 気をつけて。",
+    "current": "決勝戦は 1位にならないと\n優勝できないので 気をつけて。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x363af8",
+    "size": 12,
+    "japanese": "優勝:----回",
+    "current": "優勝:----回"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x363b88",
+    "size": 11,
+    "japanese": "優勝:%4d回",
+    "current": "優勝:%4d回"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x36d6f0",
+    "size": 41,
+    "japanese": "そのとき\nいちばん お金もちの人が\n優勝よ!",
+    "current": "Then the\nrichest player\nis the winner!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x373638",
+    "size": 35,
+    "japanese": "B1これに勝てば\n優勝が 見えるのね。",
+    "current": "B1これに勝てば\n優勝が 見えるのね。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x378bc0",
+    "size": 43,
+    "japanese": "みなさま\n優勝は わたくしが\nいただきますわ!",
+    "current": "みなさま\n優勝は わたくしが\nいただきますわ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x378bf0",
+    "size": 57,
+    "japanese": "B1占ってみたところ\nわたくしの 優勝は\n決まっていましたわ!",
+    "current": "B1占ってみたところ\nわたくしの 優勝は\n決まっていましたわ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x378cb8",
+    "size": 45,
+    "japanese": "B1みなさま\n優勝は わたくしが\nいただきますわ!",
+    "current": "B1みなさま\n優勝は わたくしが\nいただきますわ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x37b3b8",
+    "size": 34,
+    "japanese": "優勝は わたしが\nいただきって感じ!",
+    "current": "優勝は わたしが\nいただきって感じ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x37b488",
+    "size": 36,
+    "japanese": "B1優勝は わたしが\nいただきって感じ!",
+    "current": "B1優勝は わたしが\nいただきって感じ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x37db08",
+    "size": 41,
+    "japanese": "B1王は 優勝するために\n存在している……。",
+    "current": "B1王は 優勝するために\n存在している……。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x37fe58",
+    "size": 31,
+    "japanese": "A6B4カブラの優勝で\n決まりカブ!",
+    "current": "A6B4カブラの優勝で\n決まりカブ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x37fef0",
+    "size": 40,
+    "japanese": "A0B0ここは\nカブラの優勝で\n決まりカブな!",
+    "current": "A0B0ここは\nカブラの優勝で\n決まりカブな!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x384040",
+    "size": 31,
+    "japanese": "A0B1C3あゆの優勝で\nきまりかな?",
+    "current": "A0B1C3あゆの優勝で\nきまりかな?"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x384060",
+    "size": 65,
+    "japanese": "A3B3あれ? あゆの 優勝で\n決まりじゃなかったの?\n資産が へってる～!",
+    "current": "A3B3あれ? あゆの 優勝で\n決まりじゃなかったの?\n資産が へってる～!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x388388",
+    "size": 36,
+    "japanese": "A1B4優勝は このシモンジが\nもらった!",
+    "current": "A1B4優勝は このシモンジが\nもらった!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x38dbb0",
+    "size": 51,
+    "japanese": "A5B0ぜひとも われらが\n優勝を\nかっさらうのにゃ!(マ)",
+    "current": "A5B0ぜひとも われらが\n優勝を\nかっさらうのにゃ!(マ)"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x38fdb0",
+    "size": 22,
+    "japanese": "A0B6優勝ハ ミエマシタ",
+    "current": "A0B6優勝ハ ミエマシタ"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x38fdc8",
+    "size": 30,
+    "japanese": "A5B6優勝確率『1』『0』『0』％",
+    "current": "A5B6優勝確率『1』『0』『0』％"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x390098",
+    "size": 30,
+    "japanese": "A1B6コノママ 優勝\nワタシ 優勝",
+    "current": "A1B6コノママ 優勝\nワタシ 優勝"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x391070",
+    "size": 36,
+    "japanese": "A1B4もう 優勝は きまった!\nそうだろ?",
+    "current": "A1B4もう 優勝は きまった!\nそうだろ?"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x392a20",
+    "size": 39,
+    "japanese": "A5B4オレっちだって\n優勝ねらってるッス!",
+    "current": "A5B4オレっちだって\n優勝ねらってるッス!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x392e38",
+    "size": 57,
+    "japanese": "A1B4ゴールしたら\nそのまま 優勝ってな。\nあったりめぇよー!",
+    "current": "A1B4ゴールしたら\nそのまま 優勝ってな。\nあったりめぇよー!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x392e78",
+    "size": 62,
+    "japanese": "A2B4なんでぇ!\nオレっちが ゴールしても\n優勝できねぇじゃんかよ!",
+    "current": "A2B4なんでぇ!\nオレっちが ゴールしても\n優勝できねぇじゃんかよ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x393158",
+    "size": 42,
+    "japanese": "優勝めざして いっしょに\nがんばりましょう!",
+    "current": "Let's aim for\nfirst place\ntogether!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x397590",
+    "size": 79,
+    "japanese": "え～っ! どうして???\n株 買うべきだと 思うけど\nひょっとして\n優勝 したくないとか?",
+    "current": "え～っ! どうして???\n株 買うべきだと 思うけど\nひょっとして\n優勝 したくないとか?"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3997b8",
+    "size": 66,
+    "japanese": "あなたは 総資産\nトップだから つまり\nこのままなら\nあなたの 優勝ね!",
+    "current": "あなたは 総資産\nトップだから つまり\nこのままなら\nあなたの 優勝ね!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x399e38",
+    "size": 45,
+    "japanese": "すごいわ すごいわ!\nぶっちぎりで優勝じゃない!",
+    "current": "すごいわ すごいわ!\nぶっちぎりで優勝じゃない!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x399f50",
+    "size": 78,
+    "japanese": "あんなに大ダメージを\nくらいながら\nしっかり 優勝だなんて!\nわたしも 鼻が高いわ!",
+    "current": "あんなに大ダメージを\nくらいながら\nしっかり 優勝だなんて!\nわたしも 鼻が高いわ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x39d740",
+    "size": 69,
+    "japanese": "このままじゃ\nすでに ゴール条件を\n満たしてる あの人に\n優勝されちゃう!",
+    "current": "このままじゃ\nすでに ゴール条件を\n満たしてる あの人に\n優勝されちゃう!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x39ec40",
+    "size": 46,
+    "japanese": "あとは このまま\n銀行を通れば\nあなたの 優勝よ!",
+    "current": "あとは このまま\n銀行を通れば\nあなたの 優勝よ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x39ecf8",
+    "size": 88,
+    "japanese": "あなたも ゴール条件は\nクリアしてるけど\n優勝できるのは あくまで\n資産がトップの人なのよ。",
+    "current": "あなたも ゴール条件は\nクリアしてるけど\n優勝できるのは あくまで\n資産がトップの人なのよ。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x39eda8",
+    "size": 72,
+    "japanese": "このまま あなたが\n銀行を通ったら\nあの人の 優勝で\nゲームセットねえ……。",
+    "current": "このまま あなたが\n銀行を通ったら\nあの人の 優勝で\nゲームセットねえ……。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a67a8",
+    "size": 87,
+    "japanese": "優勝は あくまでも\n総資産が いちばん多い\nライバルに もっていかれる。\nというわけで……。",
+    "current": "優勝は あくまでも\n総資産が いちばん多い\nライバルに もっていかれる。\nというわけで……。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a6800",
+    "size": 68,
+    "japanese": "あくまでも\n優勝を ねらうか\n人に プレゼントするか\nよく 考えてくれよ!",
+    "current": "あくまでも\n優勝を ねらうか\n人に プレゼントするか\nよく 考えてくれよ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a6ad8",
+    "size": 77,
+    "japanese": "優勝おめでとう!\nでも 試合中\nぼくのアドバイスは あまり\nきいてくれなかったね。",
+    "current": "優勝おめでとう!\nでも 試合中\nぼくのアドバイスは あまり\nきいてくれなかったね。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a6b28",
+    "size": 82,
+    "japanese": "その点はちょっと\nさみしいけれど ま 今回は\n素直に 教え子の優勝を\nよろこんでおくよ!",
+    "current": "その点はちょっと\nさみしいけれど ま 今回は\n素直に 教え子の優勝を\nよろこんでおくよ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a6c70",
+    "size": 79,
+    "japanese": "おめでとう!\nあんなに しょっちゅう\nふりこみながら 優勝とは\nいやー 大したもんだ!",
+    "current": "おめでとう!\nあんなに しょっちゅう\nふりこみながら 優勝とは\nいやー 大したもんだ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a6d10",
+    "size": 69,
+    "japanese": "あれだけ\nひとに お金を払って\nそれでも 優勝とは。\n先生も びっくりだ。",
+    "current": "あれだけ\nひとに お金を払って\nそれでも 優勝とは。\n先生も びっくりだ。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a6d90",
+    "size": 74,
+    "japanese": "優勝おめでとう!\n株でもうけて勝つ!\nまさに いたストの王道。\nいうことナシだ!",
+    "current": "優勝おめでとう!\n株でもうけて勝つ!\nまさに いたストの王道。\nいうことナシだ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a6e38",
+    "size": 79,
+    "japanese": "うれしい優勝だな。\nなんといっても\nこの最大いただき額!\nなかなか やるじゃないか!",
+    "current": "うれしい優勝だな。\nなんといっても\nこの最大いただき額!\nなかなか やるじゃないか!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a6ed8",
+    "size": 65,
+    "japanese": "優勝おめでとう!\nそれに 今回は\nすごく立派なお店を\nたててくれたね!",
+    "current": "優勝おめでとう!\nそれに 今回は\nすごく立派なお店を\nたててくれたね!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a6f60",
+    "size": 71,
+    "japanese": "優勝おめでとう!\n短期決戦の 展開でも\nきちんと 勝てて\nけっこう けっこう!",
+    "current": "優勝おめでとう!\n短期決戦の 展開でも\nきちんと 勝てて\nけっこう けっこう!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a6ff0",
+    "size": 71,
+    "japanese": "優勝おめでとう!\nしんぼうづよさが\n必要な 長期戦で\nこの成績は 立派だね。",
+    "current": "優勝おめでとう!\nしんぼうづよさが\n必要な 長期戦で\nこの成績は 立派だね。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a7088",
+    "size": 78,
+    "japanese": "優勝も 決して\n夢ではない 展開だったけど\nもうひといきだったね。\nおしかったな。",
+    "current": "優勝も 決して\n夢ではない 展開だったけど\nもうひといきだったね。\nおしかったな。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a70d8",
+    "size": 83,
+    "japanese": "つぎは 先生の言うことを\nもうちょっと 素直に\nきいてくれれば\n優勝できるんじゃないか?",
+    "current": "つぎは 先生の言うことを\nもうちょっと 素直に\nきいてくれれば\n優勝できるんじゃないか?"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a7520",
+    "size": 59,
+    "japanese": "そのあたりを 十分\nきもに めいじて\nつぎこそ 優勝をめざそう!",
+    "current": "そのあたりを 十分\nきもに めいじて\nつぎこそ 優勝をめざそう!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3a82f8",
+    "size": 57,
+    "japanese": "このマップでは\n船を うまく つかえば\n優勝も近くなるはず。",
+    "current": "このマップでは\n船を うまく つかえば\n優勝も近くなるはず。"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3ab5d8",
+    "size": 47,
+    "japanese": "このまま 銀行に\nたどりつければ\nキミの優勝だぞ!",
+    "current": "このまま 銀行に\nたどりつければ\nキミの優勝だぞ!"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3b9440",
+    "size": 5,
+    "japanese": "優勝",
+    "current": "優勝"
+  },
+  {
+    "needle": "優勝",
+    "offset": "0x3b99f0",
+    "size": 5,
+    "japanese": "優勝",
+    "current": "優勝"
+  },
+  {
+    "needle": "総合",
+    "offset": "0x3583df",
+    "size": 780,
+    "japanese": "\n落札価格料金所税務署遊園地不動産屋育成家庭教師説明記録消学習個人勝点総合順位最大額回数破店優試名前授業高平均姉兄好感度株資設定売競買交換改築表全員一覧周目計枚物件標示中断取引簿別選出身仕事趣味率強才左半球転様書上漢字無注今後要見択西寺霧崎薪経済怪獣井四文伏次郎吉作年英国嬢日本腕持外科医裏流占星術元仮面激情隠舞台役者棺蘇古代初飛級制採用天変開発三弟間言葉話女子生狂活校正義自称集会板田調布横浜京都下伊賀里幌福岡種島研究橋新潟近海花乗馬切刻踊能収聞食諜報演歌王姫宇宙行士木入力主色気品時齢歳月式太二八春番長心神父牛丼帝将軍号昔親百円九先団分超社系休戦独対相手決争倍有利空負量立替脱五万使差画値建段支払残指述足来拒否寿司洞窟諸摩楼底市列陸雲浮原始呪館右絶増解銀通過止証券特移場階層船類何願儲基専以必容詰込口素浪商繁盛内安就世界現在常予期具考誤等起了承条部菓騒漫逆伝真夜俺呼続御免征服",
+    "current": "\n落札価格料金所税務署遊園地不動産屋育成家庭教師説明記録消学習個人勝点総合順位最大額回数破店優試名前授業高平均姉兄好感度株資設定売競買交換改築表全員一覧周目計枚物件標示中断取引簿別選出身仕事趣味率強才左半球転様書上漢字無注今後要見択西寺霧崎薪経済怪獣井四文伏次郎吉作年英国嬢日本腕持外科医裏流占星術元仮面激情隠舞台役者棺蘇古代初飛級制採用天変開発三弟間言葉話女子生狂活校正義自称集会板田調布横浜京都下伊賀里幌福岡種島研究橋新潟近海花乗馬切刻踊能収聞食諜報演歌王姫宇宙行士木入力主色気品時齢歳月式太二八春番長心神父牛丼帝将軍号昔親百円九先団分超社系休戦独対相手決争倍有利空負量立替脱五万使差画値建段支払残指述足来拒否寿司洞窟諸摩楼底市列陸雲浮原始呪館右絶増解銀通過止証券特移場階層船類何願儲基専以必容詰込口素浪商繁盛内安就世界現在常予期具考誤等起了承条部菓騒漫逆伝真夜俺呼続御免征服"
+  },
+  {
+    "needle": "総合",
+    "offset": "0x3602d0",
+    "size": 38,
+    "japanese": "総合順位　　　　ストリートごとの順位\n",
+    "current": "Rank    Map rank\n"
+  },
+  {
+    "needle": "総合",
+    "offset": "0x3638b0",
+    "size": 15,
+    "japanese": "総合順位 %2d位",
+    "current": "Rank %2d"
+  },
+  {
+    "needle": "総合",
+    "offset": "0x363998",
+    "size": 9,
+    "japanese": "総合順位",
+    "current": "Rank"
+  },
+  {
+    "needle": "総合",
+    "offset": "0x363aa8",
+    "size": 12,
+    "japanese": "総合:  --位",
+    "current": "総合:  --位"
+  },
+  {
+    "needle": "総合",
+    "offset": "0x363b38",
+    "size": 13,
+    "japanese": "総合:  %2d位",
+    "current": "総合:  %2d位"
+  },
+  {
+    "needle": "試合数",
+    "offset": "0x363ab8",
+    "size": 12,
+    "japanese": "試合数:----",
+    "current": "試合数:----"
+  },
+  {
+    "needle": "試合数",
+    "offset": "0x363b48",
+    "size": 11,
+    "japanese": "試合数:%4d",
+    "current": "試合数:%4d"
+  },
+  {
+    "needle": "試合数",
+    "offset": "0x3b99e8",
+    "size": 7,
+    "japanese": "試合数",
+    "current": "Games"
+  },
+  {
+    "needle": "勝ち点",
+    "offset": "0x3638a0",
+    "size": 13,
+    "japanese": "勝ち点 %d.%d",
+    "current": "Points %d.%d"
+  },
+  {
+    "needle": "勝ち点",
+    "offset": "0x363ac8",
+    "size": 12,
+    "japanese": "勝ち点: ---",
+    "current": "勝ち点: ---"
+  },
+  {
+    "needle": "勝ち点",
+    "offset": "0x363b58",
+    "size": 14,
+    "japanese": "勝ち点: %d.%d",
+    "current": "勝ち点: %d.%d"
+  },
+  {
+    "needle": "勝ち点",
+    "offset": "0x363bf0",
+    "size": 15,
+    "japanese": "勝ち点 %d.%d点",
+    "current": "勝ち点 %d.%d点"
+  },
+  {
+    "needle": "勝ち点",
+    "offset": "0x3b9a58",
+    "size": 7,
+    "japanese": "勝ち点",
+    "current": "勝ち点"
+  },
+  {
+    "needle": "参加",
+    "offset": "0x35c240",
+    "size": 49,
+    "japanese": "ラッキーパネルへ ようこそ!\nここは 全員参加です。",
+    "current": "ラッキーパネルへ ようこそ!\nここは 全員参加です。"
+  },
+  {
+    "needle": "参加",
+    "offset": "0x35d6d0",
+    "size": 49,
+    "japanese": "わくわくロープへ ようこそ!\nここは 全員参加です。",
+    "current": "わくわくロープへ ようこそ!\nここは 全員参加です。"
+  },
+  {
+    "needle": "参加",
+    "offset": "0x35ff20",
+    "size": 33,
+    "japanese": "どのトーナメントに 参加しますか?",
+    "current": "Pick tournament."
+  },
+  {
+    "needle": "参加",
+    "offset": "0x361988",
+    "size": 31,
+    "japanese": "%sさんの\n参加が 決まりました。",
+    "current": "%s has\njoined the game."
+  },
+  {
+    "needle": "参加",
+    "offset": "0x373cc0",
+    "size": 38,
+    "japanese": "A1B0参加する以上は\nトップを めざすわ!",
+    "current": "A1B0参加する以上は\nトップを めざすわ!"
+  },
+  {
+    "needle": "参加",
+    "offset": "0x3a86c0",
+    "size": 37,
+    "japanese": "ぼくも たまには\n自分で参加したいな。",
+    "current": "ぼくも たまには\n自分で参加したいな。"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34d7e0",
+    "size": 17,
+    "japanese": "%sさんのばんです",
+    "current": "%s's turn"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34d840",
+    "size": 21,
+    "japanese": "%sさん サラリーです!",
+    "current": "%sさん サラリーです!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34db80",
+    "size": 51,
+    "japanese": "%sさんは\n所持金不足のため\n株を買う事が出来ません。",
+    "current": "%sさんは\n所持金不足のため\n株を買う事が出来ません。"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34dcd0",
+    "size": 52,
+    "japanese": "交換にだした\nお店の値段は\n%sさん\n%dG\n%sさん\n%dGです",
+    "current": "交換にだした\nお店の値段は\n%sさん\n%dG\n%sさん\n%dGです"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34dd40",
+    "size": 33,
+    "japanese": "%sさんはさらに\n条件を付けますか?",
+    "current": "%sさんはさらに\n条件を付けますか?"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34dd68",
+    "size": 26,
+    "japanese": "%sさんの\nもらいたい金額は",
+    "current": "%sさんの\nもらいたい金額は"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34dd88",
+    "size": 22,
+    "japanese": "%sさんの\nはらう金額は",
+    "current": "%sさんの\nはらう金額は"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34ddc8",
+    "size": 31,
+    "japanese": "%sさんは\nこの条件でいいですか?",
+    "current": "%sさんは\nこの条件でいいですか?"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34de78",
+    "size": 10,
+    "japanese": "%s\n%sさん",
+    "current": "%s\n%sさん"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34df28",
+    "size": 13,
+    "japanese": "%sさん\n%dGで",
+    "current": "%sさん\n%dGで"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34e018",
+    "size": 38,
+    "japanese": "%sさんは○ボタンで10G\nL1ボタンで100G\n",
+    "current": "%sさんは○ボタンで10G\nL1ボタンで100G\n"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34e050",
+    "size": 20,
+    "japanese": "%sさんは%sボタンで\n",
+    "current": "%sさんは%sボタンで\n"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34e080",
+    "size": 42,
+    "japanese": "それでは\n%sさんの お店の\n競売をはじめます",
+    "current": "それでは\n%sさんの お店の\n競売をはじめます"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34e0c8",
+    "size": 25,
+    "japanese": "%sさんが\n%dGで買いました",
+    "current": "%sさんが\n%dGで買いました"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x34e308",
+    "size": 31,
+    "japanese": "%sさんは\n目標金額をこえました!",
+    "current": "%sさんは\n目標金額をこえました!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35b4c8",
+    "size": 14,
+    "japanese": "\n%sさんは%d株",
+    "current": "\n%sさんは%d株"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35b4e8",
+    "size": 14,
+    "japanese": "%sさんは%d株\n",
+    "current": "%sさんは%d株\n"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35c5e8",
+    "size": 16,
+    "japanese": "%sさんの 番よ。",
+    "current": "%sさんの 番よ。"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35c720",
+    "size": 32,
+    "japanese": "やった! %sさん\n1G もらえるわよ!",
+    "current": "やった! %sさん\n1G もらえるわよ!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35c760",
+    "size": 33,
+    "japanese": "%sさん すごい!\n50G かくとくだわ!",
+    "current": "%sさん すごい!\n50G かくとくだわ!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35c7b8",
+    "size": 50,
+    "japanese": "%sさん おめでと～。\nいちばん高い株を10枚かくとく!",
+    "current": "%sさん おめでと～。\nいちばん高い株を10枚かくとく!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35c858",
+    "size": 47,
+    "japanese": "あっら～ん。%sさんは\nつぎの番まで 休日で～す。",
+    "current": "あっら～ん。%sさんは\nつぎの番まで 休日で～す。"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35ce18",
+    "size": 45,
+    "japanese": "はい! %sさんの合計は\n%dポイントになりました!",
+    "current": "はい! %sさんの合計は\n%dポイントになりました!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35d390",
+    "size": 47,
+    "japanese": "おめでとう ございます!\n%sさん\nみごと 正解です!",
+    "current": "おめでとう ございます!\n%sさん\nみごと 正解です!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35d408",
+    "size": 54,
+    "japanese": "おめでとう ございます!\n%sさん\n最高賞金 かくとくです!!",
+    "current": "おめでとう ございます!\n%sさん\n最高賞金 かくとくです!!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35d6b0",
+    "size": 32,
+    "japanese": "%sさん\nおめでとう ございました!",
+    "current": "%sさん\nおめでとう ございました!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35d850",
+    "size": 46,
+    "japanese": "はい %sさんの番です。\nどのロープを引きますか?",
+    "current": "はい %sさんの番です。\nどのロープを引きますか?"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35da28",
+    "size": 28,
+    "japanese": "%sさん やった!\n10G あたり～",
+    "current": "%sさん やった!\n10G あたり～"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35da48",
+    "size": 37,
+    "japanese": "あっ 100Gですよ!\n%sさん おめでと～。",
+    "current": "あっ 100Gですよ!\n%sさん おめでと～。"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x35dc10",
+    "size": 26,
+    "japanese": "%sさんの えっち～!\nうふ。",
+    "current": "%sさんの えっち～!\nうふ。"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x360a80",
+    "size": 27,
+    "japanese": "あら %sさんは\nやめるのね。",
+    "current": "あら %sさんは\nやめるのね。"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x360aa0",
+    "size": 64,
+    "japanese": "%sさんが\nプレイ中の データや\n個人データも消えますが\nいいですか?",
+    "current": "%sさんが\nプレイ中の データや\n個人データも消えますが\nいいですか?"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x360b98",
+    "size": 30,
+    "japanese": "%sさんの\nデータを消しました。",
+    "current": "Deleted\n%s's data."
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x360c80",
+    "size": 46,
+    "japanese": "まだ %sさんは\n育成キャラを\nつくっていません。",
+    "current": "%s has not\ncreated a\ntrainee yet."
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x360d00",
+    "size": 72,
+    "japanese": "%sさんが うつすことは\nできません。\n自分の 育成キャラを\n選んでください。",
+    "current": "%s cannot\ntransfer that.\nChoose your\nown trainee."
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x360ed0",
+    "size": 46,
+    "japanese": "%sさんは\nすでに 会員名簿に\n登録されています。",
+    "current": "%s is\nalready on the\nplayer list."
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x360f40",
+    "size": 69,
+    "japanese": "%sを %sさんに\nあげます。\nこれからは %sさんが\nこのキャラの 主人です。",
+    "current": "Give %s to %s.\nNow %s owns\nthis trainee."
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x360f88",
+    "size": 42,
+    "japanese": "%sさんは\n上書きされますが\nよろしいですか?",
+    "current": "Overwrite\n%s's data?"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x360fb8",
+    "size": 44,
+    "japanese": "%sさんは\n育成キャラを つくって\nいませんよ。",
+    "current": "%s has not\ncreated a\ntrainee yet."
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x360fe8",
+    "size": 46,
+    "japanese": "すでに %sさんは\n育成キャラを つくっています。",
+    "current": "%s already\nhas a trainee."
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x3618b8",
+    "size": 11,
+    "japanese": "%sさんね。",
+    "current": "%s, OK."
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x361988",
+    "size": 31,
+    "japanese": "%sさんの\n参加が 決まりました。",
+    "current": "%s has\njoined the game."
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x361b50",
+    "size": 39,
+    "japanese": "%sさん\n今日は どのキャラで\n遊びますか?",
+    "current": "%s, which\ncharacter today?"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x3622a0",
+    "size": 35,
+    "japanese": "では %sさん\nがんばってくださいね。",
+    "current": "では %sさん\nがんばってくださいね。"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x362760",
+    "size": 54,
+    "japanese": "%sさんには\nマハラジャバッジ プラチナ\nを 差しあげます!",
+    "current": "%sさんには\nマハラジャバッジ プラチナ\nを 差しあげます!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x362798",
+    "size": 48,
+    "japanese": "%sさんには\nマハラジャバッジ 金\nを 差しあげます!",
+    "current": "%sさんには\nマハラジャバッジ 金\nを 差しあげます!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x3627c8",
+    "size": 48,
+    "japanese": "%sさんには\nマハラジャバッジ 銀\nを 差しあげます!",
+    "current": "%sさんには\nマハラジャバッジ 銀\nを 差しあげます!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x3627f8",
+    "size": 48,
+    "japanese": "%sさんには\nマハラジャバッジ 銅\nを 差しあげます!",
+    "current": "%sさんには\nマハラジャバッジ 銅\nを 差しあげます!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x3628d8",
+    "size": 69,
+    "japanese": "やりましたね %sさん。\nこれで クエストモードを\nすべて クリアしました!",
+    "current": "やりましたね %sさん。\nこれで クエストモードを\nすべて クリアしました!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x3629f8",
+    "size": 53,
+    "japanese": "なんと!\n%sさんの サイコロが\n銀色に 輝きはじめました!",
+    "current": "なんと!\n%sさんの サイコロが\n銀色に 輝きはじめました!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x362a68",
+    "size": 53,
+    "japanese": "なんと!\n%sさんの サイコロが\n金色に 輝きはじめました!",
+    "current": "なんと!\n%sさんの サイコロが\n金色に 輝きはじめました!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x362d20",
+    "size": 30,
+    "japanese": "%sさんの\n強さが かわりました!",
+    "current": "%sさんの\n強さが かわりました!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x3638e8",
+    "size": 29,
+    "japanese": "%sさんの\nデータを消しますか?",
+    "current": "Delete\n%s's data?"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x363908",
+    "size": 28,
+    "japanese": "%sさんの\nデータをけしました",
+    "current": "Deleted\n%s's data."
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x36c330",
+    "size": 34,
+    "japanese": "リリーフの\n%sさんと\nかわりますか?",
+    "current": "リリーフの\n%sさんと\nかわりますか?"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x36c368",
+    "size": 27,
+    "japanese": "%sさんは\n%sを\nもらいました",
+    "current": "%sさんは\n%sを\nもらいました"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x36c3b0",
+    "size": 56,
+    "japanese": "%sさんは\n無料招待券を 使ったので\nしはらいが ありません!",
+    "current": "%sさんは\n無料招待券を 使ったので\nしはらいが ありません!"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x36c5f0",
+    "size": 50,
+    "japanese": "このお店は %sさんに\n予約されているので\n買えません",
+    "current": "このお店は %sさんに\n予約されているので\n買えません"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x36c6a0",
+    "size": 15,
+    "japanese": "%sさん\n配当%dG",
+    "current": "%sさん\n配当%dG"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x3b8950",
+    "size": 7,
+    "japanese": "%sさん",
+    "current": "%sさん"
+  },
+  {
+    "needle": "%sさん",
+    "offset": "0x3b9ad0",
+    "size": 7,
+    "japanese": "%sさん",
+    "current": "%sさん"
+  }
+]
